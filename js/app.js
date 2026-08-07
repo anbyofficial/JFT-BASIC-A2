@@ -1,333 +1,176 @@
-// Jika belum login, tendang balik ke URL repository login
+// ==========================================
+// 1. INSIALISASI & PROTEKSI FIREBASE
+// ==========================================
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+
+// Konfigurasi Firebase Anda (SAMA PERSIS seperti di script.js)
+const firebaseConfig = {
+    apiKey: "AIzaSyABp1sNwc8ON5LhWvlDFeQLXWztz-mD9G0",
+    authDomain: "jft-basic-a2.firebaseapp.com",
+    projectId: "jft-basic-a2",
+    storageBucket: "jft-basic-a2.firebasestorage.app",
+    messagingSenderId: "856700351880",
+    appId: "1:856700351880:web:a1a126470d664cb453f63d"
+};
+
+const app = initializeApp(firebaseConfig);
+const auth = getAuth();
+
+// Proteksi: Jika BELUM login, tendang balik ke URL repository login
 onAuthStateChanged(auth, (user) => {
     if (!user) {
         window.location.href = "https://anbyofficial.github.io/JFT-BASIC-A2-TES/";
     }
 });
 
+// ==========================================
+// 2. NAVIGASI HALAMAN & EVENT BUTTONS
+// ==========================================
+const startBtn = document.getElementById("startBtn");
+const pages = document.querySelectorAll(".page");
 
-const startBtn = 
-document.getElementById("startBtn");
-
-
-const pages =
-document.querySelectorAll(".page");
-
-
-
-function showPage(id){
-
-
-    pages.forEach(page=>{
-
-        page.classList.remove(
-            "active"
-        );
-
+function showPage(id) {
+    pages.forEach(page => {
+        page.classList.remove("active");
     });
 
-
-
-    let target =
-    document.getElementById(
-        id
-    );
-
-
-
-    if(target){
-
-        target.classList.add(
-            "active"
-        );
-
+    let target = document.getElementById(id);
+    if (target) {
+        target.classList.add("active");
     }
-
-
 }
 
-
-
-
-
-if(startBtn){
-
-    startBtn.onclick=function(){
-
+if (startBtn) {
+    startBtn.onclick = function () {
         showPage("quiz");
-
-        loadQuestions();
-
+        if (typeof loadQuestions === "function") {
+            loadQuestions();
+        }
     };
-
 }
 
-const historyBtn =
-document.getElementById(
-"historyBtn"
-);
-
-
-
-if(historyBtn){
-
-
-historyBtn.onclick=function(){
-
-
-    showPage(
-        "history"
-    );
-
-
-    showHistory();
-
-
-};
-
-
+const historyBtn = document.getElementById("historyBtn");
+if (historyBtn) {
+    historyBtn.onclick = function () {
+        showPage("history");
+        if (typeof showHistory === "function") {
+            showHistory();
+        }
+    };
 }
+
 // ==============================
 // KEMBALI HOME
 // ==============================
-
-
-const backHomeBtn =
-document.getElementById(
-    "backHomeBtn"
-);
-
-
-if(backHomeBtn){
-
-
-    backHomeBtn.onclick=function(){
-
-
-        showPage(
-            "home"
-        );
-
-
+const backHomeBtn = document.getElementById("backHomeBtn");
+if (backHomeBtn) {
+    backHomeBtn.onclick = function () {
+        showPage("home");
     };
-
-
 }
 
-
-
-
-const resultHomeBtn =
-document.getElementById(
-    "resultHomeBtn"
-);
-
-
-if(resultHomeBtn){
-
-
-    resultHomeBtn.onclick=function(){
-
-
-        showPage(
-            "home"
-        );
-
-
+const resultHomeBtn = document.getElementById("resultHomeBtn");
+if (resultHomeBtn) {
+    resultHomeBtn.onclick = function () {
+        showPage("home");
     };
-
-
 }
-loadDashboard();
 
-function loadDashboard(){
+// ==============================
+// DASHBOARD & STATISTIK
+// ==============================
+function loadDashboard() {
+    if (typeof getHistory !== "function") return;
 
     let history = getHistory();
-
-
-
-    document
-    .getElementById("totalExam")
-    .innerHTML =
-    history.length;
-
-
-
-    if(history.length===0){
-
-        return;
-
+    const totalExamEl = document.getElementById("totalExam");
+    
+    if (totalExamEl) {
+        totalExamEl.innerHTML = history.length;
     }
 
-
+    if (history.length === 0) {
+        return;
+    }
 
     let best = 0;
-
     let total = 0;
 
-
-
-    history.forEach(item=>{
-
+    history.forEach(item => {
         total += item.score;
-
-        if(item.score > best){
-
+        if (item.score > best) {
             best = item.score;
-
         }
-
     });
 
+    const bestScoreEl = document.getElementById("bestScore");
+    const averageScoreEl = document.getElementById("averageScore");
 
-
-    document
-    .getElementById("bestScore")
-    .innerHTML =
-    best;
-
-
-
-    document
-    .getElementById("averageScore")
-    .innerHTML =
-    (
-        total /
-        history.length
-    ).toFixed(1);
-
+    if (bestScoreEl) bestScoreEl.innerHTML = best;
+    if (averageScoreEl) averageScoreEl.innerHTML = (total / history.length).toFixed(1);
 }
+
+// Panggil dashboard awal
+loadDashboard();
+
 // ==============================
 // DARK MODE
 // ==============================
+const themeBtn = document.getElementById("themeBtn");
 
-const themeBtn =
-document.getElementById(
-    "themeBtn"
-);
-
-
-
-if(themeBtn){
-
+if (themeBtn) {
     // cek tema yang tersimpan
-    let theme =
-    localStorage.getItem("theme");
+    let theme = localStorage.getItem("theme");
 
-
-    if(theme==="dark"){
-
-        document.body.classList.add(
-            "dark"
-        );
-
-        themeBtn.innerHTML =
-        "☀ Light Mode";
-
+    if (theme === "dark") {
+        document.body.classList.add("dark");
+        themeBtn.innerHTML = "☀ Light Mode";
     }
 
+    themeBtn.onclick = function () {
+        document.body.classList.toggle("dark");
 
-
-    themeBtn.onclick=function(){
-
-
-        document.body.classList.toggle(
-            "dark"
-        );
-
-
-
-        if(
-            document.body.classList.contains("dark")
-        ){
-
-            localStorage.setItem(
-                "theme",
-                "dark"
-            );
-
-            themeBtn.innerHTML =
-            "☀ Light Mode";
-
+        if (document.body.classList.contains("dark")) {
+            localStorage.setItem("theme", "dark");
+            themeBtn.innerHTML = "☀ Light Mode";
+        } else {
+            localStorage.setItem("theme", "light");
+            themeBtn.innerHTML = "🌙 Dark Mode";
         }
-        else{
-
-            localStorage.setItem(
-                "theme",
-                "light"
-            );
-
-            themeBtn.innerHTML =
-            "🌙 Dark Mode";
-
-        }
-
     };
-
 }
+
 // ==========================
 // HAPUS HISTORY
 // ==========================
+let deleteHistoryBtn = document.getElementById("deleteHistoryBtn");
 
+if (deleteHistoryBtn) {
+    deleteHistoryBtn.onclick = function () {
+        let confirmDelete = confirm("Hapus semua riwayat ujian?");
 
-let deleteHistoryBtn =
-document.getElementById(
-    "deleteHistoryBtn"
-);
-
-
-
-if(deleteHistoryBtn){
-
-
-    deleteHistoryBtn.onclick=function(){
-
-
-        let confirmDelete =
-        confirm(
-            "Hapus semua riwayat ujian?"
-        );
-
-
-
-        if(confirmDelete){
-
-
-            clearHistory();
-
-
-            showHistory();
-
-
+        if (confirmDelete) {
+            if (typeof clearHistory === "function") clearHistory();
+            if (typeof showHistory === "function") showHistory();
             loadDashboard();
-
-
         }
-
-
     };
-
-
 }
-// Memastikan data Bank Soal langsung terhitung otomatis begitu halaman terbuka
-document.addEventListener("DOMContentLoaded", function () {
-    // Sesuaikan 'bankSoal' dengan ID HTML tempat angka Bank Soal kamu ditampilkan
-    let elementBankSoal = document.getElementById("bankSoal") || document.getElementById("totalBankSoal");
-    
-    // Cek apakah array soal (misal: 'questions' atau 'bankSoalArray') sudah terdefinisi
-    if (elementBankSoal && typeof questions !== "undefined") {
-        elementBankSoal.innerText = questions.length;
-    }
-});
-document.addEventListener("DOMContentLoaded", function () {
-    let bankEl = document.getElementById("bankQuestion");
 
-    // Menghitung jumlah soal dari array 'questions' (atau sesuaikan dengan nama variabel soal di quiz.js kamu)
+// ==========================================
+// 3. LOGIKA LOAD AWAL (DOM CONTENT LOADED)
+// ==========================================
+document.addEventListener("DOMContentLoaded", function () {
+    // 1. Hitung jumlah Bank Soal otomatis
+    let bankEl = document.getElementById("bankQuestion") || document.getElementById("bankSoal") || document.getElementById("totalBankSoal");
+
     if (bankEl && typeof questions !== "undefined") {
         bankEl.innerText = questions.length;
     }
-});
-// Jalankan pembaharuan dashboard otomatis saat pertama kali dibuka
-document.addEventListener("DOMContentLoaded", function () {
-    updateDashboardData();
+
+    // 2. Update data dashboard jika ada fungsinya
+    if (typeof updateDashboardData === "function") {
+        updateDashboardData();
+    }
 });
