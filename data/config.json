@@ -1,0 +1,8 @@
+{
+    "examName": "JFT BASIC A2",
+    "questionPerExam": 50,
+    "timeMinutes": 60,
+    "randomQuestion": true,
+    "randomOption": true,
+    "passScore": 75
+}

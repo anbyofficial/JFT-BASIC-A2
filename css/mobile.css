@@ -1,0 +1,154 @@
+@media(max-width:600px){
+
+
+    /* JUDUL SOAL */
+    .question-card h2{
+
+        font-size:18px;
+        line-height:1.6;
+
+        padding:10px;
+
+    }
+
+
+
+    /* KOTAK SOAL */
+    .question-card{
+
+        padding:15px;
+
+        margin:10px;
+
+    }
+
+
+
+    /* PILIHAN JAWABAN */
+    .option{
+
+        width:100%;
+
+        min-height:50px;
+
+        margin-bottom:10px;
+
+        font-size:16px;
+
+        text-align:left;
+
+        padding:12px;
+
+    }
+
+
+
+    /* HEADER UJIAN */
+    .quiz-header{
+
+        flex-direction:column;
+
+        gap:10px;
+
+        text-align:center;
+
+    }
+
+
+
+    .exam-title{
+
+        font-size:18px;
+
+    }
+
+
+
+    .timer{
+
+        font-size:16px;
+
+        padding:8px 15px;
+
+    }
+
+
+
+
+    /* PROGRESS */
+    .progress-text{
+
+        font-size:14px;
+
+    }
+
+
+
+    .progress-box{
+
+        margin:10px;
+
+    }
+
+
+
+
+    /* NOMOR SOAL */
+    .number-panel{
+
+        display:flex;
+
+        overflow-x:auto;
+
+        gap:8px;
+
+        padding:10px;
+
+        white-space:nowrap;
+
+    }
+
+
+
+    .number{
+
+        min-width:40px;
+
+        height:40px;
+
+        flex-shrink:0;
+
+    }
+
+
+
+
+
+    /* TOMBOL NAVIGASI */
+    .navigation{
+
+        flex-direction:column-reverse;
+
+        gap:10px;
+
+        padding:10px;
+
+    }
+
+
+
+
+    .btn-primary,
+    .btn-secondary{
+
+        width:100%;
+
+        min-height:50px;
+
+        font-size:16px;
+
+    }
+
+
+
+}

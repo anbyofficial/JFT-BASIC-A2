@@ -1,0 +1,1 @@
+© 2026 By Anby Alfarizy. All Rights Reserved.

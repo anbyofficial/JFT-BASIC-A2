@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Tambah Soal</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; background: #f4f6f8; max-width: 600px; margin: auto; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; font-weight: bold; margin-bottom: 5px; }
+        input, select, textarea { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        button { background: #16a34a; color: white; border: none; padding: 12px; width: 100%; border-radius: 4px; font-weight: bold; cursor: pointer; }
+        button:disabled { background: #9ca3af; }
+        #status { margin-top: 15px; padding: 10px; border-radius: 4px; display: none; font-weight: bold; }
+        .success { background: #dcfce7; color: #15803d; }
+        .error { background: #fee2e2; color: #b91c1c; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>➕ Tambah Soal Baru (GitHub API)</h2>
+    
+    <!-- PENGATURAN REPO -->
+    <div class="form-group">
+        <label>GitHub Username Owner:</label>
+        <input type="text" id="githubOwner" placeholder="Contoh: username-kamu">
+    </div>
+    <div class="form-group">
+        <label>Nama Repository:</label>
+        <input type="text" id="githubRepo" placeholder="Contoh: jft-quiz-app">
+    </div>
+    <div class="form-group">
+        <label>GitHub Personal Access Token (ghp_...):</label>
+        <input type="password" id="githubToken" placeholder="Paste Token ghp_ di sini">
+    </div>
+
+    <hr>
+
+    <!-- FORM SOAL -->
+    <div class="form-group">
+        <label>Tipe / Kategori Soal:</label>
+        <select id="questionType">
+            <option value="choukai">🎧 Choukai (Listening)</option>
+            <option value="reading">📖 Reading</option>
+            <option value="vocabulary">🔤 Vocabulary</option>
+            <option value="grammar">📝 Grammar</option>
+            <option value="conversation">💬 Conversation</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Teks Bacaan / Passage (Opsional):</label>
+        <textarea id="passage" rows="3" placeholder="Isi jika ada percakapan / wacana panjang..."></textarea>
+    </div>
+
+    <div class="form-group">
+        <label>Pertanyaan / Soal:</label>
+        <textarea id="questionText" rows="2" required placeholder="Contoh: 今 何時ですか。"></textarea>
+    </div>
+
+    <!-- UPLOAD MEDIA -->
+    <div class="form-group">
+        <label>Upload Audio (.m4a / .mp3) - Khusus Choukai:</label>
+        <input type="file" id="audioFile" accept="audio/*">
+    </div>
+
+    <div class="form-group">
+        <label>Upload Gambar (.png / .jpg) - Opsional:</label>
+        <input type="file" id="imageFile" accept="image/*">
+    </div>
+
+    <!-- PILIHAN JAWABAN -->
+    <div class="form-group"><label>Opsi A:</label><input type="text" id="optA" required></div>
+    <div class="form-group"><label>Opsi B:</label><input type="text" id="optB" required></div>
+    <div class="form-group"><label>Opsi C:</label><input type="text" id="optC" required></div>
+    <div class="form-group"><label>Opsi D:</label><input type="text" id="optD" required></div>
+
+    <div class="form-group">
+        <label>Kunci Jawaban Benar:</label>
+        <select id="correctAnswer">
+            <option value="a">A</option>
+            <option value="b">B</option>
+            <option value="c">C</option>
+            <option value="d">D</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Penjelasan (Explanation):</label>
+        <textarea id="explanation" rows="2" placeholder="Penjelasan singkat jawaban..."></textarea>
+    </div>
+
+    <button id="submitBtn" onclick="submitNewQuestion()">🚀 Upload Soal ke GitHub</button>
+    <div id="status"></div>
+</div>
+
+<script src="js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- BARIS INI WAJIB ADA agar layar HP tidak auto-zoom -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <title>JFT Basic A2</title>
+
+    <!-- Baris ini menghapus/mencegah pemuatan ikon -->
+    <link rel="icon" href="data:,">
+
+    <!-- Jalur relatif lokal (aman untuk GitHub Pages) -->
+<script src="./js/confetti.browser.min.js"></script>
+
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/mobile.css">
+<link rel="stylesheet" href="css/animation.css">
+
+</head>
+
+<body>
+    <!-- TEKS BERJALAN PALING ATAS (SEBELUM ELEMEN LAINNYA) -->
+    <div class="top-marquee">
+        <span>PERHATIAN!!! Ujian Ini Hanya Simulasi/Latihan Gunakan Logika Anda Dan Jangan Sampai Terkecoh/Tertipu © 2026 By Anby Alfarizy. All Rights Reserved. • Simulasi Ujian JFT Basic A2</span>
+    </div>
+
+    <!-- Kode website kamu lainnya ada di bawah sini... -->
+
+<body>
+
+    <body>
+
+
+<div class="app">
+
+    <section id="history" class="page">
+
+
+        <div class="card">
+        
+        
+        <h2>
+        Riwayat Ujian
+        </h2>
+        
+                <button
+        id="deleteHistoryBtn"
+        class="btn-secondary">
+
+        🗑 Hapus Semua Riwayat
+
+        </button>
+                
+        <div id="historyList">
+        
+        Belum ada ujian
+        
+        </div>
+        
+        
+        
+        <button
+        id="backHomeBtn"
+        class="btn-secondary">
+        
+        ← Kembali ke Home
+        
+        </button>
+        
+        
+        </div>
+        
+        
+        </section>
+
+<!-- HOME -->
+
+<section id="home" class="page active">
+
+
+<div class="card home-card">
+
+
+<div class="logo">
+🇯🇵
+</div>
+
+
+<h1>
+JFT BASIC A2
+</h1>
+
+
+<p class="subtitle">
+Simulasi Ujian Bahasa Jepang
+</p>
+
+<button
+id="themeBtn"
+class="btn-secondary">
+
+🌙 Dark Mode
+
+</button>
+
+
+<div class="info-box">
+
+    <div class="dashboard">
+
+        <div class="dashboard-item">
+    
+            <span>📚 Bank Soal</span>
+    
+            <b id="bankQuestion">
+                0
+            </b>
+    
+        </div>
+    
+        <div class="dashboard-item">
+    
+            <span>📝 Soal Ujian</span>
+    
+            <b>
+                50
+            </b>
+    
+        </div>
+    
+        <div class="dashboard-item">
+    
+            <span>⏱ Waktu</span>
+    
+            <b>
+                60 Menit
+            </b>
+    
+        </div>
+    
+        <div class="dashboard-item">
+    
+            <span>🎯 Nilai Lulus</span>
+    
+            <b>
+                75
+            </b>
+    
+        </div>
+    
+    </div>
+
+    <div class="dashboard">
+
+        <h3>
+        📊 Statistik
+        </h3>
+        
+        <div class="dashboard-item">
+        
+        <span>
+        Total Ujian
+        </span>
+        
+        <b id="totalExam">
+        0
+        </b>
+        
+        </div>
+        
+        <div class="dashboard-item">
+        
+        <span>
+        Nilai Tertinggi
+        </span>
+        
+        <b id="bestScore">
+        0
+        </b>
+        
+        </div>
+        
+        <div class="dashboard-item">
+        
+        <span>
+        Rata-rata
+        </span>
+        
+        <b id="averageScore">
+        0
+        </b>
+        
+        </div>
+        
+        </div>
+
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+            <!-- 1. 50 Soal -->
+            <div> 📚 50 Soal </div>
+        
+            <!-- 2. 60 Menit -->
+            <div> ⏱ 60 Menit </div>
+        
+            <!-- 3. Mobile Friendly -->
+            <div> 📱 Mobile Friendly </div>
+        </div>
+
+
+</div>
+
+
+<button 
+id="startBtn"
+class="btn-primary">
+
+MULAI UJIAN
+
+</button>
+
+<button
+id="historyBtn"
+class="btn-secondary">
+
+📊 Riwayat Nilai
+
+</button>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- QUIZ -->
+
+<section id="quiz" class="page">
+
+
+<div class="quiz-container">
+
+
+
+<div class="quiz-header">
+
+
+<div class="exam-title">
+🇯🇵 JFT BASIC A2
+</div>
+
+
+<div class="timer">
+
+⏱
+
+<span id="time">
+60:00
+</span>
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="progress-box">
+
+
+<div class="progress-text">
+
+Soal
+
+<span id="currentNumber">
+1
+</span>
+
+/
+
+<span id="totalNumber">
+0
+</span>
+
+
+</div>
+
+
+
+<div class="progress-bar">
+
+<div 
+id="progress"
+class="progress">
+
+</div>
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+<div class="question-card">
+
+    <div id="typeLabel" class="type-label"></div>
+
+    <div id="passage" class="passage"></div>
+
+    <!-- SISIPKAN BARIS GAMBAR DI SINI (DI ATAS QUESTIONTEXT) -->
+    <img id="questionImage" src="" alt="Gambar Soal" style="display: none;" />
+
+    <!-- AUDIO CHOKAI (Tambahkan baris ini) -->
+    <audio id="questionAudio" controls style="display: none; width: 100%; margin: 15px 0;"></audio>
+
+    <h2 id="questionText"></h2>
+
+    <div id="options" class="options"></div>
+
+</div>
+
+
+<div id="numberPanel" class="number-panel"></div>
+
+
+
+
+
+
+
+<div class="navigation">
+
+
+<button
+onclick="previousQuestion()"
+class="btn-secondary">
+
+← Sebelumnya
+
+</button>
+
+
+
+<button
+onclick="nextQuestion()"
+class="btn-primary">
+
+Selanjutnya →
+
+</button>
+
+<button
+onclick="finishExam()"
+class="btn-danger">
+
+Selesai Ujian
+
+</button>
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+<!-- RESULT -->
+<section id="result" class="page">
+    <div class="card">
+        <h2>Hasil Ujian</h2>
+
+        <div id="resultText">
+            Nilai akan muncul di sini
+        </div>
+
+        <button id="retryBtn" class="btn-primary">
+            🔄 Ulangi Ujian
+        </button>
+
+        <button id="resultHomeBtn" class="btn-secondary">
+            ← Kembali ke Home
+        </button>
+
+        <button id="reviewBtn" class="btn-primary">
+            Lihat Pembahasan Salah
+        </button>
+
+        <button id="backResultBtn" class="btn-secondary">
+            Kembali ke Hasil
+        </button>
+
+        <div id="reviewBox"></div>
+    </div>
+</section>
+
+
+
+
+</div>
+
+
+<!-- SweetAlert2 CSS & JS -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<footer class="copyright">
+    © 2026 By Anby Alfarizy. All Rights Reserved.
+</footer>
+
+<!-- File Pendukung -->
+<script src="js/random.js"></script>
+<script src="js/storage.js"></script>
+
+<!-- Logika & Data Ujian -->
+<script src="js/quiz.js"></script> 
+
+<!-- Logika Dashboard Utama (Dipanggil Paling Akhir) -->
+<script src="js/app.js"></script>
+
+</body>
+</html>

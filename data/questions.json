@@ -1,0 +1,6354 @@
+[
+  {
+    "id": 1,
+    "category": "grammar",
+    "question": "わたしは まいあさ ６じ（　）おきます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "が"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "に digunakan untuk menunjukkan waktu."
+  },
+  {
+    "id": 2,
+    "category": "vocabulary",
+    "question": "「先生」の よみかたは どれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "せんせい"
+      },
+      {
+        "id": "b",
+        "text": "せいせん"
+      },
+      {
+        "id": "c",
+        "text": "せんせ"
+      },
+      {
+        "id": "d",
+        "text": "せんしょう"
+      }
+    ],
+    "answer": "a",
+    "explanation": "先生 dibaca せんせい."
+  },
+  {
+    "id": 3,
+    "category": "grammar",
+    "question": "わたしは スーパー（　）パンを かいます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "で"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "が"
+      }
+    ],
+    "answer": "a",
+    "explanation": "で digunakan untuk tempat melakukan kegiatan."
+  },
+  {
+    "id": 4,
+    "category": "conversation",
+    "question": "A: おはようございます。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "おはようございます"
+      },
+      {
+        "id": "b",
+        "text": "さようなら"
+      },
+      {
+        "id": "c",
+        "text": "ありがとう"
+      },
+      {
+        "id": "d",
+        "text": "こんばんは"
+      }
+    ],
+    "answer": "a",
+    "explanation": "おはようございます digunakan pada pagi hari."
+  },
+  {
+    "id": 5,
+    "category": "reading",
+    "question": "「月曜日に 会社へ 行きます。」いつ 会社へ 行きますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "火曜日"
+      },
+      {
+        "id": "b",
+        "text": "月曜日"
+      },
+      {
+        "id": "c",
+        "text": "水曜日"
+      },
+      {
+        "id": "d",
+        "text": "金曜日"
+      }
+    ],
+    "answer": "b",
+    "explanation": "月曜日 berarti hari Senin."
+  },
+  {
+    "id": 6,
+    "category": "vocabulary",
+    "question": "「食べます」の いみは どれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "minum"
+      },
+      {
+        "id": "b",
+        "text": "makan"
+      },
+      {
+        "id": "c",
+        "text": "tidur"
+      },
+      {
+        "id": "d",
+        "text": "bekerja"
+      }
+    ],
+    "answer": "b",
+    "explanation": "食べます（たべます）berarti makan."
+  },
+  {
+    "id": 7,
+    "category": "grammar",
+    "question": "わたしは 日本語（　）べんきょうします。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "を digunakan untuk objek kegiatan."
+  },
+  {
+    "id": 8,
+    "category": "vocabulary",
+    "question": "「駅」は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "stasiun"
+      },
+      {
+        "id": "b",
+        "text": "rumah"
+      },
+      {
+        "id": "c",
+        "text": "sekolah"
+      },
+      {
+        "id": "d",
+        "text": "kantor"
+      }
+    ],
+    "answer": "a",
+    "explanation": "駅（えき）berarti stasiun."
+  },
+  {
+    "id": 9,
+    "category": "grammar",
+    "question": "きのう 友だち（　）映画を 見ました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "と"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "が"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "と digunakan untuk menunjukkan bersama seseorang."
+  },
+  {
+    "id": 10,
+    "category": "conversation",
+    "question": "A: ありがとうございます。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "どういたしまして"
+      },
+      {
+        "id": "b",
+        "text": "おはよう"
+      },
+      {
+        "id": "c",
+        "text": "こんばんは"
+      },
+      {
+        "id": "d",
+        "text": "さようなら"
+      }
+    ],
+    "answer": "a",
+    "explanation": "どういたしまして digunakan sebagai jawaban terima kasih."
+  },
+  {
+    "id": 11,
+    "category": "vocabulary",
+    "question": "「水」は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "air"
+      },
+      {
+        "id": "b",
+        "text": "api"
+      },
+      {
+        "id": "c",
+        "text": "tanah"
+      },
+      {
+        "id": "d",
+        "text": "angin"
+      }
+    ],
+    "answer": "a",
+    "explanation": "水（みず）berarti air."
+  },
+  {
+    "id": 12,
+    "category": "grammar",
+    "question": "毎日 ７時（　）起きます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "で"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "と"
+      }
+    ],
+    "answer": "c",
+    "explanation": "に digunakan untuk waktu tertentu."
+  },
+  {
+    "id": 13,
+    "category": "vocabulary",
+    "question": "「会社」の よみかたは どれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "かいしゃ"
+      },
+      {
+        "id": "b",
+        "text": "かしゃい"
+      },
+      {
+        "id": "c",
+        "text": "がいしゃ"
+      },
+      {
+        "id": "d",
+        "text": "しゃかい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "会社 dibaca かいしゃ."
+  },
+  {
+    "id": 14,
+    "category": "grammar",
+    "question": "ここ（　）写真を とっても いいですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "で"
+      },
+      {
+        "id": "c",
+        "text": "が"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "で menunjukkan tempat melakukan aktivitas."
+  },
+  {
+    "id": 15,
+    "category": "reading",
+    "question": "「スーパーは ９時から ８時までです。」スーパーは 何時までですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "7時"
+      },
+      {
+        "id": "b",
+        "text": "8時"
+      },
+      {
+        "id": "c",
+        "text": "9時"
+      },
+      {
+        "id": "d",
+        "text": "10時"
+      }
+    ],
+    "answer": "b",
+    "explanation": "まで menunjukkan batas waktu."
+  },
+  {
+    "id": 16,
+    "category": "vocabulary",
+    "question": "「病院」は どこですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tempat membeli makanan"
+      },
+      {
+        "id": "b",
+        "text": "Tempat orang sakit diperiksa"
+      },
+      {
+        "id": "c",
+        "text": "Tempat belajar"
+      },
+      {
+        "id": "d",
+        "text": "Tempat bekerja"
+      }
+    ],
+    "answer": "b",
+    "explanation": "病院（びょういん）berarti rumah sakit."
+  },
+  {
+    "id": 17,
+    "category": "grammar",
+    "question": "わたしは 毎朝 パン（　）食べます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "を digunakan untuk objek yang dimakan."
+  },
+  {
+    "id": 18,
+    "category": "conversation",
+    "question": "A: お名前は 何ですか。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "田中です"
+      },
+      {
+        "id": "b",
+        "text": "20歳です"
+      },
+      {
+        "id": "c",
+        "text": "東京です"
+      },
+      {
+        "id": "d",
+        "text": "会社です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Nama dijawab dengan nama diri."
+  },
+  {
+    "id": 19,
+    "category": "vocabulary",
+    "question": "「大きい」の 反対は どれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "小さい"
+      },
+      {
+        "id": "b",
+        "text": "高い"
+      },
+      {
+        "id": "c",
+        "text": "新しい"
+      },
+      {
+        "id": "d",
+        "text": "長い"
+      }
+    ],
+    "answer": "a",
+    "explanation": "大きい（besar）lawan katanya 小さい（kecil）."
+  },
+  {
+    "id": 20,
+    "category": "grammar",
+    "question": "駅まで バス（　）行きます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "で"
+      },
+      {
+        "id": "c",
+        "text": "が"
+      },
+      {
+        "id": "d",
+        "text": "と"
+      }
+    ],
+    "answer": "b",
+    "explanation": "で digunakan untuk alat transportasi."
+  },
+  {
+    "id": 21,
+    "category": "reading",
+    "question": "「今日は休みです。」今日はどうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bekerja"
+      },
+      {
+        "id": "b",
+        "text": "Libur"
+      },
+      {
+        "id": "c",
+        "text": "Belajar"
+      },
+      {
+        "id": "d",
+        "text": "Pergi sekolah"
+      }
+    ],
+    "answer": "b",
+    "explanation": "休み berarti libur."
+  },
+  {
+    "id": 22,
+    "category": "vocabulary",
+    "question": "「先生」は どんな人ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guru"
+      },
+      {
+        "id": "b",
+        "text": "Dokter"
+      },
+      {
+        "id": "c",
+        "text": "Polisi"
+      },
+      {
+        "id": "d",
+        "text": "Sopir"
+      }
+    ],
+    "answer": "a",
+    "explanation": "先生（せんせい）berarti guru."
+  },
+  {
+    "id": 23,
+    "category": "grammar",
+    "question": "この りんごは ３００円（　）です。",
+    "options": [
+      {
+        "id": "a",
+        "text": "が"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "に"
+      }
+    ],
+    "answer": "c",
+    "explanation": "で digunakan untuk menunjukkan harga."
+  },
+  {
+    "id": 24,
+    "category": "conversation",
+    "question": "A: すみません。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "はい"
+      },
+      {
+        "id": "b",
+        "text": "さようなら"
+      },
+      {
+        "id": "c",
+        "text": "おやすみ"
+      },
+      {
+        "id": "d",
+        "text": "いただきます"
+      }
+    ],
+    "answer": "a",
+    "explanation": "はい adalah jawaban saat dipanggil."
+  },
+  {
+    "id": 25,
+    "category": "vocabulary",
+    "question": "「暑い」は どんな意味ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dingin"
+      },
+      {
+        "id": "b",
+        "text": "Panas"
+      },
+      {
+        "id": "c",
+        "text": "Cepat"
+      },
+      {
+        "id": "d",
+        "text": "Lambat"
+      }
+    ],
+    "answer": "b",
+    "explanation": "暑い（あつい）berarti panas."
+  },
+  {
+    "id": 26,
+    "category": "grammar",
+    "question": "わたしは 日本（　）来ました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "から"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "と"
+      }
+    ],
+    "answer": "a",
+    "explanation": "から menunjukkan asal/tempat datang."
+  },
+  {
+    "id": 27,
+    "category": "reading",
+    "question": "「ドアを閉めてください。」何をしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Membuka pintu"
+      },
+      {
+        "id": "b",
+        "text": "Menutup pintu"
+      },
+      {
+        "id": "c",
+        "text": "Membeli pintu"
+      },
+      {
+        "id": "d",
+        "text": "Mengunci pintu"
+      }
+    ],
+    "answer": "b",
+    "explanation": "閉める（しめる）berarti menutup."
+  },
+  {
+    "id": 28,
+    "category": "vocabulary",
+    "question": "「電車」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kereta listrik"
+      },
+      {
+        "id": "b",
+        "text": "Pesawat"
+      },
+      {
+        "id": "c",
+        "text": "Kapal"
+      },
+      {
+        "id": "d",
+        "text": "Mobil"
+      }
+    ],
+    "answer": "a",
+    "explanation": "電車（でんしゃ）berarti kereta listrik."
+  },
+  {
+    "id": 29,
+    "category": "grammar",
+    "question": "ここで たばこを（　）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "すわないで"
+      },
+      {
+        "id": "b",
+        "text": "すって"
+      },
+      {
+        "id": "c",
+        "text": "します"
+      },
+      {
+        "id": "d",
+        "text": "した"
+      }
+    ],
+    "answer": "a",
+    "explanation": "～ないでください berarti mohon jangan melakukan."
+  },
+  {
+    "id": 30,
+    "category": "conversation",
+    "question": "A: また あした。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "また あした"
+      },
+      {
+        "id": "b",
+        "text": "ありがとう"
+      },
+      {
+        "id": "c",
+        "text": "いただきます"
+      },
+      {
+        "id": "d",
+        "text": "はじめまして"
+      }
+    ],
+    "answer": "a",
+    "explanation": "またあした berarti sampai jumpa besok."
+  },
+  {
+    "id": 31,
+    "category": "vocabulary",
+    "question": "「仕事」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pekerjaan"
+      },
+      {
+        "id": "b",
+        "text": "Liburan"
+      },
+      {
+        "id": "c",
+        "text": "Hobi"
+      },
+      {
+        "id": "d",
+        "text": "Belanja"
+      }
+    ],
+    "answer": "a",
+    "explanation": "仕事（しごと）berarti pekerjaan."
+  },
+  {
+    "id": 32,
+    "category": "grammar",
+    "question": "毎日 会社（　）働きます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "で"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "で menunjukkan tempat melakukan kegiatan."
+  },
+  {
+    "id": 33,
+    "category": "conversation",
+    "question": "A: 体の調子はどうですか。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "元気です"
+      },
+      {
+        "id": "b",
+        "text": "会社です"
+      },
+      {
+        "id": "c",
+        "text": "三時です"
+      },
+      {
+        "id": "d",
+        "text": "日本です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "元気です digunakan untuk mengatakan kondisi sehat."
+  },
+  {
+    "id": 34,
+    "category": "reading",
+    "question": "「入口」と書いてあります。どこですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pintu masuk"
+      },
+      {
+        "id": "b",
+        "text": "Pintu keluar"
+      },
+      {
+        "id": "c",
+        "text": "Toilet"
+      },
+      {
+        "id": "d",
+        "text": "Tangga"
+      }
+    ],
+    "answer": "a",
+    "explanation": "入口（いりぐち）berarti pintu masuk."
+  },
+  {
+    "id": 35,
+    "category": "vocabulary",
+    "question": "「休みの日」に何をしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bekerja"
+      },
+      {
+        "id": "b",
+        "text": "Liburan"
+      },
+      {
+        "id": "c",
+        "text": "Tidur di kantor"
+      },
+      {
+        "id": "d",
+        "text": "Pergi kerja"
+      }
+    ],
+    "answer": "b",
+    "explanation": "休みの日 berarti hari libur."
+  },
+  {
+    "id": 36,
+    "category": "grammar",
+    "question": "雨が（　）、出かけません。",
+    "options": [
+      {
+        "id": "a",
+        "text": "降ったら"
+      },
+      {
+        "id": "b",
+        "text": "降る"
+      },
+      {
+        "id": "c",
+        "text": "降ります"
+      },
+      {
+        "id": "d",
+        "text": "降って"
+      }
+    ],
+    "answer": "a",
+    "explanation": "～たら digunakan untuk kondisi jika."
+  },
+  {
+    "id": 37,
+    "category": "vocabulary",
+    "question": "「病気」の意味は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sakit"
+      },
+      {
+        "id": "b",
+        "text": "Sehat"
+      },
+      {
+        "id": "c",
+        "text": "Cepat"
+      },
+      {
+        "id": "d",
+        "text": "Lapar"
+      }
+    ],
+    "answer": "a",
+    "explanation": "病気（びょうき）berarti sakit."
+  },
+  {
+    "id": 38,
+    "category": "conversation",
+    "question": "A: いくらですか。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "500円です"
+      },
+      {
+        "id": "b",
+        "text": "5時です"
+      },
+      {
+        "id": "c",
+        "text": "駅です"
+      },
+      {
+        "id": "d",
+        "text": "先生です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "いくら digunakan untuk menanyakan harga."
+  },
+  {
+    "id": 39,
+    "category": "grammar",
+    "question": "わたしは 母（　）料理を作ります。",
+    "options": [
+      {
+        "id": "a",
+        "text": "と"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "へ"
+      },
+      {
+        "id": "d",
+        "text": "が"
+      }
+    ],
+    "answer": "a",
+    "explanation": "と menunjukkan bersama seseorang."
+  },
+  {
+    "id": 40,
+    "category": "reading",
+    "question": "「月曜日は休みです。」いつ休みですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Senin"
+      },
+      {
+        "id": "b",
+        "text": "Selasa"
+      },
+      {
+        "id": "c",
+        "text": "Rabu"
+      },
+      {
+        "id": "d",
+        "text": "Minggu"
+      }
+    ],
+    "answer": "a",
+    "explanation": "月曜日 berarti hari Senin."
+  },
+  {
+    "id": 41,
+    "category": "vocabulary",
+    "question": "「近い」の意味は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dekat"
+      },
+      {
+        "id": "b",
+        "text": "Jauh"
+      },
+      {
+        "id": "c",
+        "text": "Lama"
+      },
+      {
+        "id": "d",
+        "text": "Baru"
+      }
+    ],
+    "answer": "a",
+    "explanation": "近い（ちかい）berarti dekat."
+  },
+  {
+    "id": 42,
+    "category": "grammar",
+    "question": "ここに 名前を（　）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "書いて"
+      },
+      {
+        "id": "b",
+        "text": "書く"
+      },
+      {
+        "id": "c",
+        "text": "書き"
+      },
+      {
+        "id": "d",
+        "text": "書いた"
+      }
+    ],
+    "answer": "a",
+    "explanation": "～てください digunakan untuk permintaan."
+  },
+  {
+    "id": 43,
+    "category": "conversation",
+    "question": "A: どこから来ましたか。 B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "インドネシアから来ました"
+      },
+      {
+        "id": "b",
+        "text": "20歳です"
+      },
+      {
+        "id": "c",
+        "text": "会社員です"
+      },
+      {
+        "id": "d",
+        "text": "日本語です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "どこから menanyakan asal."
+  },
+  {
+    "id": 44,
+    "category": "vocabulary",
+    "question": "「早い」はどんな意味ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cepat / awal"
+      },
+      {
+        "id": "b",
+        "text": "Lambat"
+      },
+      {
+        "id": "c",
+        "text": "Berat"
+      },
+      {
+        "id": "d",
+        "text": "Tinggi"
+      }
+    ],
+    "answer": "a",
+    "explanation": "早い（はやい）berarti cepat atau awal."
+  },
+  {
+    "id": 45,
+    "category": "reading",
+    "question": "「ここで写真を撮らないでください。」何をしてはいけませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mengambil foto"
+      },
+      {
+        "id": "b",
+        "text": "Duduk"
+      },
+      {
+        "id": "c",
+        "text": "Masuk"
+      },
+      {
+        "id": "d",
+        "text": "Berjalan"
+      }
+    ],
+    "answer": "a",
+    "explanation": "写真を撮る berarti mengambil foto."
+  },
+  {
+    "id": 46,
+    "category": "grammar",
+    "question": "毎日 日本語を（　）います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "勉強して"
+      },
+      {
+        "id": "b",
+        "text": "勉強する"
+      },
+      {
+        "id": "c",
+        "text": "勉強した"
+      },
+      {
+        "id": "d",
+        "text": "勉強"
+      }
+    ],
+    "answer": "a",
+    "explanation": "～ています digunakan untuk kegiatan yang sedang berlangsung atau kebiasaan."
+  },
+  {
+    "id": 47,
+    "category": "vocabulary",
+    "question": "「朝」は いつですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pagi"
+      },
+      {
+        "id": "b",
+        "text": "Siang"
+      },
+      {
+        "id": "c",
+        "text": "Sore"
+      },
+      {
+        "id": "d",
+        "text": "Malam"
+      }
+    ],
+    "answer": "a",
+    "explanation": "朝（あさ）berarti pagi."
+  },
+  {
+    "id": 48,
+    "category": "conversation",
+    "question": "A: すみません、駅はどこですか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "あそこです"
+      },
+      {
+        "id": "b",
+        "text": "10時です"
+      },
+      {
+        "id": "c",
+        "text": "500円です"
+      },
+      {
+        "id": "d",
+        "text": "先生です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "どこですか menanyakan lokasi."
+  },
+  {
+    "id": 49,
+    "category": "grammar",
+    "question": "この薬を 毎日（　）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲んで"
+      },
+      {
+        "id": "b",
+        "text": "飲む"
+      },
+      {
+        "id": "c",
+        "text": "飲み"
+      },
+      {
+        "id": "d",
+        "text": "飲んだ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "飲んでください berarti silakan minum."
+  },
+  {
+    "id": 50,
+    "category": "reading",
+    "question": "「午前9時から午後5時まで働きます。」何時間働きますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "6時間"
+      },
+      {
+        "id": "b",
+        "text": "7時間"
+      },
+      {
+        "id": "c",
+        "text": "8時間"
+      },
+      {
+        "id": "d",
+        "text": "9時間"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Jam kerja dari 9 sampai 17 adalah 8 jam."
+  },
+  {
+    "id": 51,
+    "category": "vocabulary",
+    "question": "「家族」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keluarga"
+      },
+      {
+        "id": "b",
+        "text": "Teman"
+      },
+      {
+        "id": "c",
+        "text": "Tetangga"
+      },
+      {
+        "id": "d",
+        "text": "Guru"
+      }
+    ],
+    "answer": "a",
+    "explanation": "家族（かぞく）berarti keluarga."
+  },
+  {
+    "id": 52,
+    "category": "grammar",
+    "question": "日本語は 英語（　）難しいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "より"
+      },
+      {
+        "id": "b",
+        "text": "まで"
+      },
+      {
+        "id": "c",
+        "text": "から"
+      },
+      {
+        "id": "d",
+        "text": "しか"
+      }
+    ],
+    "answer": "a",
+    "explanation": "より digunakan untuk perbandingan."
+  },
+  {
+    "id": 53,
+    "category": "conversation",
+    "question": "A: ご飯を食べましたか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "はい、食べました"
+      },
+      {
+        "id": "b",
+        "text": "はい、行きました"
+      },
+      {
+        "id": "c",
+        "text": "はい、見ました"
+      },
+      {
+        "id": "d",
+        "text": "はい、寝ました"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pertanyaan makan dijawab dengan 食べました."
+  },
+  {
+    "id": 54,
+    "category": "vocabulary",
+    "question": "「新しい」の反対は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "古い"
+      },
+      {
+        "id": "b",
+        "text": "高い"
+      },
+      {
+        "id": "c",
+        "text": "安い"
+      },
+      {
+        "id": "d",
+        "text": "白い"
+      }
+    ],
+    "answer": "a",
+    "explanation": "新しい（baru）lawan katanya 古い（lama）."
+  },
+  {
+    "id": 55,
+    "category": "reading",
+    "question": "「電車は10分後に来ます。」いつ来ますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 menit lagi"
+      },
+      {
+        "id": "b",
+        "text": "10 jam lagi"
+      },
+      {
+        "id": "c",
+        "text": "Besok"
+      },
+      {
+        "id": "d",
+        "text": "Kemarin"
+      }
+    ],
+    "answer": "a",
+    "explanation": "10分後 berarti 10 menit kemudian."
+  },
+  {
+    "id": 56,
+    "category": "grammar",
+    "question": "わたしは 料理が（　）です。",
+    "options": [
+      {
+        "id": "a",
+        "text": "好き"
+      },
+      {
+        "id": "b",
+        "text": "好きな"
+      },
+      {
+        "id": "c",
+        "text": "好きに"
+      },
+      {
+        "id": "d",
+        "text": "好きで"
+      }
+    ],
+    "answer": "a",
+    "explanation": "好きです digunakan untuk menyatakan suka."
+  },
+  {
+    "id": 57,
+    "category": "vocabulary",
+    "question": "「病院へ行きます。」なぜ行きますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "病気だから"
+      },
+      {
+        "id": "b",
+        "text": "買い物だから"
+      },
+      {
+        "id": "c",
+        "text": "勉強だから"
+      },
+      {
+        "id": "d",
+        "text": "遊ぶから"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Rumah sakit biasanya dikunjungi karena sakit."
+  },
+  {
+    "id": 58,
+    "category": "conversation",
+    "question": "A: はじめまして。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "はじめまして"
+      },
+      {
+        "id": "b",
+        "text": "おやすみなさい"
+      },
+      {
+        "id": "c",
+        "text": "いただきます"
+      },
+      {
+        "id": "d",
+        "text": "またね"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Digunakan saat pertama kali bertemu."
+  },
+  {
+    "id": 59,
+    "category": "grammar",
+    "question": "明日 雨が（　）と思います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "降る"
+      },
+      {
+        "id": "b",
+        "text": "降った"
+      },
+      {
+        "id": "c",
+        "text": "降って"
+      },
+      {
+        "id": "d",
+        "text": "降り"
+      }
+    ],
+    "answer": "a",
+    "explanation": "と思います digunakan dengan bentuk biasa."
+  },
+  {
+    "id": 60,
+    "category": "reading",
+    "question": "「ここは禁煙です。」何をしてはいけませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Merokok"
+      },
+      {
+        "id": "b",
+        "text": "Makan"
+      },
+      {
+        "id": "c",
+        "text": "Duduk"
+      },
+      {
+        "id": "d",
+        "text": "Minum"
+      }
+    ],
+    "answer": "a",
+    "explanation": "禁煙（きんえん）berarti dilarang merokok."
+  },
+  {
+    "id": 61,
+    "category": "vocabulary",
+    "question": "「顔」は どこですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wajah"
+      },
+      {
+        "id": "b",
+        "text": "Tangan"
+      },
+      {
+        "id": "c",
+        "text": "Kaki"
+      },
+      {
+        "id": "d",
+        "text": "Mata"
+      }
+    ],
+    "answer": "a",
+    "explanation": "顔（かお）berarti wajah."
+  },
+  {
+    "id": 62,
+    "category": "grammar",
+    "question": "毎晩 11時（　）寝ます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "に"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "と"
+      }
+    ],
+    "answer": "a",
+    "explanation": "に digunakan untuk waktu tertentu."
+  },
+  {
+    "id": 63,
+    "category": "conversation",
+    "question": "A: 何をしていますか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "本を読んでいます"
+      },
+      {
+        "id": "b",
+        "text": "本です"
+      },
+      {
+        "id": "c",
+        "text": "本があります"
+      },
+      {
+        "id": "d",
+        "text": "本でした"
+      }
+    ],
+    "answer": "a",
+    "explanation": "～ています menunjukkan aktivitas yang sedang dilakukan."
+  },
+  {
+    "id": 64,
+    "category": "reading",
+    "question": "「土曜日に友達と映画を見ます。」誰と映画を見ますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "家族"
+      },
+      {
+        "id": "b",
+        "text": "友達"
+      },
+      {
+        "id": "c",
+        "text": "先生"
+      },
+      {
+        "id": "d",
+        "text": "会社員"
+      }
+    ],
+    "answer": "b",
+    "explanation": "友達 berarti teman."
+  },
+  {
+    "id": 65,
+    "category": "vocabulary",
+    "question": "「安い」の意味は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Murah"
+      },
+      {
+        "id": "b",
+        "text": "Mahal"
+      },
+      {
+        "id": "c",
+        "text": "Besar"
+      },
+      {
+        "id": "d",
+        "text": "Kecil"
+      }
+    ],
+    "answer": "a",
+    "explanation": "安い（やすい）berarti murah."
+  },
+  {
+    "id": 66,
+    "category": "grammar",
+    "question": "わたしは 日本語を話す（　）ができます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "こと"
+      },
+      {
+        "id": "b",
+        "text": "もの"
+      },
+      {
+        "id": "c",
+        "text": "ところ"
+      },
+      {
+        "id": "d",
+        "text": "ひと"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ことができます menyatakan kemampuan."
+  },
+  {
+    "id": 67,
+    "category": "vocabulary",
+    "question": "「左」の反対は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "右"
+      },
+      {
+        "id": "b",
+        "text": "上"
+      },
+      {
+        "id": "c",
+        "text": "下"
+      },
+      {
+        "id": "d",
+        "text": "前"
+      }
+    ],
+    "answer": "a",
+    "explanation": "左（kiri）lawan katanya 右（kanan）."
+  },
+  {
+    "id": 68,
+    "category": "conversation",
+    "question": "A: どうぞ。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "ありがとうございます"
+      },
+      {
+        "id": "b",
+        "text": "すみませんでした"
+      },
+      {
+        "id": "c",
+        "text": "おはよう"
+      },
+      {
+        "id": "d",
+        "text": "また明日"
+      }
+    ],
+    "answer": "a",
+    "explanation": "どうぞ biasanya dijawab dengan terima kasih."
+  },
+  {
+    "id": 69,
+    "category": "grammar",
+    "question": "日本へ 行った（　）があります。",
+    "options": [
+      {
+        "id": "a",
+        "text": "こと"
+      },
+      {
+        "id": "b",
+        "text": "もの"
+      },
+      {
+        "id": "c",
+        "text": "ため"
+      },
+      {
+        "id": "d",
+        "text": "ほう"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ことがあります menyatakan pengalaman."
+  },
+  {
+    "id": 70,
+    "category": "reading",
+    "question": "「入口で待ってください。」どこで待ちますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Di pintu masuk"
+      },
+      {
+        "id": "b",
+        "text": "Di toilet"
+      },
+      {
+        "id": "c",
+        "text": "Di kantor"
+      },
+      {
+        "id": "d",
+        "text": "Di sekolah"
+      }
+    ],
+    "answer": "a",
+    "explanation": "入口 berarti pintu masuk."
+  },
+  {
+    "id": 71,
+    "category": "vocabulary",
+    "question": "「毎週」は どういう意味ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Setiap minggu"
+      },
+      {
+        "id": "b",
+        "text": "Setiap hari"
+      },
+      {
+        "id": "c",
+        "text": "Setiap bulan"
+      },
+      {
+        "id": "d",
+        "text": "Tahun lalu"
+      }
+    ],
+    "answer": "a",
+    "explanation": "毎週（まいしゅう）berarti setiap minggu."
+  },
+  {
+    "id": 72,
+    "category": "grammar",
+    "question": "ここで 靴を（　）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "脱いで"
+      },
+      {
+        "id": "b",
+        "text": "脱ぐ"
+      },
+      {
+        "id": "c",
+        "text": "脱ぎ"
+      },
+      {
+        "id": "d",
+        "text": "脱いだ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "脱いでください berarti silakan melepas."
+  },
+  {
+    "id": 73,
+    "category": "conversation",
+    "question": "A: お元気ですか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "はい、元気です"
+      },
+      {
+        "id": "b",
+        "text": "はい、先生です"
+      },
+      {
+        "id": "c",
+        "text": "はい、会社です"
+      },
+      {
+        "id": "d",
+        "text": "はい、日本です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Menjawab kondisi kesehatan."
+  },
+  {
+    "id": 74,
+    "category": "vocabulary",
+    "question": "「便利」はどんな意味ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Praktis"
+      },
+      {
+        "id": "b",
+        "text": "Sulit"
+      },
+      {
+        "id": "c",
+        "text": "Berbahaya"
+      },
+      {
+        "id": "d",
+        "text": "Kotor"
+      }
+    ],
+    "answer": "a",
+    "explanation": "便利（べんり）berarti praktis."
+  },
+  {
+    "id": 75,
+    "category": "reading",
+    "question": "「明日は雨ですから、出かけません。」なぜ出かけませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karena hujan"
+      },
+      {
+        "id": "b",
+        "text": "Karena kerja"
+      },
+      {
+        "id": "c",
+        "text": "Karena sakit"
+      },
+      {
+        "id": "d",
+        "text": "Karena libur"
+      }
+    ],
+    "answer": "a",
+    "explanation": "から menunjukkan alasan."
+  },
+  {
+    "id": 76,
+    "category": "vocabulary",
+    "question": "「寒い」はどんな意味ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dingin"
+      },
+      {
+        "id": "b",
+        "text": "Panas"
+      },
+      {
+        "id": "c",
+        "text": "Cepat"
+      },
+      {
+        "id": "d",
+        "text": "Lambat"
+      }
+    ],
+    "answer": "a",
+    "explanation": "寒い（さむい）berarti dingin."
+  },
+  {
+    "id": 77,
+    "category": "grammar",
+    "question": "わたしは 毎日 水を（　）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲みます"
+      },
+      {
+        "id": "b",
+        "text": "飲むです"
+      },
+      {
+        "id": "c",
+        "text": "飲んで"
+      },
+      {
+        "id": "d",
+        "text": "飲みましたか"
+      }
+    ],
+    "answer": "a",
+    "explanation": "飲みます digunakan untuk kebiasaan minum."
+  },
+  {
+    "id": 78,
+    "category": "conversation",
+    "question": "A: 今日は何曜日ですか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "月曜日です"
+      },
+      {
+        "id": "b",
+        "text": "10時です"
+      },
+      {
+        "id": "c",
+        "text": "会社です"
+      },
+      {
+        "id": "d",
+        "text": "日本です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "何曜日 menanyakan hari."
+  },
+  {
+    "id": 79,
+    "category": "reading",
+    "question": "「午後3時に会いましょう。」いつ会いますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jam 3 sore"
+      },
+      {
+        "id": "b",
+        "text": "Jam 3 pagi"
+      },
+      {
+        "id": "c",
+        "text": "Jam 5 sore"
+      },
+      {
+        "id": "d",
+        "text": "Besok"
+      }
+    ],
+    "answer": "a",
+    "explanation": "午後 berarti setelah tengah hari/sore."
+  },
+  {
+    "id": 80,
+    "category": "vocabulary",
+    "question": "「駅員」はどんな人ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Petugas stasiun"
+      },
+      {
+        "id": "b",
+        "text": "Guru"
+      },
+      {
+        "id": "c",
+        "text": "Dokter"
+      },
+      {
+        "id": "d",
+        "text": "Petani"
+      }
+    ],
+    "answer": "a",
+    "explanation": "駅員（えきいん）berarti petugas stasiun."
+  },
+  {
+    "id": 81,
+    "category": "grammar",
+    "question": "日本語は まだ 上手（　）ありません。",
+    "options": [
+      {
+        "id": "a",
+        "text": "では"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "が"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ではありません digunakan untuk bentuk negatif kata benda/kata sifat na."
+  },
+  {
+    "id": 82,
+    "category": "conversation",
+    "question": "A: これは何ですか。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "ペンです"
+      },
+      {
+        "id": "b",
+        "text": "日本です"
+      },
+      {
+        "id": "c",
+        "text": "三人です"
+      },
+      {
+        "id": "d",
+        "text": "明日です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "何ですか menanyakan benda."
+  },
+  {
+    "id": 83,
+    "category": "vocabulary",
+    "question": "「忙しい」の意味は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sibuk"
+      },
+      {
+        "id": "b",
+        "text": "Santai"
+      },
+      {
+        "id": "c",
+        "text": "Murah"
+      },
+      {
+        "id": "d",
+        "text": "Dekat"
+      }
+    ],
+    "answer": "a",
+    "explanation": "忙しい（いそがしい）berarti sibuk."
+  },
+  {
+    "id": 84,
+    "category": "grammar",
+    "question": "ここに 車を（　）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "止めて"
+      },
+      {
+        "id": "b",
+        "text": "止める"
+      },
+      {
+        "id": "c",
+        "text": "止めた"
+      },
+      {
+        "id": "d",
+        "text": "止まる"
+      }
+    ],
+    "answer": "a",
+    "explanation": "止めてください berarti silakan berhenti/memarkir."
+  },
+  {
+    "id": 85,
+    "category": "reading",
+    "question": "「薬を飲んで、休んでください。」何をしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minum obat dan istirahat"
+      },
+      {
+        "id": "b",
+        "text": "Pergi bekerja"
+      },
+      {
+        "id": "c",
+        "text": "Belanja"
+      },
+      {
+        "id": "d",
+        "text": "Belajar"
+      }
+    ],
+    "answer": "a",
+    "explanation": "薬を飲む = minum obat, 休む = istirahat."
+  },
+  {
+    "id": 86,
+    "category": "vocabulary",
+    "question": "「名前」は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nama"
+      },
+      {
+        "id": "b",
+        "text": "Umur"
+      },
+      {
+        "id": "c",
+        "text": "Alamat"
+      },
+      {
+        "id": "d",
+        "text": "Nomor telepon"
+      }
+    ],
+    "answer": "a",
+    "explanation": "名前（なまえ）berarti nama."
+  },
+  {
+    "id": 87,
+    "category": "grammar",
+    "question": "田中さんは 会社員（　）と思います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "だ"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "で"
+      }
+    ],
+    "answer": "a",
+    "explanation": "と思います memakai bentuk biasa."
+  },
+  {
+    "id": 88,
+    "category": "conversation",
+    "question": "A: また来週。B:（　）",
+    "options": [
+      {
+        "id": "a",
+        "text": "また来週"
+      },
+      {
+        "id": "b",
+        "text": "いただきます"
+      },
+      {
+        "id": "c",
+        "text": "すみません"
+      },
+      {
+        "id": "d",
+        "text": "おめでとう"
+      }
+    ],
+    "answer": "a",
+    "explanation": "また来週 berarti sampai minggu depan."
+  },
+  {
+    "id": 89,
+    "category": "reading",
+    "question": "「この部屋では食べないでください。」何をしてはいけませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Makan"
+      },
+      {
+        "id": "b",
+        "text": "Tidur"
+      },
+      {
+        "id": "c",
+        "text": "Belajar"
+      },
+      {
+        "id": "d",
+        "text": "Duduk"
+      }
+    ],
+    "answer": "a",
+    "explanation": "食べないでください berarti jangan makan."
+  },
+  {
+    "id": 90,
+    "category": "grammar",
+    "question": "わたしは 日本へ 行きたい（　）思います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "と"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "で"
+      },
+      {
+        "id": "d",
+        "text": "に"
+      }
+    ],
+    "answer": "a",
+    "explanation": "と思います digunakan untuk menyatakan pendapat."
+  },
+  {
+    "id": 91,
+    "question": "まいにち しちじ（　）あさごはんをたべます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "が"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "で"
+      }
+    ],
+    "answer": "c",
+    "explanation": "に digunakan untuk menunjukkan waktu."
+  },
+  {
+    "id": 92,
+    "question": "わたしは にほんご（　）べんきょうしています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "へ"
+      },
+      {
+        "id": "c",
+        "text": "が"
+      },
+      {
+        "id": "d",
+        "text": "に"
+      }
+    ],
+    "answer": "a",
+    "explanation": "を digunakan sebagai penanda objek."
+  },
+  {
+    "id": 93,
+    "question": "きょうは あめ（　）ふっています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "が"
+      },
+      {
+        "id": "c",
+        "text": "へ"
+      },
+      {
+        "id": "d",
+        "text": "で"
+      }
+    ],
+    "answer": "b",
+    "explanation": "が digunakan sebagai penanda subjek."
+  },
+  {
+    "id": 94,
+    "question": "せんせい（　）しつもんします。",
+    "options": [
+      {
+        "id": "a",
+        "text": "へ"
+      },
+      {
+        "id": "b",
+        "text": "を"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "で"
+      }
+    ],
+    "answer": "c",
+    "explanation": "に digunakan kepada orang yang menjadi tujuan tindakan."
+  },
+  {
+    "id": 95,
+    "question": "わたしは バス（　）がっこうへいきます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "を"
+      },
+      {
+        "id": "b",
+        "text": "で"
+      },
+      {
+        "id": "c",
+        "text": "に"
+      },
+      {
+        "id": "d",
+        "text": "と"
+      }
+    ],
+    "answer": "b",
+    "explanation": "で digunakan untuk menunjukkan alat transportasi."
+  },
+  {
+    "id": 96,
+    "question": "きのう ともだち（　）あいました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "が"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "を"
+      },
+      {
+        "id": "d",
+        "text": "へ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "あう menggunakan partikel に."
+  },
+  {
+    "id": 97,
+    "question": "スーパーで パン（　）かいました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "が"
+      },
+      {
+        "id": "b",
+        "text": "へ"
+      },
+      {
+        "id": "c",
+        "text": "を"
+      },
+      {
+        "id": "d",
+        "text": "に"
+      }
+    ],
+    "answer": "c",
+    "explanation": "を digunakan sebagai objek dari kata kerja membeli."
+  },
+  {
+    "id": 98,
+    "question": "このへやは とても（　）です。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ひろい"
+      },
+      {
+        "id": "b",
+        "text": "ひろく"
+      },
+      {
+        "id": "c",
+        "text": "ひろ"
+      },
+      {
+        "id": "d",
+        "text": "ひろかった"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Kata sifat い digunakan langsung sebelum です."
+  },
+  {
+    "id": 99,
+    "question": "にちようびは どこ（　）いきません。",
+    "options": [
+      {
+        "id": "a",
+        "text": "が"
+      },
+      {
+        "id": "b",
+        "text": "へ"
+      },
+      {
+        "id": "c",
+        "text": "も"
+      },
+      {
+        "id": "d",
+        "text": "に"
+      }
+    ],
+    "answer": "c",
+    "explanation": "どこも～ない berarti 'tidak pergi ke mana pun'."
+  },
+  {
+    "id": 100,
+    "question": "A: おなまえは？ B: （　）です。",
+    "options": [
+      {
+        "id": "a",
+        "text": "たなか"
+      },
+      {
+        "id": "b",
+        "text": "たなかさん"
+      },
+      {
+        "id": "c",
+        "text": "たなかです"
+      },
+      {
+        "id": "d",
+        "text": "はい"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Jawaban yang alami adalah 'たなかです'."
+  },
+  {
+    "id": 101,
+    "type": "reading",
+    "passage": "やまださんは まいあさ ７じに おきます。８じに バスで かいしゃへ いきます。",
+    "question": "やまださんは どうやって かいしゃへ いきますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "でんしゃで"
+      },
+      {
+        "id": "b",
+        "text": "あるいて"
+      },
+      {
+        "id": "c",
+        "text": "バスで"
+      },
+      {
+        "id": "d",
+        "text": "じてんしゃで"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ぶんしょうに『バスで かいしゃへ いきます』とあります。"
+  },
+  {
+    "id": 102,
+    "type": "reading",
+    "passage": "たなかさんは まいにち ６じ３０ぷんに おきます。７じに あさごはんを たべます。それから でんしゃで かいしゃへ いきます。",
+    "question": "たなかさんは どうやって かいしゃへ いきますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "バスで"
+      },
+      {
+        "id": "b",
+        "text": "あるいて"
+      },
+      {
+        "id": "c",
+        "text": "でんしゃで"
+      },
+      {
+        "id": "d",
+        "text": "じてんしゃで"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ぶんしょうに「でんしゃで かいしゃへ いきます」とあります。"
+  },
+  {
+    "id": 103,
+    "type": "reading",
+    "passage": "さとうさんは きょう スーパーへ いきました。りんごと ぎゅうにゅうを かいました。そのあと うちへ かえりました。",
+    "question": "さとうさんは スーパーで なにを かいましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "パンと たまご"
+      },
+      {
+        "id": "b",
+        "text": "りんごと ぎゅうにゅう"
+      },
+      {
+        "id": "c",
+        "text": "にくと さかな"
+      },
+      {
+        "id": "d",
+        "text": "やさいと みず"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「りんごと ぎゅうにゅうを かいました」とあります。"
+  },
+  {
+    "id": 104,
+    "type": "reading",
+    "passage": "わたしの しゅみは えいがを みることです。まいしゅう にちようびに ともだちと えいがかんへ いきます。",
+    "question": "わたしは いつ えいがを みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "まいにち"
+      },
+      {
+        "id": "b",
+        "text": "どようび"
+      },
+      {
+        "id": "c",
+        "text": "にちようび"
+      },
+      {
+        "id": "d",
+        "text": "げつようび"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「まいしゅう にちようびに」とあります。"
+  },
+  {
+    "id": 105,
+    "type": "reading",
+    "passage": "やまださんの へやには つくえと ベッドがあります。テレビは ありません。",
+    "question": "やまださんの へやに なにが ありませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "つくえ"
+      },
+      {
+        "id": "b",
+        "text": "ベッド"
+      },
+      {
+        "id": "c",
+        "text": "テレビ"
+      },
+      {
+        "id": "d",
+        "text": "いす"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「テレビは ありません」とあります。"
+  },
+  {
+    "id": 106,
+    "type": "reading",
+    "passage": "きょうは あついです。わたしは みずを のんで、エアコンを つけました。",
+    "question": "わたしは なにを つけましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "テレビ"
+      },
+      {
+        "id": "b",
+        "text": "エアコン"
+      },
+      {
+        "id": "c",
+        "text": "でんき"
+      },
+      {
+        "id": "d",
+        "text": "パソコン"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「エアコンを つけました」とあります。"
+  },
+  {
+    "id": 107,
+    "type": "reading",
+    "passage": "あしたは どようびです。わたしは かぞくと こうえんへ いく よていです。",
+    "question": "あしたは なんようびですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "きんようび"
+      },
+      {
+        "id": "b",
+        "text": "どようび"
+      },
+      {
+        "id": "c",
+        "text": "にちようび"
+      },
+      {
+        "id": "d",
+        "text": "げつようび"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「あしたは どようびです」とあります。"
+  },
+  {
+    "id": 108,
+    "type": "reading",
+    "passage": "たけしさんは まいばん １１じに ねます。あさは ６じに おきます。",
+    "question": "たけしさんは なんじに ねますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "６じ"
+      },
+      {
+        "id": "b",
+        "text": "７じ"
+      },
+      {
+        "id": "c",
+        "text": "１０じ"
+      },
+      {
+        "id": "d",
+        "text": "１１じ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "「１１じに ねます」とあります。"
+  },
+  {
+    "id": 109,
+    "type": "reading",
+    "passage": "この レストランは ９じから １０じまでです。ひるごはんは １２じから ２じまで できます。",
+    "question": "ひるごはんは なんじから できますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "９じ"
+      },
+      {
+        "id": "b",
+        "text": "１０じ"
+      },
+      {
+        "id": "c",
+        "text": "１２じ"
+      },
+      {
+        "id": "d",
+        "text": "２じ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「ひるごはんは １２じから」とあります。"
+  },
+  {
+    "id": 110,
+    "type": "reading",
+    "passage": "わたしは まいあさ コーヒーを のみます。でも きょうは おちゃを のみました。",
+    "question": "きょう わたしは なにを のみましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "コーヒー"
+      },
+      {
+        "id": "b",
+        "text": "みず"
+      },
+      {
+        "id": "c",
+        "text": "おちゃ"
+      },
+      {
+        "id": "d",
+        "text": "ジュース"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「きょうは おちゃを のみました」とあります。"
+  },
+  {
+    "id": 111,
+    "type": "conversation",
+    "passage": "A: おはようございます。\nB: おはようございます。",
+    "question": "Bさんは なんと いいますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "こんにちは"
+      },
+      {
+        "id": "b",
+        "text": "おはようございます"
+      },
+      {
+        "id": "c",
+        "text": "こんばんは"
+      },
+      {
+        "id": "d",
+        "text": "さようなら"
+      }
+    ],
+    "answer": "b",
+    "explanation": "朝のあいさつは「おはようございます」です。"
+  },
+  {
+    "id": 112,
+    "type": "conversation",
+    "passage": "A: これは いくらですか。\nB: 500円です。",
+    "question": "これは いくらですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "500円です"
+      },
+      {
+        "id": "b",
+        "text": "500人です"
+      },
+      {
+        "id": "c",
+        "text": "500日です"
+      },
+      {
+        "id": "d",
+        "text": "500時です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "値段を聞かれたので金額を答えます。"
+  },
+  {
+    "id": 113,
+    "type": "conversation",
+    "passage": "A: すみません。トイレは どこですか。\nB: あそこです。",
+    "question": "Bさんは 何を おしえましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "時間"
+      },
+      {
+        "id": "b",
+        "text": "場所"
+      },
+      {
+        "id": "c",
+        "text": "名前"
+      },
+      {
+        "id": "d",
+        "text": "電話番号"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「どこですか」は場所を聞く表現です。"
+  },
+  {
+    "id": 114,
+    "type": "conversation",
+    "passage": "A: いっしょに 映画を 見ませんか。\nB: はい、見ましょう。",
+    "question": "二人は 何を しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "映画を見る"
+      },
+      {
+        "id": "b",
+        "text": "買い物する"
+      },
+      {
+        "id": "c",
+        "text": "勉強する"
+      },
+      {
+        "id": "d",
+        "text": "料理する"
+      }
+    ],
+    "answer": "a",
+    "explanation": "映画を見る約束をしています。"
+  },
+  {
+    "id": 115,
+    "type": "conversation",
+    "passage": "A: 今日は 何曜日ですか。\nB: 月曜日です。",
+    "question": "今日は 何曜日ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "日曜日"
+      },
+      {
+        "id": "b",
+        "text": "月曜日"
+      },
+      {
+        "id": "c",
+        "text": "火曜日"
+      },
+      {
+        "id": "d",
+        "text": "水曜日"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Bさんは 月曜日と言っています。"
+  },
+  {
+    "id": 116,
+    "type": "conversation",
+    "passage": "A: 田中さんは いますか。\nB: いいえ、いません。",
+    "question": "田中さんは どうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "います"
+      },
+      {
+        "id": "b",
+        "text": "いません"
+      },
+      {
+        "id": "c",
+        "text": "食べます"
+      },
+      {
+        "id": "d",
+        "text": "寝ます"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「いません」は存在しないという意味です。"
+  },
+  {
+    "id": 117,
+    "type": "conversation",
+    "passage": "A: 何を 飲みますか。\nB: 水を おねがいします。",
+    "question": "Bさんは 何を 飲みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "水"
+      },
+      {
+        "id": "b",
+        "text": "お茶"
+      },
+      {
+        "id": "c",
+        "text": "コーヒー"
+      },
+      {
+        "id": "d",
+        "text": "ジュース"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Bさんは 水を おねがいしますと言っています。"
+  },
+  {
+    "id": 118,
+    "type": "conversation",
+    "passage": "A: 明日 ひまですか。\nB: はい、ひまです。",
+    "question": "Bさんは 明日 どうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "忙しいです"
+      },
+      {
+        "id": "b",
+        "text": "ひまです"
+      },
+      {
+        "id": "c",
+        "text": "病気です"
+      },
+      {
+        "id": "d",
+        "text": "会社です"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「ひまです」は waktu luang."
+  },
+  {
+    "id": 119,
+    "type": "conversation",
+    "passage": "A: すみません、駅は どこですか。\nB: この道を まっすぐ 行ってください。",
+    "question": "Bさんは 何を 教えていますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "行き方"
+      },
+      {
+        "id": "b",
+        "text": "料理"
+      },
+      {
+        "id": "c",
+        "text": "仕事"
+      },
+      {
+        "id": "d",
+        "text": "時間"
+      }
+    ],
+    "answer": "a",
+    "explanation": "道を説明しているので行き方です。"
+  },
+  {
+    "id": 120,
+    "type": "conversation",
+    "passage": "A: お元気ですか。\nB: はい、元気です。",
+    "question": "Bさんは どうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "元気です"
+      },
+      {
+        "id": "b",
+        "text": "眠いです"
+      },
+      {
+        "id": "c",
+        "text": "忙しいです"
+      },
+      {
+        "id": "d",
+        "text": "寒いです"
+      }
+    ],
+    "answer": "a",
+    "explanation": "「元気です」は健康状態が良いという意味です。"
+  },
+  {
+    "id": 121,
+    "type": "reading",
+    "passage": "わたしは まいにち ６じに おきます。７じに あさごはんを たべて、８じに うちを でます。かいしゃまで バスで ３０ぷん かかります。",
+    "question": "かいしゃまで どのくらい かかりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１０ぷん"
+      },
+      {
+        "id": "b",
+        "text": "２０ぷん"
+      },
+      {
+        "id": "c",
+        "text": "３０ぷん"
+      },
+      {
+        "id": "d",
+        "text": "１じかん"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「バスで ３０ぷん かかります」とあります。"
+  },
+  {
+    "id": 122,
+    "type": "reading",
+    "passage": "きのう わたしは ともだちと デパートへ いきました。シャツを １まいと くつを かいました。そのあと レストランで ひるごはんを たべました。",
+    "question": "デパートで なにを かいましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "シャツと くつ"
+      },
+      {
+        "id": "b",
+        "text": "パンと みず"
+      },
+      {
+        "id": "c",
+        "text": "かばんだけ"
+      },
+      {
+        "id": "d",
+        "text": "ほんだけ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "「シャツを １まいと くつを かいました」とあります。"
+  },
+  {
+    "id": 123,
+    "type": "reading",
+    "passage": "あしたは あめです。だから、わたしは かさを もって でかけます。",
+    "question": "なぜ かさを もって いきますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "あついから"
+      },
+      {
+        "id": "b",
+        "text": "あめだから"
+      },
+      {
+        "id": "c",
+        "text": "さむいから"
+      },
+      {
+        "id": "d",
+        "text": "かぜだから"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「あしたは あめです」と理由があります。"
+  },
+  {
+    "id": 124,
+    "type": "reading",
+    "passage": "たなかさんは げつようびから きんようびまで はたらきます。どようびと にちようびは やすみです。",
+    "question": "たなかさんは いつ やすみますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "げつようび"
+      },
+      {
+        "id": "b",
+        "text": "すいようび"
+      },
+      {
+        "id": "c",
+        "text": "きんようび"
+      },
+      {
+        "id": "d",
+        "text": "どようびと にちようび"
+      }
+    ],
+    "answer": "d",
+    "explanation": "「どようびと にちようびは やすみ」とあります。"
+  },
+  {
+    "id": 125,
+    "type": "reading",
+    "passage": "この みせは あさ１０じに あきます。そして よる８じに しまります。",
+    "question": "この みせは なんじに しまりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "あさ８じ"
+      },
+      {
+        "id": "b",
+        "text": "あさ１０じ"
+      },
+      {
+        "id": "c",
+        "text": "よる８じ"
+      },
+      {
+        "id": "d",
+        "text": "よる１０じ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「よる８じに しまります」とあります。"
+  },
+  {
+    "id": 126,
+    "type": "reading",
+    "passage": "わたしの いえから えきまで あるいて １５ぷんです。でんしゃで かいしゃまで ４０ぷん かかります。",
+    "question": "えきまで どうやって いきますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "バスで"
+      },
+      {
+        "id": "b",
+        "text": "でんしゃで"
+      },
+      {
+        "id": "c",
+        "text": "あるいて"
+      },
+      {
+        "id": "d",
+        "text": "じてんしゃで"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「あるいて １５ぷんです」とあります。"
+  },
+  {
+    "id": 127,
+    "type": "reading",
+    "passage": "きょうは たんじょうびです。ともだちが ケーキを くれました。ばんごはんの あとで みんなで たべます。",
+    "question": "ケーキを いつ たべますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "あさ"
+      },
+      {
+        "id": "b",
+        "text": "ひる"
+      },
+      {
+        "id": "c",
+        "text": "ばんごはんの あと"
+      },
+      {
+        "id": "d",
+        "text": "まえのひ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「ばんごはんの あとで たべます」とあります。"
+  },
+  {
+    "id": 128,
+    "type": "reading",
+    "passage": "すずきさんは にほんごを べんきょうしています。まいばん １じかん ほんを よみます。",
+    "question": "すずきさんは まいばん なにを しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "テレビを みます"
+      },
+      {
+        "id": "b",
+        "text": "ほんを よみます"
+      },
+      {
+        "id": "c",
+        "text": "りょうりを します"
+      },
+      {
+        "id": "d",
+        "text": "ゲームを します"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「ほんを よみます」とあります。"
+  },
+  {
+    "id": 129,
+    "type": "reading",
+    "passage": "らいしゅう りょこうへ いきます。３にちかん ホテルに とまります。ともだちと いっしょに いきます。",
+    "question": "ホテルに なんにち とまりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１にち"
+      },
+      {
+        "id": "b",
+        "text": "２にち"
+      },
+      {
+        "id": "c",
+        "text": "３にち"
+      },
+      {
+        "id": "d",
+        "text": "４にち"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「３にちかん ホテルに とまります」とあります。"
+  },
+  {
+    "id": 130,
+    "type": "reading",
+    "passage": "きょうの よていは、あさ びょういんへ いきます。ごご かいものを します。よる うちで やすみます。",
+    "question": "ごご なにを しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "びょういんへ いきます"
+      },
+      {
+        "id": "b",
+        "text": "かいものを します"
+      },
+      {
+        "id": "c",
+        "text": "しごとを します"
+      },
+      {
+        "id": "d",
+        "text": "ねます"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「ごご かいものを します」とあります。"
+  },
+  {
+    "id": 131,
+    "type": "reading",
+    "passage": "【お知らせ】\n３月５日（水）は そうじのため、１かいの トイレは つかえません。２かいの トイレを つかってください。",
+    "question": "３月５日は どの トイレを つかいますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１かい"
+      },
+      {
+        "id": "b",
+        "text": "２かい"
+      },
+      {
+        "id": "c",
+        "text": "３かい"
+      },
+      {
+        "id": "d",
+        "text": "そと"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「２かいの トイレを つかってください」とあります。"
+  },
+  {
+    "id": 132,
+    "type": "reading",
+    "passage": "【アルバイトの時間】\n月曜日 ９：００〜１７：００\n水曜日 １２：００〜２０：００\n金曜日 ９：００〜１３：００",
+    "question": "水曜日は 何時から 何時まで はたらきますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "９時から１７時まで"
+      },
+      {
+        "id": "b",
+        "text": "１２時から２０時まで"
+      },
+      {
+        "id": "c",
+        "text": "９時から１３時まで"
+      },
+      {
+        "id": "d",
+        "text": "１０時から１８時まで"
+      }
+    ],
+    "answer": "b",
+    "explanation": "水曜日の時間は１２：００〜２０：００です。"
+  },
+  {
+    "id": 133,
+    "type": "reading",
+    "passage": "【会社のお知らせ】\n明日は ９時から 会議があります。社員は ８時５０分までに 会議室へ 来てください。",
+    "question": "社員は 何時までに 会議室へ 行きますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "８時５０分"
+      },
+      {
+        "id": "b",
+        "text": "９時"
+      },
+      {
+        "id": "c",
+        "text": "９時５０分"
+      },
+      {
+        "id": "d",
+        "text": "１０時"
+      }
+    ],
+    "answer": "a",
+    "explanation": "「８時５０分までに」とあります。"
+  },
+  {
+    "id": 134,
+    "type": "reading",
+    "passage": "【図書館】\n月曜日から金曜日は ９時から１８時までです。\n土曜日と日曜日は １０時から１６時までです。",
+    "question": "日曜日は 何時まで 開いていますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１６時"
+      },
+      {
+        "id": "b",
+        "text": "１７時"
+      },
+      {
+        "id": "c",
+        "text": "１８時"
+      },
+      {
+        "id": "d",
+        "text": "１９時"
+      }
+    ],
+    "answer": "a",
+    "explanation": "土曜日と日曜日は１６時までです。"
+  },
+  {
+    "id": 135,
+    "type": "reading",
+    "passage": "【スーパー】\nたまご １パック ２００円\nりんご １こ １００円\n牛乳 １本 １５０円",
+    "question": "りんごを ２こ 買うと いくらですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１００円"
+      },
+      {
+        "id": "b",
+        "text": "１５０円"
+      },
+      {
+        "id": "c",
+        "text": "２００円"
+      },
+      {
+        "id": "d",
+        "text": "３００円"
+      }
+    ],
+    "answer": "c",
+    "explanation": "りんご１こ１００円なので２こで２００円です。"
+  },
+  {
+    "id": 136,
+    "type": "reading",
+    "passage": "【注意】\nこの部屋では たばこを すわないでください。\n食べ物を 持って 入らないでください。",
+    "question": "この部屋で しては いけないことは 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "本を読むこと"
+      },
+      {
+        "id": "b",
+        "text": "勉強すること"
+      },
+      {
+        "id": "c",
+        "text": "たばこを すうこと"
+      },
+      {
+        "id": "d",
+        "text": "座ること"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「たばこを すわないでください」とあります。"
+  },
+  {
+    "id": 137,
+    "type": "reading",
+    "passage": "【駅のお知らせ】\n電車は 事故のため １０分 遅れています。",
+    "question": "電車は どうしましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "早く来ました"
+      },
+      {
+        "id": "b",
+        "text": "１０分 遅れています"
+      },
+      {
+        "id": "c",
+        "text": "止まりました"
+      },
+      {
+        "id": "d",
+        "text": "ありません"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「１０分 遅れています」とあります。"
+  },
+  {
+    "id": 138,
+    "type": "reading",
+    "passage": "【病院】\n受付時間\n午前 ８：３０〜１１：３０\n午後 １３：３０〜１６：３０",
+    "question": "午後は 何時から 受付しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "１１時３０分"
+      },
+      {
+        "id": "b",
+        "text": "１２時"
+      },
+      {
+        "id": "c",
+        "text": "１３時３０分"
+      },
+      {
+        "id": "d",
+        "text": "１６時３０分"
+      }
+    ],
+    "answer": "c",
+    "explanation": "午後の受付は１３：３０からです。"
+  },
+  {
+    "id": 139,
+    "type": "reading",
+    "passage": "【社員食堂】\n昼ごはんは １１時３０分から １４時までです。\n土曜日は 休みです。",
+    "question": "社員食堂は 土曜日 どうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "開いています"
+      },
+      {
+        "id": "b",
+        "text": "休みです"
+      },
+      {
+        "id": "c",
+        "text": "夜だけです"
+      },
+      {
+        "id": "d",
+        "text": "無料です"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「土曜日は休みです」とあります。"
+  },
+  {
+    "id": 140,
+    "type": "reading",
+    "passage": "【忘れ物】\n駅で かばんを 見つけました。\n赤いかばんです。心当たりのある人は 駅員に 聞いてください。",
+    "question": "見つかったものは 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "財布"
+      },
+      {
+        "id": "b",
+        "text": "かさ"
+      },
+      {
+        "id": "c",
+        "text": "赤いかばん"
+      },
+      {
+        "id": "d",
+        "text": "時計"
+      }
+    ],
+    "answer": "c",
+    "explanation": "「赤いかばんです」とあります。"
+  },
+  {
+    "id": 141,
+    "type": "vocabulary",
+    "question": "「大きい」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kecil"
+      },
+      {
+        "id": "b",
+        "text": "Lebar"
+      },
+      {
+        "id": "c",
+        "text": "Besar"
+      },
+      {
+        "id": "d",
+        "text": "Tinggi"
+      }
+    ],
+    "answer": "c",
+    "explanation": "大きい（おおきい）berarti besar."
+  },
+  {
+    "id": 142,
+    "type": "vocabulary",
+    "question": "「早い」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lambat"
+      },
+      {
+        "id": "b",
+        "text": "Cepat / lebih awal"
+      },
+      {
+        "id": "c",
+        "text": "Baru"
+      },
+      {
+        "id": "d",
+        "text": "Lama"
+      }
+    ],
+    "answer": "b",
+    "explanation": "早い（はやい）berarti cepat atau lebih awal."
+  },
+  {
+    "id": 143,
+    "type": "vocabulary",
+    "question": "「買う」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Menjual"
+      },
+      {
+        "id": "b",
+        "text": "Membuat"
+      },
+      {
+        "id": "c",
+        "text": "Membeli"
+      },
+      {
+        "id": "d",
+        "text": "Menggunakan"
+      }
+    ],
+    "answer": "c",
+    "explanation": "買う（かう）berarti membeli."
+  },
+  {
+    "id": 144,
+    "type": "vocabulary",
+    "question": "「休む」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bekerja"
+      },
+      {
+        "id": "b",
+        "text": "Istirahat"
+      },
+      {
+        "id": "c",
+        "text": "Berlari"
+      },
+      {
+        "id": "d",
+        "text": "Bangun"
+      }
+    ],
+    "answer": "b",
+    "explanation": "休む（やすむ）berarti istirahat."
+  },
+  {
+    "id": 145,
+    "type": "vocabulary",
+    "question": "「駅」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rumah sakit"
+      },
+      {
+        "id": "b",
+        "text": "Sekolah"
+      },
+      {
+        "id": "c",
+        "text": "Stasiun"
+      },
+      {
+        "id": "d",
+        "text": "Kantor"
+      }
+    ],
+    "answer": "c",
+    "explanation": "駅（えき）berarti stasiun."
+  },
+  {
+    "id": 146,
+    "type": "vocabulary",
+    "question": "「先生」は だれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guru"
+      },
+      {
+        "id": "b",
+        "text": "Dokter"
+      },
+      {
+        "id": "c",
+        "text": "Murid"
+      },
+      {
+        "id": "d",
+        "text": "Teman"
+      }
+    ],
+    "answer": "a",
+    "explanation": "先生（せんせい）berarti guru atau pengajar."
+  },
+  {
+    "id": 147,
+    "type": "vocabulary",
+    "question": "「明日」は いつですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hari ini"
+      },
+      {
+        "id": "b",
+        "text": "Kemarin"
+      },
+      {
+        "id": "c",
+        "text": "Besok"
+      },
+      {
+        "id": "d",
+        "text": "Sekarang"
+      }
+    ],
+    "answer": "c",
+    "explanation": "明日（あした）berarti besok."
+  },
+  {
+    "id": 148,
+    "type": "vocabulary",
+    "question": "「飲む」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Makan"
+      },
+      {
+        "id": "b",
+        "text": "Melihat"
+      },
+      {
+        "id": "c",
+        "text": "Minum"
+      },
+      {
+        "id": "d",
+        "text": "Membaca"
+      }
+    ],
+    "answer": "c",
+    "explanation": "飲む（のむ）berarti minum."
+  },
+  {
+    "id": 149,
+    "type": "vocabulary",
+    "question": "「近い」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dekat"
+      },
+      {
+        "id": "b",
+        "text": "Jauh"
+      },
+      {
+        "id": "c",
+        "text": "Panjang"
+      },
+      {
+        "id": "d",
+        "text": "Pendek"
+      }
+    ],
+    "answer": "a",
+    "explanation": "近い（ちかい）berarti dekat."
+  },
+  {
+    "id": 150,
+    "type": "vocabulary",
+    "question": "「必要」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Diperlukan"
+      },
+      {
+        "id": "b",
+        "text": "Sulit"
+      },
+      {
+        "id": "c",
+        "text": "Mudah"
+      },
+      {
+        "id": "d",
+        "text": "Indah"
+      }
+    ],
+    "answer": "a",
+    "explanation": "必要（ひつよう）berarti diperlukan atau dibutuhkan."
+  },
+  {
+    "id": 151,
+    "type": "vocabulary",
+    "question": "「働く」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Istirahat"
+      },
+      {
+        "id": "b",
+        "text": "Bekerja"
+      },
+      {
+        "id": "c",
+        "text": "Bermain"
+      },
+      {
+        "id": "d",
+        "text": "Tidur"
+      }
+    ],
+    "answer": "b",
+    "explanation": "働く（はたらく）berarti bekerja."
+  },
+  {
+    "id": 152,
+    "type": "vocabulary",
+    "question": "「会社」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perusahaan / kantor"
+      },
+      {
+        "id": "b",
+        "text": "Rumah sakit"
+      },
+      {
+        "id": "c",
+        "text": "Sekolah"
+      },
+      {
+        "id": "d",
+        "text": "Stasiun"
+      }
+    ],
+    "answer": "a",
+    "explanation": "会社（かいしゃ）berarti perusahaan atau kantor."
+  },
+  {
+    "id": 153,
+    "type": "vocabulary",
+    "question": "「約束」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Janji"
+      },
+      {
+        "id": "b",
+        "text": "Tempat"
+      },
+      {
+        "id": "c",
+        "text": "Waktu"
+      },
+      {
+        "id": "d",
+        "text": "Pekerjaan"
+      }
+    ],
+    "answer": "a",
+    "explanation": "約束（やくそく）berarti janji atau kesepakatan."
+  },
+  {
+    "id": 154,
+    "type": "vocabulary",
+    "question": "「遅れる」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Datang lebih awal"
+      },
+      {
+        "id": "b",
+        "text": "Terlambat"
+      },
+      {
+        "id": "c",
+        "text": "Beristirahat"
+      },
+      {
+        "id": "d",
+        "text": "Memulai"
+      }
+    ],
+    "answer": "b",
+    "explanation": "遅れる（おくれる）berarti terlambat."
+  },
+  {
+    "id": 155,
+    "type": "vocabulary",
+    "question": "「予約」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pesanan / reservasi"
+      },
+      {
+        "id": "b",
+        "text": "Pembayaran"
+      },
+      {
+        "id": "c",
+        "text": "Pertanyaan"
+      },
+      {
+        "id": "d",
+        "text": "Jawaban"
+      }
+    ],
+    "answer": "a",
+    "explanation": "予約（よやく）berarti reservasi atau pemesanan."
+  },
+  {
+    "id": 156,
+    "type": "vocabulary",
+    "question": "「住所」は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nama"
+      },
+      {
+        "id": "b",
+        "text": "Nomor telepon"
+      },
+      {
+        "id": "c",
+        "text": "Alamat"
+      },
+      {
+        "id": "d",
+        "text": "Umur"
+      }
+    ],
+    "answer": "c",
+    "explanation": "住所（じゅうしょ）berarti alamat."
+  },
+  {
+    "id": 157,
+    "type": "vocabulary",
+    "question": "「洗う」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mencuci"
+      },
+      {
+        "id": "b",
+        "text": "Membeli"
+      },
+      {
+        "id": "c",
+        "text": "Membuat"
+      },
+      {
+        "id": "d",
+        "text": "Makan"
+      }
+    ],
+    "answer": "a",
+    "explanation": "洗う（あらう）berarti mencuci."
+  },
+  {
+    "id": 158,
+    "type": "vocabulary",
+    "question": "「危ない」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aman"
+      },
+      {
+        "id": "b",
+        "text": "Berbahaya"
+      },
+      {
+        "id": "c",
+        "text": "Mudah"
+      },
+      {
+        "id": "d",
+        "text": "Murah"
+      }
+    ],
+    "answer": "b",
+    "explanation": "危ない（あぶない）berarti berbahaya."
+  },
+  {
+    "id": 159,
+    "type": "vocabulary",
+    "question": "「始める」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Selesai"
+      },
+      {
+        "id": "b",
+        "text": "Berhenti"
+      },
+      {
+        "id": "c",
+        "text": "Memulai"
+      },
+      {
+        "id": "d",
+        "text": "Melupakan"
+      }
+    ],
+    "answer": "c",
+    "explanation": "始める（はじめる）berarti memulai."
+  },
+  {
+    "id": 160,
+    "type": "vocabulary",
+    "question": "「確認する」の意味は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memeriksa / memastikan"
+      },
+      {
+        "id": "b",
+        "text": "Menghapus"
+      },
+      {
+        "id": "c",
+        "text": "Mengubah"
+      },
+      {
+        "id": "d",
+        "text": "Menyalin"
+      }
+    ],
+    "answer": "a",
+    "explanation": "確認する（かくにんする）berarti memeriksa atau memastikan."
+  },
+  {
+    "id": 161,
+    "type": "reading",
+    "passage": "【ごみ出しのおねがい】\n\n・燃えるごみ：火曜日・金曜日\n・缶・ペットボトル：水曜日\n\n※朝8:30までにごみステーションに出してください。\n※夜にごみを出さないでください。",
+    "question": "ペットボトルはいつ出しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "火曜日の朝"
+      },
+      {
+        "id": "b",
+        "text": "水曜日の朝"
+      },
+      {
+        "id": "c",
+        "text": "水曜日の夜"
+      },
+      {
+        "id": "d",
+        "text": "金曜日の夜"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pada pengumuman, ペットボトル dibuang pada hari Rabu (水曜日) dan harus dikeluarkan sebelum jam 8:30 pagi (朝). Malam hari (夜) dilarang membuang sampah."
+  },
+  {
+    "id": 162,
+    "type": "reading",
+    "passage": "【断水のお知らせ】\n\n工事のため、水が止まります。\n\n・日時：11月10日（木）13:00 ～ 16:00\n・対象：全部屋\n\n※この時間はお風呂やトイレの水が使えません。\n※前もって飲み水を準備してください。",
+    "question": "11月10日の午後2時にできることは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "お風呂に入る"
+      },
+      {
+        "id": "b",
+        "text": "トイレの水を流す"
+      },
+      {
+        "id": "c",
+        "text": "前もって準備した水を飲む"
+      },
+      {
+        "id": "d",
+        "text": "部屋で洗濯をする"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Pukul 14:00 (午後2時) termasuk dalam rentang waktu air mati (13:00 - 16:00). Yang bisa dilakukan hanyalah minum air yang sudah disiapkan sebelumnya."
+  },
+  {
+    "id": 163,
+    "type": "reading",
+    "passage": "田中さん\n\nお疲れ様です。キムです。\n今日は風邪で熱があるので、会社を休みます。\n病院へ行ったあと、また連絡します。\n本日のミーティングの資料は、デスクトップの「10月」ファイルにあります。\nよろしくお願いします。",
+    "question": "キムさんはこれから何をしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "会社へ行って仕事をする"
+      },
+      {
+        "id": "b",
+        "text": "病院へ行く"
+      },
+      {
+        "id": "c",
+        "text": "ミーティングの資料を作る"
+      },
+      {
+        "id": "d",
+        "text": "田中さんに会いに行く"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kim menulis '病院へ行ったあと、また連絡します' (Setelah pergi ke rumah sakit, saya akan memberi kabar lagi), sehingga hal yang akan ia lakukan selanjutnya adalah pergi ke rumah sakit."
+  },
+  {
+    "id": 164,
+    "type": "reading",
+    "passage": "【新学期セール！】\n\n文房具が全品20％オフ！\n\n・期間：4月1日（月）～ 4月7日（日）\n・営業時間：10:00 ～ 20:00\n\n※3,000円以上買った人には、ノートを1冊プレゼントします。",
+    "question": "このお店について、正しいものはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "4月8日もセールをしています。"
+      },
+      {
+        "id": "b",
+        "text": "夜9時まで店が開いています。"
+      },
+      {
+        "id": "c",
+        "text": "5,000円分買ったら、ノートがもらえます。"
+      },
+      {
+        "id": "d",
+        "text": "本や服も20％オフです。"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Syarat bonus buku catatan adalah belanja minimal 3.000 yen (3,000円以上). Belanja 5.000 yen sudah melebihi 3.000 yen."
+  },
+  {
+    "id": 165,
+    "type": "reading",
+    "passage": "【さくらクリニック 診察時間】\n\n・月・火・木・金：9:00～12:00 / 15:00～18:00\n・水・土：9:00～12:00（※午後は休み）\n・休診日：日曜日・祝日\n\n※初めての人は、終了30分前までに来てください。",
+    "question": "木曜日の午後4時に病院へ行くことができますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "いいえ、木曜日の午後は休みです。"
+      },
+      {
+        "id": "b",
+        "text": "はい、診察を受けることができます。"
+      },
+      {
+        "id": "c",
+        "text": "いいえ、午前中しか開いていません。"
+      },
+      {
+        "id": "d",
+        "text": "はい、日曜日なら行けます。"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Hari Kamis (木曜日) jam buka sore adalah 15:00-18:00. Pukul 16:00 (午後4時) berada dalam jam buka."
+  },
+  {
+    "id": 166,
+    "type": "reading",
+    "passage": "【宅配ボックスの利用について】\n\n荷物が届いたとき、不在の場合は1階の宅配ボックスに入ります。\n\n・取り出し方：部屋の鍵をかざしてください。\n・注意：生鮮食品や大きな荷物は入れられません。",
+    "question": "宅配ボックスから荷物を取るとき、何を使いますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "お金"
+      },
+      {
+        "id": "b",
+        "text": "部屋の鍵"
+      },
+      {
+        "id": "c",
+        "text": "パスワード"
+      },
+      {
+        "id": "d",
+        "text": "電話番号"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pada bagian cara mengambil tertulis '部屋の鍵をかざしてください' (Harap menempelkan kunci kamar)."
+  },
+  {
+    "id": 167,
+    "type": "reading",
+    "passage": "【社内連絡】\n\n社員のみなさんへ\n明日の避難訓練は10時からです。\n10時になったら、非常ベルが鳴ります。\n仕事をやめて、階段で1階の駐車場へ集まってください。\n※エレベーターは使わないでください。",
+    "question": "避難訓練のとき、どうしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "エレベーターで1階へ行きます。"
+      },
+      {
+        "id": "b",
+        "text": "仕事を続けます。"
+      },
+      {
+        "id": "c",
+        "text": "階段を使って駐車場へ行きます。"
+      },
+      {
+        "id": "d",
+        "text": "自分の部屋にいます。"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Instruksi meminta berkumpul di tempat parkir lantai 1 menggunakan tangga (階段で)."
+  },
+  {
+    "id": 168,
+    "type": "reading",
+    "passage": "【電子レンジの使い方】\n\nお弁当を温めるとき：\n・500W：1分30秒\n・1000W：45秒\n\n※フタを少しあけてから温めてください。\n※缶やビンはレンジに入れないでください。",
+    "question": "500Wの電子レンジでお弁当を温めるとき、どのくらい時間がかかりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "45秒"
+      },
+      {
+        "id": "b",
+        "text": "1分"
+      },
+      {
+        "id": "c",
+        "text": "1分30秒"
+      },
+      {
+        "id": "d",
+        "text": "3分"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Untuk daya 500W membutuhkan waktu 1 menit 30 detik (1分30秒)."
+  },
+  {
+    "id": 169,
+    "type": "reading",
+    "passage": "【スーパー「みどり」の特別クーポン】\n\n・1,000円以上のお買い上げで100円引き！\n・有効期限：8月1日（金）～ 8月7日（木）\n\n※お弁当・お酒には使えません。\n※レジでこのクーポンを見せてください。",
+    "question": "このクーポンについて、正しいものはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "お酒を買うときも使えます。"
+      },
+      {
+        "id": "b",
+        "text": "8月10日に使うことができます。"
+      },
+      {
+        "id": "c",
+        "text": "1,500円の野菜を買うとき、100円安くなります。"
+      },
+      {
+        "id": "d",
+        "text": "お買い物をする前に店員に渡します。"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Belanja sayuran 1.500 yen memenuhi syarat belanja di atas 1.000 yen dan bukan bento/alkohol."
+  },
+  {
+    "id": 170,
+    "type": "reading",
+    "passage": "【マンション清掃のお知らせ】\n\n来週の月曜日、エントランスと廊下の掃除をします。\n\n・日時：9月5日（月）9:00 ～ 12:00\n・お願い：廊下に荷物や自転車を置かないでください。\n\n※水を使って洗うので、滑りやすいです。注意してください。",
+    "question": "9月5日の午前中に、住んでいる人は何をしなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "自分の部屋を掃除する。"
+      },
+      {
+        "id": "b",
+        "text": "廊下に置いている荷物を片付ける。"
+      },
+      {
+        "id": "c",
+        "text": "9時から12時まで外に出ない。"
+      },
+      {
+        "id": "d",
+        "text": "廊下に水を用意する。"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pengumuman meminta penghuni tidak menaruh barang/sepeda di koridor, jadi barang di koridor harus dipindahkan/dibereskan."
+  },
+  {
+    "id": 171,
+    "type": "reading",
+    "passage": "山田さん\n\nお疲れ様です。アリです。\n来週のシフトについて相談です。\n9月12日（火）に大学の試験があります。\nすみませんが、12日のシフトを14日（木）に変更してもいいですか。\nお返事を待っています。よろしくお願いします。",
+    "question": "アリさんはどうしてメールを書きましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "9月12日にアルバイトを休んで、14日に働きたいから。"
+      },
+      {
+        "id": "b",
+        "text": "山田さんに試験の準備を手伝ってほしいから。"
+      },
+      {
+        "id": "c",
+        "text": "9月14日の試験の日を変えたいから。"
+      },
+      {
+        "id": "d",
+        "text": "新しいシフトの表を送ってほしいから。"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Ari memohon penukaran jadwal kerja dari tanggal 12 (karena ujian) menjadi tanggal 14."
+  },
+  {
+    "id": 172,
+    "type": "reading",
+    "passage": "【みなと駅行きバスの案内】\n\n・平日：7:15 / 7:45 / 8:15 / 8:45\n・土日・祝日：8:00 / 9:00 / 10:00\n\n※運賃：大人200円、子ども100円\n※ICカードを使うと10円安くなります。",
+    "question": "土曜日に大人がICカードでバスに乗ると、いくらですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "200円"
+      },
+      {
+        "id": "b",
+        "text": "190円"
+      },
+      {
+        "id": "c",
+        "text": "100円"
+      },
+      {
+        "id": "d",
+        "text": "90円"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Tarif normal dewasa 200 yen. Menggunakan kartu IC diskon 10 yen, jadi 190 yen."
+  },
+  {
+    "id": 173,
+    "type": "reading",
+    "passage": "【図書館からのお知らせ】\n\n・借りられる本：1人5冊まで\n・借りられる期間：2週間\n\n※DVDやCDは2枚まで、1週間借りられます。\n※返却が遅れた人は、新しい本を借りられません。",
+    "question": "本は何冊まで借りられますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1冊"
+      },
+      {
+        "id": "b",
+        "text": "2冊"
+      },
+      {
+        "id": "c",
+        "text": "5冊"
+      },
+      {
+        "id": "d",
+        "text": "14冊"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Maksimal peminjaman buku adalah 5 buah (1人5冊まで)."
+  },
+  {
+    "id": 174,
+    "type": "reading",
+    "passage": "【社内フットサル大会】\n\n・日時：10月20日（日）10:00 ～ 15:00\n・場所：市民体育館\n・持ち物：運動靴・タオル・飲み物\n\n※昼食（お弁当）は会社が準備します。",
+    "question": "参加する人は、何を持っていかなくてもいいですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "運動靴"
+      },
+      {
+        "id": "b",
+        "text": "タオル"
+      },
+      {
+        "id": "c",
+        "text": "お弁当"
+      },
+      {
+        "id": "d",
+        "text": "飲み物"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Makan siang disiapkan oleh perusahaan (会社が準備します), jadi tidak perlu membawa obento."
+  },
+  {
+    "id": 175,
+    "type": "reading",
+    "passage": "【薬の飲み方】\n\n・1日3回、朝・昼・晩の食後に飲んでください。\n・1回に2錠ずつぬるま湯で飲んでください。\n\n※お酒と一緒に飲まないでください。",
+    "question": "この薬はいつ飲みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ご飯を食べる前"
+      },
+      {
+        "id": "b",
+        "text": "ご飯を食べた後"
+      },
+      {
+        "id": "c",
+        "text": "寝る前"
+      },
+      {
+        "id": "d",
+        "text": "お風呂に入った後"
+      }
+    ],
+    "answer": "b",
+    "explanation": "'食後' artinya setelah makan (ご飯を食べた後)."
+  },
+  {
+    "id": 176,
+    "type": "reading",
+    "passage": "【新入社員研修のご案内】\n\n・日時：5月10日（金）13:30 ～ 17:00\n・場所：3階 第2会議室\n\n※開始10分前までに席についてください。\n※筆記用具（ペンやノート）を持ってきてください。",
+    "question": "研修は何時までに部屋へ行かなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "13:00"
+      },
+      {
+        "id": "b",
+        "text": "13:20"
+      },
+      {
+        "id": "c",
+        "text": "13:30"
+      },
+      {
+        "id": "d",
+        "text": "17:00"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pelatihan mulai pukul 13:30 dan harus duduk 10 menit sebelumnya (13:20)."
+  },
+  {
+    "id": 177,
+    "type": "reading",
+    "passage": "【停電のお知らせ】\n\n電気の工事のため、一時的に電気を止めます。\n\n・日時：12月3日（日）9:00 ～ 12:00\n・対象：全館\n\n※パソコンやテレビは使えません。\n※冷蔵庫のドアを開けないでください。",
+    "question": "12月3日の午前10時にしてはいけないことは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "部屋の掃除をする"
+      },
+      {
+        "id": "b",
+        "text": "本を読む"
+      },
+      {
+        "id": "c",
+        "text": "冷蔵庫のドアを開ける"
+      },
+      {
+        "id": "d",
+        "text": "散歩に行く"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Saat pemadaman dilarang membuka pintu kulkas (冷蔵庫のドアを開けないでください)."
+  },
+  {
+    "id": 178,
+    "type": "reading",
+    "passage": "サントスさん\n\nお疲れ様です。リーです。\n今日の約束ですが、電車が遅れています。\n15分くらい遅れそうです。\n先にカフェに入って待っていてください。\nごめんなさい。",
+    "question": "リーさんはどうして遅れますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "道に迷ったから"
+      },
+      {
+        "id": "b",
+        "text": "電車が遅れているから"
+      },
+      {
+        "id": "c",
+        "text": "仕事が終わらないから"
+      },
+      {
+        "id": "d",
+        "text": "体調が悪いから"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Lee terlambat karena kereta mengalami keterlambatan (電車が遅れている)."
+  },
+  {
+    "id": 179,
+    "type": "reading",
+    "passage": "【ランチタイムサービス】\n\n・時間：平日 11:30 ～ 14:00\n・内容：すべてのランチセットにドリンク（飲み物）が無料でつきます。\n\n※土曜日・日曜日はこのサービスはありません。",
+    "question": "無料でドリンクがもらえるのはいつですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "土曜日の12:00"
+      },
+      {
+        "id": "b",
+        "text": "日曜日の13:00"
+      },
+      {
+        "id": "c",
+        "text": "火曜日の12:30"
+      },
+      {
+        "id": "d",
+        "text": "月曜日の15:00"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Layanan gratis minuman hanya pada hari kerja jam 11:30-14:00. Hari Selasa jam 12:30 memenuhi syarat."
+  },
+  {
+    "id": 180,
+    "type": "reading",
+    "passage": "【日本語会話クラス】\n\n・期間：10月～12月（毎週水曜日）\n・時間：19:00 ～ 20:30\n・場所：市民センター 2階\n・定員：15人（先着順）\n\n※申し込みは電話かメールでお願いします。",
+    "question": "クラスに参加したいとき、どうやって申し込みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "市民センターの受付へ行く"
+      },
+      {
+        "id": "b",
+        "text": "電話かメールをする"
+      },
+      {
+        "id": "c",
+        "text": "手紙を送る"
+      },
+      {
+        "id": "d",
+        "text": "水曜日の19時に直接行く"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pendaftaran dilakukan melalui telepon atau email (電話かメール)."
+  },
+  {
+    "id": 181,
+    "type": "reading",
+    "passage": "【エレベーター点検のお知らせ】\n\n・日時：11月15日（水）10:00 ～ 12:00\n・理由：定期点検のため\n\n※作業中はエレベーターが使えません。階段をご利用ください。ご不便をおかけしますが、ご協力をお願いします。",
+    "question": "11月15日の11時にエレベーターを使いたい人は、どうしなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "階段を使う"
+      },
+      {
+        "id": "b",
+        "text": "12時まで点検を待ってもらう"
+      },
+      {
+        "id": "c",
+        "text": "受付に電話する"
+      },
+      {
+        "id": "d",
+        "text": "エレベーターのボタンを押す"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Selama pemeriksaan (10:00-12:00) lift tidak bisa digunakan, sehingga penghuni wajib menggunakan tangga."
+  },
+  {
+    "id": 182,
+    "type": "reading",
+    "passage": "【プラスチックごみの出し方】\n\nペットボトルや食品のパックなどのプラスチックごみは、必ず水で軽く洗ってから透明な袋に入れて出してください。\n汚れが落ちないものは「燃えるごみ」として出してください。\n\n※収集日：毎週火曜日・金曜日（朝8時まで）",
+    "question": "汚れているプラスチックの容器は、どうやって捨てますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "水で洗わずにプラスチックごみに出す"
+      },
+      {
+        "id": "b",
+        "text": "燃えるごみとして出す"
+      },
+      {
+        "id": "c",
+        "text": "コンビニに持っていく"
+      },
+      {
+        "id": "d",
+        "text": "粗大ごみとして出す"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Sampah plastik yang kotorannya tidak bisa hilang dibuang sebagai sampah yang dapat dibakar (燃えるごみ)."
+  },
+  {
+    "id": 183,
+    "type": "reading",
+    "passage": "田中さんへ\n\nお疲れ様です。鈴木です。\n今日の14時からのミーティングですが、会議室Bのエアコンが故障したため、会議室Cへ変更します。\n時間は変更ありません。14時までに会議室Cへお越しください。よろしくお願いします。",
+    "question": "今日のミーティングについて、正しいものはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "時間が変更になった"
+      },
+      {
+        "id": "b",
+        "text": "会議室Bで行う"
+      },
+      {
+        "id": "c",
+        "text": "会議室Cで行う"
+      },
+      {
+        "id": "d",
+        "text": "明日に延期になった"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Karena AC di Ruang B rusak, lokasi rapat dipindah ke Ruang C (会議室C) tanpa mengubah jam acara."
+  },
+  {
+    "id": 184,
+    "type": "reading",
+    "passage": "【図書室のご案内】\n\n・開館時間：9:00 ～ 17:00（土日祝は休み）\n・貸出期間：1人5冊まで、2週間\n\n※本を返すときは、カウンターへお持ちください。閉館しているときは、入口の「返却ボックス」に入れてください。",
+    "question": "休みの日に本を返したいときは、どうしますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "カウンターで返す"
+      },
+      {
+        "id": "b",
+        "text": "入口の返却ボックスに入れる"
+      },
+      {
+        "id": "c",
+        "text": "次の月曜日まで持っておく"
+      },
+      {
+        "id": "d",
+        "text": "電話で連絡する"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Saat perpustakaan tutup (termasuk hari libur), buku dikembalikan dengan memasukannya ke dalam kotak pengembalian (返却ボックス) di pintu masuk."
+  },
+  {
+    "id": 185,
+    "type": "reading",
+    "passage": "【定期健康診断を受ける方へ】\n\n明日の朝、健康診断があります。\n今夜の21時以降は、食べ物を食べないでください。お茶や水は飲んでもかまいません。\n明日の朝は、朝食を食べずに会場へ来てください。",
+    "question": "今夜の22時にやってよいことは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "夜食を食べること"
+      },
+      {
+        "id": "b",
+        "text": "お水を飲むこと"
+      },
+      {
+        "id": "c",
+        "text": "朝食の準備をすること"
+      },
+      {
+        "id": "d",
+        "text": "お酒を飲むこと"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Setelah jam 21:00 dilarang makan, tetapi masih diperbolehkan minum air putih atau teh."
+  },
+  {
+    "id": 186,
+    "type": "reading",
+    "passage": "【本日限定タイムセール！】\n\n本日16:00 ～ 17:00の1時間限定で、お弁当・お惣菜コーナー全品が30％引きになります！\n\n※お一人様合計5個までとさせていただきます。\n※売り切れ次第終了となりますので、お早めにご利用ください。",
+    "question": "タイムセールについて、正しいものはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "一日中お弁当が安くなる"
+      },
+      {
+        "id": "b",
+        "text": "16:00から17:00まで30%安くなる"
+      },
+      {
+        "id": "c",
+        "text": "一人で何個買ってもよい"
+      },
+      {
+        "id": "d",
+        "text": "野菜コーナーが安くなる"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Diskon 30% berlaku terbatas pada jam 16:00-17:00 untuk kategori bento/makanan jadi."
+  },
+  {
+    "id": 187,
+    "type": "reading",
+    "passage": "【作業員の皆さんへ】\n\n工場内で作業をするときは、必ずヘルメットと安全靴を着用してください。\n特に、荷物を運ぶトラックが通るエリアでは、携帯電話を見ながら歩くことは大変危険ですので絶対にやめてください。",
+    "question": "工場内で絶対にやってはいけないことは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ヘルメットをかぶること"
+      },
+      {
+        "id": "b",
+        "text": "安全靴をはくこと"
+      },
+      {
+        "id": "c",
+        "text": "スマホを見ながら歩くこと"
+      },
+      {
+        "id": "d",
+        "text": "トラックの近くを通ること"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Berjalan sambil melihat ponsel/smartphone di dalam pabrik dilarang keras karena berbahaya."
+  },
+  {
+    "id": 188,
+    "type": "reading",
+    "passage": "【日本語スピーチ大会のお知らせ】\n\n・日時：12月10日（日）13:00 ～ 16:00\n・場所：市民ホール 大ホール\n・対象：外国人住民（定員20名）\n・参加費：無料\n\n※申し込み締め切りは11月20日（月）です。定員になり次第、受付を終了します。",
+    "question": "スピーチ大会に参加したい人は、どう注意しなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "参加費としてお金を払う"
+      },
+      {
+        "id": "b",
+        "text": "11月20日までに申し込む"
+      },
+      {
+        "id": "c",
+        "text": "12月10日に直接会場で申し込む"
+      },
+      {
+        "id": "d",
+        "text": "日本人しか参加できない"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Batas waktu pendaftaran adalah tanggal 20 November (11月20日までに申し込む)."
+  },
+  {
+    "id": 189,
+    "type": "reading",
+    "passage": "【住人の皆様へ：断水のお知らせ】\n\n水道管の清掃作業のため、下記の日時は水が出なくなります。\n\n・日時：8月25日（金）13:00 ～ 16:00\n\n※作業中はトイレの水も流せません。事前にバケツ等に水を溜めておいてください。ご協力をお願いいたします。",
+    "question": "8月25日の午前に、住人は何をしておくといいですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "バケツ等に水を溜めておく"
+      },
+      {
+        "id": "b",
+        "text": "13時から16時までトイレを使う"
+      },
+      {
+        "id": "c",
+        "text": "水道管の清掃を手伝う"
+      },
+      {
+        "id": "d",
+        "text": "部屋の鍵を開けておく"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Karena pemadaman air berlangsung jam 13:00-16:00, penghuni disarankan menampung air di ember sebelum pemadaman."
+  },
+  {
+    "id": 190,
+    "type": "reading",
+    "passage": "高橋先生\n\nいつもお世話になっております。留学生のキムです。\n今朝から熱が38度あり、頭も痛いため、本日の授業を休ませていただきます。\n午後から病院へ行く予定です。宿題については、明日体調が良くなったら提出します。\nどうぞよろしくお願いいたします。",
+    "question": "キムさんは、なぜ今日の授業を休みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "病院でアルバイトがあるから"
+      },
+      {
+        "id": "b",
+        "text": "熱があって体調が悪いから"
+      },
+      {
+        "id": "c",
+        "text": "宿題が終わっていないから"
+      },
+      {
+        "id": "d",
+        "text": "家族と旅行に行くから"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kim memohon izin tidak masuk kelas karena mengalami demam 38度 dan sakit kepala."
+  },
+  {
+    "id": 191,
+    "type": "reading",
+    "passage": "【ご宿泊のお客様へ】\n\n・チェックアウト時間：午前10:00まで\n・朝食バイキング：7:00 ～ 9:30（1階 レストラン）\n\n※朝食券はレストランの入口でスタッフにお渡しください。9:00までにご入場いただきますようお願いいたします。",
+    "question": "朝食を食べたい人は、どうしなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "10:00までにチェックアウトする"
+      },
+      {
+        "id": "b",
+        "text": "9:00までにレストランに入る"
+      },
+      {
+        "id": "c",
+        "text": "部屋で朝食券を渡す"
+      },
+      {
+        "id": "d",
+        "text": "9:30以降に1階へ行く"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Meskipun sarapan berakhir jam 09:30, pengunjung diwajibkan sudah masuk ke restoran sebelum jam 09:00 (9:00までにご入場)."
+  },
+  {
+    "id": 192,
+    "type": "reading",
+    "passage": "【ご不在連絡票】\n\n本日 14:15 に荷物をお届けに参りましたが、ご不在でしたので持ち帰りました。\n再配達をご希望の方は、下記のお電話番号またはQRコードよりご連絡ください。\n\n※本日中の再配達の受付は 18:00 までとなります。",
+    "question": "今日中に荷物を受け取りたい人は、何時までに連絡しなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "14:15まで"
+      },
+      {
+        "id": "b",
+        "text": "18:00まで"
+      },
+      {
+        "id": "c",
+        "text": "明日の朝まで"
+      },
+      {
+        "id": "d",
+        "text": "いつでもよい"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Batas penerimaan pengiriman ulang (再配達) pada hari yang sama adalah jam 18:00."
+  },
+  {
+    "id": 193,
+    "type": "reading",
+    "passage": "【クリーン作戦（公園清掃）のお誘い】\n\n・日時：6月4日（日）8:30 ～ 9:30\n・場所：緑町公園\n・持ち物：軍手（作業用の手袋）\n\n※掃除用具（ほうき・ゴミ袋）は主催者が用意します。雨の場合は中止となります。中止の場合は当日7時までにホームページでお知らせします。",
+    "question": "清掃活動に参加する人が自分で持っていくものは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ほうき"
+      },
+      {
+        "id": "b",
+        "text": "ゴミ袋"
+      },
+      {
+        "id": "c",
+        "text": "軍手（手袋）"
+      },
+      {
+        "id": "d",
+        "text": "掃除機"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Sapu dan kantong sampah sudah disediakan panitia, yang wajib dibawa sendiri oleh peserta adalah sarung tangan kerja (軍手)."
+  },
+  {
+    "id": 194,
+    "type": "reading",
+    "passage": "【フィットネスクラブご利用のルール】\n\nトレーニングエリアをご利用の際は、必ず室内用の運動靴（上履き）に履き替えてください。外履きのままのご利用は固くお断りいたします。\nまた、マシンを使った後は、設置してあるタオルで汗をきれいに拭いてください。",
+    "question": "マシンを使った後、何をしなければなりませんか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "靴を脱ぐ"
+      },
+      {
+        "id": "b",
+        "text": "タオルでマシンの汗を拭く"
+      },
+      {
+        "id": "c",
+        "text": "新しいマシンを買う"
+      },
+      {
+        "id": "d",
+        "text": "スタッフを呼ぶ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Setelah memakai mesin gym, pengguna harus membersihkan bekas keringat pada mesin menggunakan handuk yang disediakan."
+  },
+  {
+    "id": 195,
+    "type": "reading",
+    "passage": "【高速バスをご利用のお客様へ】\n\n乗車券は事前にお買い求めください。バス車内での現金支払いはできません。\n大きな荷物（スーツケースなど）は、お一人様1個まで下の荷物室にお預かりできます。\n発車時間の5分前までに乗り場へお越しください。",
+    "question": "高速バスに乗るとき、注意しなければならないことは何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "バスの中で現金で払う"
+      },
+      {
+        "id": "b",
+        "text": "発車5分前までに乗り場へ行く"
+      },
+      {
+        "id": "c",
+        "text": "スーツケースを3個持ち込む"
+      },
+      {
+        "id": "d",
+        "text": "乗車券を買わずに乗る"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Penumpang diwajibkan sudah tiba di halte/tempat keberangkatan paling lambat 5 menit sebelum jam keberangkatan (発車時間の5分前までに乗り場へ)."
+  },
+  {
+    "id": 196,
+    "type": "vocabulary",
+    "image": "images/badan panas.png",
+    "passage": "",
+    "question": "絵の人はどうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ねつがあります。"
+      },
+      {
+        "id": "b",
+        "text": "おなかがいたいです。"
+      },
+      {
+        "id": "c",
+        "text": "せきがでます。"
+      },
+      {
+        "id": "d",
+        "text": "めまいがします。"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan suhu tubuh 38.0°C dan memakai kompres, yang berarti demam (ねつがあります / Netsu ga arimasu)."
+  },
+  {
+    "id": 197,
+    "type": "vocabulary",
+    "image": "images/cemilan.png",
+    "passage": "",
+    "question": "絵のものは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "おかし"
+      },
+      {
+        "id": "b",
+        "text": "のみもの"
+      },
+      {
+        "id": "c",
+        "text": "くだもの"
+      },
+      {
+        "id": "d",
+        "text": "やさい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan cemilan/makanan ringan (keripik, biskuit, cokelat), yang dalam bahasa Jepang disebut おかし (Okashi)."
+  },
+  {
+    "id": 198,
+    "type": "vocabulary",
+    "image": "images/Hooru.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ホール"
+      },
+      {
+        "id": "b",
+        "text": "びじゅつかん"
+      },
+      {
+        "id": "c",
+        "text": "としょかん"
+      },
+      {
+        "id": "d",
+        "text": "えいがかん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan ruangan aula/panggung dengan banyak kursi penonton, yaitu ホール (Hooru / Aula)."
+  },
+  {
+    "id": 199,
+    "type": "vocabulary",
+    "image": "images/Infomēshon Kōnā.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ぶっさんコーナー"
+      },
+      {
+        "id": "b",
+        "text": "インフォメーションコーナー"
+      },
+      {
+        "id": "c",
+        "text": "レストラン"
+      },
+      {
+        "id": "d",
+        "text": "うけつけ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan papan petunjuk 'INFORMATION' dan petugas di meja informasi, yaitu インフォメーションコーナー (Infomeshon kona)."
+  },
+  {
+    "id": 200,
+    "type": "vocabulary",
+    "image": "images/bijutsukan.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "はくぶつかん"
+      },
+      {
+        "id": "b",
+        "text": "としょかん"
+      },
+      {
+        "id": "c",
+        "text": "びじゅつかん"
+      },
+      {
+        "id": "d",
+        "text": "えいがかん"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Gambar menunjukkan orang-orang sedang menikmati lukisan di galeri seni, yaitu びじゅつかん (Bijutsukan / Museum Seni)."
+  },
+  {
+    "id": 201,
+    "type": "vocabulary",
+    "image": "images/bussankona.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ぶっさんコーナー"
+      },
+      {
+        "id": "b",
+        "text": "インフォメーションコーナー"
+      },
+      {
+        "id": "c",
+        "text": "ホール"
+      },
+      {
+        "id": "d",
+        "text": "びじゅつかん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan toko/sudut penjualan oleh-oleh & produk khas daerah dengan kain bertuliskan 物産コーナー (ぶっさんコーナー / Bussan kona)."
+  },
+  {
+    "id": 202,
+    "type": "vocabulary",
+    "image": "images/ofuro.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "おふろ"
+      },
+      {
+        "id": "b",
+        "text": "プール"
+      },
+      {
+        "id": "c",
+        "text": "レストラン"
+      },
+      {
+        "id": "d",
+        "text": "としょかん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan tempat pemandian umum/kamar mandi, yaitu おふろ (Ofuro)."
+  },
+  {
+    "id": 203,
+    "type": "vocabulary",
+    "image": "images/Puranetariumu.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "えいがかん"
+      },
+      {
+        "id": "b",
+        "text": "プラネタリウム"
+      },
+      {
+        "id": "c",
+        "text": "びじゅつかん"
+      },
+      {
+        "id": "d",
+        "text": "ホール"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan kubah proyeksi Bintang dan proyektor astronomi, yaitu プラネタリウム (Puranetariumu / Planetarium)."
+  },
+  {
+    "id": 204,
+    "type": "vocabulary",
+    "image": "images/puuru.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "うみ"
+      },
+      {
+        "id": "b",
+        "text": "かわ"
+      },
+      {
+        "id": "c",
+        "text": "プール"
+      },
+      {
+        "id": "d",
+        "text": "おふろ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Gambar menunjukkan lintasan dan orang berenang di kolam renang, yaitu プール (Puuru / Kolam Renang)."
+  },
+  {
+    "id": 205,
+    "type": "vocabulary",
+    "image": "images/supotsuzimu.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "スポーツジム"
+      },
+      {
+        "id": "b",
+        "text": "こうえん"
+      },
+      {
+        "id": "c",
+        "text": "がっこう"
+      },
+      {
+        "id": "d",
+        "text": "びょういん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan peralatan fitness/olahraga seperti sepeda statis, yaitu スポーツジム (Supōtsujimu / Gym)."
+  },
+  {
+    "id": 206,
+    "type": "vocabulary",
+    "image": "images/membuka lemari.png",
+    "passage": "",
+    "question": "絵の人は 何を していますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "たなを あけます"
+      },
+      {
+        "id": "b",
+        "text": "ドアを しめます"
+      },
+      {
+        "id": "c",
+        "text": "まどを あけます"
+      },
+      {
+        "id": "d",
+        "text": "ふくを きています"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan orang sedang membuka lemari/rak tempat menyimpan tisu (たなを あけます / Tana o akemasu)."
+  },
+  {
+    "id": 207,
+    "type": "vocabulary",
+    "image": "images/minzokushiryokan.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "みんぞくしりょうかん"
+      },
+      {
+        "id": "b",
+        "text": "びじゅつかん"
+      },
+      {
+        "id": "c",
+        "text": "としょかん"
+      },
+      {
+        "id": "d",
+        "text": "えいがかん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan museum etnografi / sejarah budaya tradisional, yaitu みんぞくしりょうかん (Minzokushiryokan)."
+  },
+  {
+    "id": 208,
+    "type": "vocabulary",
+    "image": "images/taiikukan.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "たいいくかん"
+      },
+      {
+        "id": "b",
+        "text": "プール"
+      },
+      {
+        "id": "c",
+        "text": "こうえん"
+      },
+      {
+        "id": "d",
+        "text": "スポーツジム"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan gedung olahraga dalam ruangan (GOR), yaitu たいいくかん (Taiikukan)."
+  },
+  {
+    "id": 209,
+    "type": "vocabulary",
+    "image": "images/toshokan.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "としょかん"
+      },
+      {
+        "id": "b",
+        "text": "びじゅつかん"
+      },
+      {
+        "id": "c",
+        "text": "ほんや"
+      },
+      {
+        "id": "d",
+        "text": "ぶっさんコーナー"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan perpustakaan lengkap dengan rak buku dan meja petugas, yaitu としょかん (Toshokan)."
+  },
+  {
+    "id": 210,
+    "type": "vocabulary",
+    "image": "images/demonstrasi aikidō.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "あいきどうのデモンストレーション"
+      },
+      {
+        "id": "b",
+        "text": "カラオケたいかい"
+      },
+      {
+        "id": "c",
+        "text": "ファッションショー"
+      },
+      {
+        "id": "d",
+        "text": "スピーチコンテスト"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan peragaan/demonstrasi seni bela diri Aikido, yaitu 合気道のデモンストレーション (Aikidō no demonsturēshon)."
+  },
+  {
+    "id": 211,
+    "type": "vocabulary",
+    "image": "images/Fasshon shō.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "スピーチコンテスト"
+      },
+      {
+        "id": "b",
+        "text": "ファッションショー"
+      },
+      {
+        "id": "c",
+        "text": "スタンプラリー"
+      },
+      {
+        "id": "d",
+        "text": "パフォーマンス"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan peragaan busana/pakaian adat, yaitu ファッションショー (Fasshon shō / Fashion show)."
+  },
+  {
+    "id": 212,
+    "type": "vocabulary",
+    "image": "images/Kankō shōkai kōnā.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "かんこうしょうかいコーナー"
+      },
+      {
+        "id": "b",
+        "text": "やたい"
+      },
+      {
+        "id": "c",
+        "text": "ステージ"
+      },
+      {
+        "id": "d",
+        "text": "としょかん"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan stan/booth informasi pariwisata, yaitu 観光紹介コーナー (Kankō shōkai kōnā)."
+  },
+  {
+    "id": 213,
+    "type": "vocabulary",
+    "image": "images/Karaoke taikai.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "スピーチコンテスト"
+      },
+      {
+        "id": "b",
+        "text": "パフォーマンス"
+      },
+      {
+        "id": "c",
+        "text": "カラオケたいかい"
+      },
+      {
+        "id": "d",
+        "text": "ファッションショー"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Gambar menunjukkan orang bernyanyi di panggung acara karaoke, yaitu カラオケ大会 (Karaoke taikai)."
+  },
+  {
+    "id": 214,
+    "type": "vocabulary",
+    "image": "images/pafomansu.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "パフォーマンス"
+      },
+      {
+        "id": "b",
+        "text": "あいきどうのデモンストレーション"
+      },
+      {
+        "id": "c",
+        "text": "せかいのあそびたいけん"
+      },
+      {
+        "id": "d",
+        "text": "スタンプラリー"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan pertunjukan seni/atraksi badut dan juggler, yaitu パフォーマンス (Pafōmansu / Performance)."
+  },
+  {
+    "id": 215,
+    "type": "vocabulary",
+    "image": "images/Sekai no asobi taiken.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "せかいのあそびたいけん"
+      },
+      {
+        "id": "b",
+        "text": "かんこうしょうかいコーナー"
+      },
+      {
+        "id": "c",
+        "text": "スピーチコンテスト"
+      },
+      {
+        "id": "d",
+        "text": "カラオケたいかい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan orang-orang mencoba permainan tradisional dari berbagai dunia, yaitu 世界の遊び体験 (Sekai no asobi taiken)."
+  },
+  {
+    "id": 216,
+    "type": "vocabulary",
+    "image": "images/Supīchi kontesuto.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "カラオケたいかい"
+      },
+      {
+        "id": "b",
+        "text": "スピーチコンテスト"
+      },
+      {
+        "id": "c",
+        "text": "ファッションショー"
+      },
+      {
+        "id": "d",
+        "text": "あいきどうのデモンストレーション"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan orang berpidato di mimbar panggung, yaitu スピーチコンテスト (Supīchi kontesuto / Speech contest)."
+  },
+  {
+    "id": 217,
+    "type": "vocabulary",
+    "image": "images/Sutanpu rarī.png",
+    "passage": "",
+    "question": "絵のイベントは なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "スタンプラリー"
+      },
+      {
+        "id": "b",
+        "text": "せかいのあそびたいけん"
+      },
+      {
+        "id": "c",
+        "text": "かんこうしょうかいコーナー"
+      },
+      {
+        "id": "d",
+        "text": "パフォーマンス"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan lembar pengumpulan stempel titik lokasi, yaitu スタンプラリー (Sutanpu rarī / Stamp rally)."
+  },
+  {
+    "id": 218,
+    "type": "vocabulary",
+    "image": "images/suteji.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "やたい"
+      },
+      {
+        "id": "b",
+        "text": "ステージ"
+      },
+      {
+        "id": "c",
+        "text": "たいいくかん"
+      },
+      {
+        "id": "d",
+        "text": "かんこうしょうかいコーナー"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan panggung acara, yaitu ステージ (Sutēji / Stage)."
+  },
+  {
+    "id": 219,
+    "type": "vocabulary",
+    "image": "images/yatai.png",
+    "passage": "",
+    "question": "絵の場所は なんですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "やたい"
+      },
+      {
+        "id": "b",
+        "text": "ステージ"
+      },
+      {
+        "id": "c",
+        "text": "かんこうしょうかいコーナー"
+      },
+      {
+        "id": "d",
+        "text": "レストラン"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan kedai/stand jualan makanan (takoyaki), yaitu やたい (Yatai / Stand makanan)."
+  },
+  {
+    "id": 300,
+    "type": "choukai",
+    "audio": "audio/choukai_300.m4a",
+    "passage": "男の人：すみません、この りんごは いくらですか。\n女の人：1つ 100円です。\n男の人：じゃ、3つ ください。\n女の人：はい、ありがとうございます。",
+    "question": "男の人は りんごを いくつ 買いますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1つ"
+      },
+      {
+        "id": "b",
+        "text": "2つ"
+      },
+      {
+        "id": "c",
+        "text": "3つ"
+      },
+      {
+        "id": "d",
+        "text": "4つ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki membeli 3 buah apel (3つ / mittsu) seharga 100 yen per buah."
+  },
+  {
+    "id": 301,
+    "type": "choukai",
+    "audio": "audio/choukai_301.m4a",
+    "passage": "女の人：明日 一緒に プールへ 行きませんか。\n男の人：いいですね。行きましょう。",
+    "question": "2人は 明日 どこへ 行きますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "うみ"
+      },
+      {
+        "id": "b",
+        "text": "プール"
+      },
+      {
+        "id": "c",
+        "text": "こうえん"
+      },
+      {
+        "id": "d",
+        "text": "レストラン"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Perempuan mengajak laki-laki pergi ke kolam renang (プール / Puuru) besok."
+  },
+  {
+    "id": 302,
+    "type": "choukai",
+    "audio": "audio/choukai_302.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：昨日 どうやって 大学へ 来ましたか。\n女の人：いつもは バスですが、昨日は 電車で 来ました。\n男の人：そうですか。",
+    "question": "女の人は 昨日 何で 大学へ 来ましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "バス"
+      },
+      {
+        "id": "b",
+        "text": "電車"
+      },
+      {
+        "id": "c",
+        "text": "自転車"
+      },
+      {
+        "id": "d",
+        "text": "歩いて"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Wanita tersebut menjelaskan bahwa biasanya ia naik bus (バス), tetapi khusus kemarin ia datang menggunakan kereta (電車)."
+  },
+  {
+    "id": 303,
+    "type": "choukai",
+    "audio": "audio/choukai_303.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません。このバスは 空港へ 行きますか。\n女の人：いいえ、行きませんよ。空港行きは 3番の バス乗り場です。\n男の人：あ、そうですか。ありがとうございます。",
+    "question": "男の人は 何番の バスに 乗りますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1番"
+      },
+      {
+        "id": "b",
+        "text": "2番"
+      },
+      {
+        "id": "c",
+        "text": "3番"
+      },
+      {
+        "id": "d",
+        "text": "4番"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Perempuan memberitahu bahwa bus menuju bandara ada di halte/pemberhentian bus nomor 3 (3番のバス乗り場)."
+  },
+  {
+    "id": 304,
+    "type": "choukai",
+    "audio": "audio/choukai_304.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：田中さん、いつも 朝ご飯を 食べますか。\n男の人：はい、パンと 卵を 食べます。パンがない 時は 果物を 食べます。\n女の人：へえ、そうですか。",
+    "question": "男の人は パンがない 時、何を 食べますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ご飯"
+      },
+      {
+        "id": "b",
+        "text": "果物"
+      },
+      {
+        "id": "c",
+        "text": "ラーメン"
+      },
+      {
+        "id": "d",
+        "text": "魚"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Laki-laki menyampaikan jika tidak ada roti (パンがない時), ia makan buah-buahan (果物)."
+  },
+  {
+    "id": 305,
+    "type": "choukai",
+    "audio": "audio/choukai_305.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません。ハサミは どこに ありますか。\n女の人：あそこ、本棚の 上の 箱の 中です。\n男の人：本棚の 上ですね。わかりました。",
+    "question": "ハサミは どこに ありますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "本棚の 下の 箱の中"
+      },
+      {
+        "id": "b",
+        "text": "本棚の 上の 箱の中"
+      },
+      {
+        "id": "c",
+        "text": "机の 上"
+      },
+      {
+        "id": "d",
+        "text": "カバンの 中"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Perempuan menjelaskan bahwa gunting ada di dalam kotak di atas rak buku (本棚の上の箱の中)."
+  },
+  {
+    "id": 306,
+    "type": "choukai",
+    "audio": "audio/choukai_306.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：明日の 天気は どうですか。\n男の人：天気予報では 雨ですが、午後は 晴れますよ。\n女の人：ああ、よかった。じゃ、公園に 行けますね。",
+    "question": "明日の 午後 天気は どうなりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "雨"
+      },
+      {
+        "id": "b",
+        "text": "くもり"
+      },
+      {
+        "id": "c",
+        "text": "晴れ"
+      },
+      {
+        "id": "d",
+        "text": "雪"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki menyampaikan bahwa perkiraan cuaca untuk besok sore akan cerah (午後は晴れます)."
+  },
+  {
+    "id": 307,
+    "type": "choukai",
+    "audio": "audio/choukai_307.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：明日の 会議は 10時からでしたよね。\n女の人：あ、すみません。会議室の都合で、11時に 変更になりました。\n男の人：わかりました。場所は 3階の 第1会議室ですか。\n女の人：いいえ、2階の 第2会議室です。",
+    "question": "明日の 会議は 何時から 始まりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "10時"
+      },
+      {
+        "id": "b",
+        "text": "10時半"
+      },
+      {
+        "id": "c",
+        "text": "11時"
+      },
+      {
+        "id": "d",
+        "text": "11時半"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki mengira rapat dimulai jam 10, tetapi wanita meluruskan bahwa jadwalnya diubah menjadi jam 11 (11時に変更になりました)."
+  },
+  {
+    "id": 308,
+    "type": "choukai",
+    "audio": "audio/choukai_308.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません、この資料を 20枚 コピーしてくれますか。\n女の人：はい。その前に、こちらの メールを 送りましょうか。\n男の人：あ、メールは 私が 送りますから、コピーを おねがいします。\n女の人：わかりました。すぐ やります。",
+    "question": "女の人は このあと まず 何を しますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "資料を コピーする"
+      },
+      {
+        "id": "b",
+        "text": "メールを 送る"
+      },
+      {
+        "id": "c",
+        "text": "会議室へ 行く"
+      },
+      {
+        "id": "d",
+        "text": "電話を かける"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Perempuan menawarkan diri untuk mengirim email dulu, tetapi laki-laki menolak dan mengambil alih tugas email tersebut. Jadi perempuan langsung difokuskan untuk memfotokopi dokumen (資料をコピーする)."
+  },
+  {
+    "id": 309,
+    "type": "choukai",
+    "audio": "audio/choukai_309.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：山田さん、昨日の パーティーに 来ませんでしたね。どうしたんですか。\n女の人：行きたかったんですが、熱があって 家で 休んでいました。\n男の人：ええっ、そうですか。今は 大丈夫ですか。\n女の人：ええ、おかげさまで 良く なりました。",
+    "question": "女の人は なぜ 昨日の パーティーに 来ませんでしたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "仕事が 忙しかったから"
+      },
+      {
+        "id": "b",
+        "text": "用事があったから"
+      },
+      {
+        "id": "c",
+        "text": "熱があったから"
+      },
+      {
+        "id": "d",
+        "text": "場所が 分からなかったから"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Perempuan menjelaskan bahwa ia sebenarnya ingin datang, tetapi tidak bisa hadir karena mengalami demam dan beristirahat di rumah (熱があって家で休んでいました)."
+  },
+  {
+    "id": 310,
+    "type": "choukai",
+    "audio": "audio/choukai_310.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません、この近くに コンビニは ありますか。\n女の人：ええ、この道を まっすぐ 行って、最初の 信号を 右に 曲がってください。郵便局の 隣に ありますよ。\n男の人：最初の 信号を 右ですね。ありがとうございます。",
+    "question": "コンビニは どこに ありますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "最初の 信号の 角"
+      },
+      {
+        "id": "b",
+        "text": "郵便局の 隣"
+      },
+      {
+        "id": "c",
+        "text": "銀行の 向かい"
+      },
+      {
+        "id": "d",
+        "text": "駅の 前"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Perempuan memberikan petunjuk arah bahwa minimarket terletak di samping kantor pos (郵便局の隣)."
+  },
+  {
+    "id": 311,
+    "type": "choukai",
+    "audio": "audio/choukai_311.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません。このペットボトルは どこに 捨てますか。\n女の人：あ、ペットボトルは つぶして、青い箱に 入れてください。\n男の人：キャップと ラベルは どうしますか。\n女の人：キャップと ラベルは はがして、黄色い箱に 入れてください。\n男の人：わかりました。",
+    "question": "男の人は ペットボトルの キャップを どこに 捨てますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "青い箱"
+      },
+      {
+        "id": "b",
+        "text": "黄色い箱"
+      },
+      {
+        "id": "c",
+        "text": "赤い箱"
+      },
+      {
+        "id": "d",
+        "text": "黒い箱"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Perempuan menjelaskan bahwa botol PET dimasukkan ke kotak biru (青い箱), sedangkan tutup (キャップ) dan label dilepas lalu dimasukkan ke kotak kuning (黄色い箱)."
+  },
+  {
+    "id": 312,
+    "type": "choukai",
+    "audio": "audio/choukai_312.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：風邪の 薬を 出しておきますね。\n男の人：はい。いつ 飲めば いいですか。\n女の人：朝と 晩の ご飯の あとに、1錠ずつ 飲んでください。昼は 飲まなくても いいです。\n男の人：朝と 晩ですね。わかりました。",
+    "question": "男の人は 1日に 何回 薬を 飲みますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1回"
+      },
+      {
+        "id": "b",
+        "text": "2回"
+      },
+      {
+        "id": "c",
+        "text": "3回"
+      },
+      {
+        "id": "d",
+        "text": "4回"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Petugas menjelaskan obat diminum setelah makan pagi dan malam (朝と晩), jadi diminum 2 kali sehari (2回)."
+  },
+  {
+    "id": 313,
+    "type": "choukai",
+    "audio": "audio/choukai_313.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：お会計は 2,500円になります。\n男の人：クレジットカードで 払えますか。\n女の人：すみません、当店は 現金か スマホ決済だけになります。\n男の人：じゃあ、スマホ決済で お願いします。",
+    "question": "男の人は 何で 払いますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "クレジットカード"
+      },
+      {
+        "id": "b",
+        "text": "現金"
+      },
+      {
+        "id": "c",
+        "text": "スマホ決済"
+      },
+      {
+        "id": "d",
+        "text": "商品券"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki ingin bayar memakai kartu kredit, namun toko hanya menerima tunai atau pembayaran smartphone. Laki-laki akhirnya memilih membayar dengan pembayaran smartphone (スマホ決済)."
+  },
+  {
+    "id": 314,
+    "type": "choukai",
+    "audio": "audio/choukai_314.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：すみません、今 何時ですか。\n男の人：3時です。\n女の人：ありがとうございます。",
+    "question": "今 何時ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1時"
+      },
+      {
+        "id": "b",
+        "text": "2時"
+      },
+      {
+        "id": "c",
+        "text": "3時"
+      },
+      {
+        "id": "d",
+        "text": "4時"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki menjawab dengan jelas bahwa sekarang jam 3 (3時 / San-ji)."
+  },
+  {
+    "id": 315,
+    "type": "choukai",
+    "audio": "audio/choukai_315.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません。りんごを 3つ ください。\n女の人：はい、300円です。",
+    "question": "男の人は りんごを 何個 買いましたか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "1個"
+      },
+      {
+        "id": "b",
+        "text": "2個"
+      },
+      {
+        "id": "c",
+        "text": "3個"
+      },
+      {
+        "id": "d",
+        "text": "4個"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Laki-laki meminta 3 buah apel (りんごを 3つ = 3個)."
+  },
+  {
+    "id": 316,
+    "type": "choukai",
+    "audio": "audio/choukai_316.m4a",
+    "passage": "男の人と女の人が話しています。\n女の人：日本語の 授業は 何曜日ですか。\n男の人：火曜日と 木曜日です。\n女の人：時間は 何時からですか。\n男の人：午後6時からです。",
+    "question": "日本語の 授業は 何曜日ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "月曜日と 水曜日"
+      },
+      {
+        "id": "b",
+        "text": "火曜日と 木曜日"
+      },
+      {
+        "id": "c",
+        "text": "金曜日と 土曜日"
+      },
+      {
+        "id": "d",
+        "text": "日曜日"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Laki-laki menjelaskan bahwa kelas bahasa Jepang dilaksanakan pada hari Selasa dan Kamis (火曜日と木曜日)."
+  },
+  {
+    "id": 317,
+    "type": "choukai",
+    "audio": "audio/choukai_317.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：すみません、お手洗いは どこですか。\n女の人：あそこです。階段の 隣です。\n男の人：あ、ありがとうございます。",
+    "question": "お手洗いは どこに ありますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "階段の 隣"
+      },
+      {
+        "id": "b",
+        "text": "階段の 上"
+      },
+      {
+        "id": "c",
+        "text": "部屋の 中"
+      },
+      {
+        "id": "d",
+        "text": "外"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Perempuan memberitahu bahwa toilet (お手洗い) berada di sebelah tangga (階段の隣)."
+  },
+  {
+    "id": 318,
+    "type": "choukai",
+    "audio": "audio/choukai_318.m4a",
+    "passage": "男の人と女の人が話しています。\n男の人：今日 昼ご飯 何を 食べたいですか。\n女の人：そうですね。ラーメンが 食べたいです。\n男の人：いいですね。じゃ、あそこの ラーメン屋に 行きましょう。",
+    "question": "女の人は 何を 食べたいですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "うどん"
+      },
+      {
+        "id": "b",
+        "text": "ラーメン"
+      },
+      {
+        "id": "c",
+        "text": "カレー"
+      },
+      {
+        "id": "d",
+        "text": "寿司"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Perempuan menyampaikan bahwa ia ingin makan ramen (ラーメンが食べたいです)."
+  },
+  {
+    "id": 1785665985301,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "「住所」は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nama"
+      },
+      {
+        "id": "b",
+        "text": "Alamat"
+      },
+      {
+        "id": "c",
+        "text": "Umur"
+      },
+      {
+        "id": "d",
+        "text": "Pekerjaan"
+      }
+    ],
+    "answer": "b",
+    "explanation": "「住所」(じゅうしょ / juusho) artinya adalah \"Alamat\"."
+  },
+  {
+    "id": 1785749799985,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "おしぼり"
+      },
+      {
+        "id": "b",
+        "text": "わりばし"
+      },
+      {
+        "id": "c",
+        "text": "しゃもじ"
+      },
+      {
+        "id": "d",
+        "text": "スプーン"
+      }
+    ],
+    "answer": "b",
+    "explanation": "わりばし (waribashi) artinya adalah sumpit kayu sekali pakai.",
+    "image": "images/img_1785749799985.png"
+  },
+  {
+    "id": 1785757556140,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "こむぎ・こむぎこ"
+      },
+      {
+        "id": "b",
+        "text": "そば・そばこ"
+      },
+      {
+        "id": "c",
+        "text": "らっかせい"
+      },
+      {
+        "id": "d",
+        "text": "こめ・こめこ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "こむぎ (komugi) = gandum, こむぎこ (komugiko) = tepung terigu.",
+    "image": "images/img_1785757556140.png"
+  },
+  {
+    "id": 1785757642651,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "しずかです"
+      },
+      {
+        "id": "b",
+        "text": "にぎやかです"
+      },
+      {
+        "id": "c",
+        "text": "べんりです"
+      },
+      {
+        "id": "d",
+        "text": "ひろいです"
+      }
+    ],
+    "answer": "b",
+    "explanation": "にぎやか (nigiyaka) artinya adalah ramai.",
+    "image": "images/img_1785757642651.png"
+  },
+  {
+    "id": 1785757723747,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "ゆうべ"
+      },
+      {
+        "id": "b",
+        "text": "ゆうひ"
+      },
+      {
+        "id": "c",
+        "text": "すなはま"
+      },
+      {
+        "id": "d",
+        "text": "あさひ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ゆうひ (yuuhi) artinya adalah matahari terbenam (sunset).",
+    "image": "images/img_1785757723747.png"
+  },
+  {
+    "id": 1785757826843,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "ちゅうりんじょう"
+      },
+      {
+        "id": "b",
+        "text": "ちゅうしゃじょう"
+      },
+      {
+        "id": "c",
+        "text": "ちゅうしゃおきば"
+      },
+      {
+        "id": "d",
+        "text": "バスてい"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ちゅうしゃじょう (chuushajou) adalah sebutan untuk tempat parkir mobil.",
+    "image": "images/img_1785757826843.png"
+  },
+  {
+    "id": 1785757925435,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "食事する"
+      },
+      {
+        "id": "b",
+        "text": "パーティーをする"
+      },
+      {
+        "id": "c",
+        "text": "おしゃべりをする"
+      },
+      {
+        "id": "d",
+        "text": "買い物をする"
+      }
+    ],
+    "answer": "c",
+    "explanation": "おしゃべりをする (oshaberi wo suru) artinya adalah mengobrol / bercakap-cakap.",
+    "image": "images/img_1785757925435.png"
+  },
+  {
+    "id": 1785758013802,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "ホテルで働く"
+      },
+      {
+        "id": "b",
+        "text": "かいごの仕事をする"
+      },
+      {
+        "id": "c",
+        "text": "工場で働く"
+      },
+      {
+        "id": "d",
+        "text": "レストランで働く"
+      }
+    ],
+    "answer": "b",
+    "explanation": "かいごの仕事をする (kaigo no shigoto wo suru) artinya bekerja merawat/mendampingi lansia.",
+    "image": "images/img_1785758013802.png"
+  },
+  {
+    "id": 1785758118674,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "マスクをかける"
+      },
+      {
+        "id": "b",
+        "text": "マスクをつける"
+      },
+      {
+        "id": "c",
+        "text": "マスクをしめる"
+      },
+      {
+        "id": "d",
+        "text": "マスクをはく"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kata kerja yang tepat untuk memakai masker dalam bahasa Jepang adalah つける (tsukeru).",
+    "image": "images/img_1785758118674.png"
+  }
+]

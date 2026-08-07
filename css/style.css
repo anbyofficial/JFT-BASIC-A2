@@ -1,0 +1,1276 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+
+    min-height:100vh;
+
+    font-family:
+    "Poppins",
+    "Noto Sans JP",
+    sans-serif;
+
+
+    background:
+    linear-gradient(
+        135deg,
+        #16a34a,
+        #22c55e
+    );
+
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+
+
+.app{
+
+    width:100%;
+
+    max-width:500px;
+
+    padding:20px;
+
+}
+
+
+
+
+.page{
+
+    display:none;
+
+}
+
+
+
+.page.active{
+
+    display:block;
+
+}
+
+
+
+
+
+.card{
+
+
+    background:
+    rgba(255,255,255,0.92);
+
+
+    backdrop-filter:
+    blur(15px);
+
+
+    border-radius:30px;
+
+
+    padding:35px 25px;
+
+
+    box-shadow:
+    0 20px 50px
+    rgba(0,0,0,0.15);
+
+
+    text-align:center;
+
+
+}
+
+
+
+.logo{
+
+    font-size:60px;
+
+    margin-bottom:15px;
+
+}
+
+
+
+h1{
+
+    color:#166534;
+
+    font-size:32px;
+
+    margin-bottom:10px;
+
+}
+
+
+
+.subtitle{
+
+    color:#475569;
+
+    margin-bottom:30px;
+
+}
+
+
+
+
+
+.info-box{
+
+
+    display:flex;
+
+    justify-content:space-around;
+
+    margin-bottom:30px;
+
+
+}
+
+
+
+.info-box div{
+
+
+    display:flex;
+
+    flex-direction:column;
+
+
+    gap:8px;
+
+
+    color:#15803d;
+
+    font-weight:bold;
+
+
+}
+
+
+
+
+
+.btn-primary{
+
+
+    width:100%;
+
+
+    padding:16px;
+
+
+    border:none;
+
+
+    border-radius:18px;
+
+
+    background:
+
+    linear-gradient(
+        135deg,
+        #16a34a,
+        #22c55e
+    );
+
+
+    color:white;
+
+
+    font-size:18px;
+
+
+    font-weight:bold;
+
+
+    cursor:pointer;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.btn-primary:hover{
+
+
+    transform:
+    translateY(-3px);
+
+
+    box-shadow:
+    0 10px 25px
+    rgba(22,163,74,.4);
+
+
+}
+/* =================
+   QUIZ STYLE
+================= */
+
+
+.quiz-container{
+
+display:flex;
+
+flex-direction:column;
+
+gap:20px;
+
+}
+
+
+
+
+.quiz-header{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+color:#166534;
+
+font-weight:bold;
+
+}
+
+
+
+
+.timer{
+
+background:#dcfce7;
+
+padding:10px 18px;
+
+border-radius:15px;
+
+color:#15803d;
+
+}
+
+
+
+
+
+.progress-box{
+
+background:white;
+
+padding:15px;
+
+border-radius:20px;
+
+}
+
+
+
+.progress-text{
+
+margin-bottom:10px;
+
+font-weight:bold;
+
+color:#334155;
+
+}
+
+
+
+.progress-bar{
+
+height:12px;
+
+background:#dcfce7;
+
+border-radius:20px;
+
+overflow:hidden;
+
+}
+
+
+
+.progress{
+
+
+height:100%;
+
+
+width:20%;
+
+
+background:
+
+linear-gradient(
+90deg,
+#16a34a,
+#22c55e
+);
+
+
+}
+
+
+
+
+
+.question-card{
+
+
+background:white;
+
+
+padding:25px;
+
+
+border-radius:25px;
+
+
+box-shadow:
+0 10px 30px
+rgba(0,0,0,.1);
+
+
+}
+
+
+
+
+
+.question-card h2{
+
+font-size:20px;
+
+color:#1e293b;
+
+line-height:1.6;
+
+}
+
+
+
+
+
+.options{
+
+
+display:flex;
+
+flex-direction:column;
+
+gap:12px;
+
+margin-top:20px;
+
+}
+
+
+
+
+
+.option{
+
+
+padding:15px;
+
+
+border-radius:15px;
+
+
+border:2px solid #dcfce7;
+
+
+background:white;
+
+
+cursor:pointer;
+
+
+text-align:left;
+
+
+font-size:16px;
+
+
+transition:.3s;
+
+
+}
+
+
+
+.option:hover{
+
+
+background:#f0fdf4;
+
+
+border-color:#22c55e;
+
+
+}
+
+
+
+
+
+.number-panel{
+
+
+display:flex;
+
+gap:8px;
+
+overflow-x:auto;
+
+
+}
+
+
+
+.number{
+
+
+min-width:40px;
+
+height:40px;
+
+
+border:none;
+
+
+border-radius:12px;
+
+
+background:#e2e8f0;
+
+
+cursor:pointer;
+
+
+font-weight:bold;
+
+
+}
+
+
+
+
+.number.active{
+
+
+background:#16a34a;
+
+color:white;
+
+
+}
+
+
+
+
+
+.navigation{
+
+
+display:flex;
+
+gap:10px;
+
+}
+
+
+
+
+
+.btn-secondary{
+
+
+flex:1;
+
+padding:15px;
+
+
+border:none;
+
+
+border-radius:15px;
+
+
+background:#e2e8f0;
+
+
+font-weight:bold;
+
+
+}
+
+.number{
+
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    border:none;
+    background:#e5e7eb;
+    margin:5px;
+    font-weight:bold;
+    cursor:pointer;
+    
+    }
+    
+    
+    
+    .number.active{
+    
+    background:#2563eb;
+    color:white;
+    
+    }
+    
+    
+    
+    .number.answered{
+    
+    background:#22c55e;
+    color:white;
+    
+    }
+    
+    
+    
+    .option.selected{
+    
+    background:#dcfce7;
+    border:2px solid #22c55e;
+    
+    }
+
+    .btn-danger{
+
+        background:#ef4444;
+        color:white;
+        border:none;
+        padding:12px 20px;
+        border-radius:12px;
+        font-weight:bold;
+        
+        }
+        
+        
+        .btn-danger:hover{
+        
+        background:#dc2626;
+        
+        }
+
+        .review-card{
+
+            background:white;
+            
+            padding:15px;
+            
+            margin-top:15px;
+            
+            border-radius:15px;
+            
+            box-shadow:
+            0 4px 10px rgba(0,0,0,0.08);
+            
+            }
+            
+            
+            .review-card h3{
+            
+            color:#2563eb;
+            
+            }
+            
+            
+            #reviewBox{
+
+                width:100%;
+                
+                margin-top:20px;
+                
+                }
+
+            .review-card{
+
+                background:white;
+                
+                padding:16px;
+                
+                margin-top:15px;
+                
+                border-radius:15px;
+                
+                }
+                
+                
+                .review-card.wrong{
+                
+                border-left:
+                6px solid #ef4444;
+                
+                }
+                
+                
+                
+                .wrong-text{
+                
+                color:#ef4444;
+                
+                font-weight:bold;
+                
+                }
+                
+                
+                
+                .correct-text{
+                
+                color:#16a34a;
+                
+                font-weight:bold;
+                
+                }
+                
+                
+                
+                .perfect{
+                
+                color:#16a34a;
+                
+                text-align:center;
+                
+                }
+                .review-container{
+
+                    max-height:500px;
+                    
+                    overflow-y:auto;
+                    
+                    }
+                    .option{
+
+                        width:100%;
+                        
+                        padding:16px;
+                        
+                        margin-bottom:12px;
+                        
+                        border-radius:14px;
+                        
+                        border:2px solid #e5e7eb;
+                        
+                        background:white;
+                        
+                        font-size:16px;
+                        
+                        text-align:left;
+                        
+                        cursor:pointer;
+                        
+                        transition:.2s;
+                        
+                        }
+                        
+                        
+                        .option:hover{
+                        
+                        border-color:#2563eb;
+                        
+                        }
+                        
+                        
+                        .option:active{
+                        
+                        transform:scale(.98);
+                        
+                        }
+                        .number-panel{
+
+                            display:flex;
+                            
+                            gap:8px;
+                            
+                            overflow-x:auto;
+                            
+                            padding:10px 0;
+                            
+                            }
+                            
+                            
+                            .number{
+                            
+                            min-width:40px;
+                            
+                            height:40px;
+                            
+                            border-radius:50%;
+                            
+                            border:none;
+                            
+                            background:#e5e7eb;
+                            
+                            }
+                            
+                            
+                            .number.active{
+                            
+                            background:#2563eb;
+                            
+                            color:white;
+                            
+                            }
+                            
+                            
+                            .number.done{
+                            
+                            background:#22c55e;
+                            
+                            color:white;
+                            
+                            }
+                            .question-card{
+
+                                animation:
+                                slide .25s ease;
+                                
+                                }
+                                
+                                
+                                @keyframes slide{
+                                
+                                
+                                from{
+                                
+                                opacity:0;
+                                
+                                transform:
+                                translateX(20px);
+                                
+                                }
+                                
+                                
+                                to{
+                                
+                                opacity:1;
+                                
+                                transform:
+                                translateX(0);
+                                
+                                }
+                                
+                                
+                                }
+                                .timer.warning{
+
+                                    color:red;
+                                    
+                                    animation:
+                                    blink 1s infinite;
+                                    
+                                    }
+                                    
+                                    
+                                    @keyframes blink{
+                                    
+                                    50%{
+                                    
+                                    opacity:.4;
+                                    
+                                    }
+                                    
+                                    }
+                                    
+                                    .timer.warning{
+
+                                        color:red;
+                                        
+                                        font-weight:bold;
+                                        
+                                        animation:
+                                        blink 1s infinite;
+                                        
+                                        }
+                                        
+                                        
+                                        
+                                        @keyframes blink{
+                                        
+                                        0%{
+                                        
+                                        opacity:1;
+                                        
+                                        }
+                                        
+                                        
+                                        50%{
+                                        
+                                        opacity:.3;
+                                        
+                                        }
+                                        
+                                        
+                                        100%{
+                                        
+                                        opacity:1;
+                                        
+                                        }
+                                        
+                                        }
+                                        .dashboard{
+
+                                            margin-top:20px;
+                                            
+                                            padding:20px;
+                                            
+                                            border-radius:12px;
+                                            
+                                            background:#f8fafc;
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .dashboard h3{
+                                            
+                                            margin-bottom:15px;
+                                            
+                                            text-align:center;
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .dashboard-item{
+                                            
+                                            display:flex;
+                                            
+                                            justify-content:space-between;
+                                            
+                                            padding:10px 0;
+                                            
+                                            border-bottom:1px solid #ddd;
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .dashboard-item:last-child{
+                                            
+                                            border:none;
+                                            
+                                            }
+                                            
+                                            
+                                            
+                                            .dashboard-item b{
+                                            
+                                            color:#2563eb;
+                                            
+                                            font-size:18px;
+                                            
+                                            }
+                                            /* ==========================================
+   DARK MODE - PERBAIKAN LENGKAP
+   ========================================== */
+
+body.dark {
+    background: #121212;
+    color: #ffffff;
+}
+
+body.dark .card,
+body.dark .question-card,
+body.dark .dashboard,
+body.dark .review-card {
+    background: #1f2937;
+    color: #ffffff;
+    border: 1px solid #374151;
+}
+
+body.dark .dashboard-item {
+    border-bottom: 1px solid #374151;
+}
+
+/* Opsi Jawaban */
+body.dark .option {
+    background: #2b2b2b;
+    color: #ffffff;
+    border: 1px solid #555;
+}
+
+body.dark .option:hover {
+    background: #3c3c3c;
+}
+
+body.dark .option.selected {
+    background: #22c55e !important;
+    color: #ffffff !important;
+    border-color: #22c55e !important;
+}
+
+/* --- TOMBOL NOMOR SOAL --- */
+body.dark .number {
+    background: #2b2b2b;
+    color: #ffffff;
+    border: 1px solid #555;
+}
+
+/* Nomor Aktif (Biru) */
+body.dark .number.active {
+    background: #2563eb !important;
+    color: #ffffff !important;
+}
+
+/* Nomor Sudah Terjawab (Hijau) */
+body.dark .number.answered,
+body.dark .number.filled,
+body.dark .number.done {
+    background: #16a34a !important;
+    color: #ffffff !important;
+    border-color: #16a34a !important;
+}
+
+/* --- PEMBAHASAN / REVIEW CARD --- */
+
+/* Garis Kiri Merah untuk Pembahasan */
+body.dark .review-card {
+    border-left: 6px solid #ef4444 !important;
+}
+
+/* Judul Soal di Pembahasan Tetap Biru Terang */
+body.dark .review-card h3,
+body.dark .review-card h4,
+body.dark .review-card b:first-child {
+    color: #3b82f6 !important;
+}
+
+/* Paksa Teks Merah ("Tidak dijawab" / Salah) Tetap Merah di Night Mode */
+body.dark .review-card [style*="color: red"],
+body.dark .review-card [style*="color:red"],
+body.dark .review-card .text-danger,
+body.dark .review-card font[color="red"] {
+    color: #ef4444 !important;
+}
+
+/* Paksa Teks Hijau (Jawaban Benar) Tetap Hijau di Night Mode */
+body.dark .review-card [style*="color: green"],
+body.dark .review-card [style*="color:green"],
+body.dark .review-card .text-success,
+body.dark .review-card font[color="green"] {
+    color: #22c55e !important;
+}
+
+/* Timer */
+body.dark .timer {
+    color: #ffffff;
+}
+
+body.dark #time {
+    color: #22c55e;
+    font-weight: bold;
+}
+
+body.dark #time.warning {
+    color: #ef4444;
+}
+
+
+
+/* ==========================
+   DARK MODE - HISTORY
+========================== */
+
+body.dark #historyList {
+    color: #ffffff;
+}
+
+body.dark .review-card {
+    background: #1f2937;
+    color: #ffffff;
+    border: 1px solid #374151;
+}
+
+body.dark .review-card p {
+    color: #ffffff;
+}
+
+body.dark .review-card b {
+    color: #60a5fa;
+}
+
+.history-box button {
+    margin-bottom: 15px;
+}
+
+/* ==========================
+   DOKKAI READING (BACAAN)
+========================== */
+
+.passage {
+    display: none;
+    background: #f8fafc;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    line-height: 1.8;
+    text-align: left;
+    border: 1px solid #e5e7eb;
+    
+    /* PENTING: Agar simbol \n dari JSON bisa ganti baris di HTML */
+    white-space: pre-line; 
+}
+
+body.dark .passage {
+    background: #374151;
+    color: #ffffff;
+    border-color: #4b5563;
+}
+/* ==========================
+   CONVERSATION
+========================== */
+
+
+.dialog{
+
+    display:flex;
+
+    flex-direction:column;
+
+    margin-bottom:12px;
+
+}
+
+
+
+.dialog .speaker{
+
+    font-weight:bold;
+
+    margin-bottom:5px;
+
+}
+
+
+
+.dialog .bubble{
+
+    padding:12px;
+
+    border-radius:12px;
+
+    max-width:85%;
+
+    line-height:1.7;
+
+}
+
+
+
+.dialog.a .bubble{
+
+    background:#dbeafe;
+
+    color:#1e3a8a;
+
+}
+
+
+
+.dialog.b{
+
+    align-items:flex-end;
+
+}
+
+
+
+.dialog.b .bubble{
+
+    background:#dcfce7;
+
+    color:#166534;
+
+}
+
+
+
+body.dark .dialog.a .bubble{
+
+    background:#1e40af;
+
+    color:white;
+
+}
+
+
+
+body.dark .dialog.b .bubble{
+
+    background:#166534;
+
+    color:white;
+
+}
+/* ==========================
+   QUESTION TYPE LABEL
+========================== */
+
+
+.type-label{
+
+    display:inline-block;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    font-size:14px;
+
+    font-weight:bold;
+
+    margin-bottom:12px;
+
+    background:#e0f2fe;
+
+    color:#0369a1;
+
+}
+
+
+
+body.dark .type-label{
+
+    background:#1e3a8a;
+
+    color:white;
+
+}
+.copyright{
+
+    position:fixed;
+
+    bottom:10px;
+
+    left:0;
+
+    width:100%;
+
+    text-align:center;
+
+    font-size:12px;
+
+    color:#64748b;
+
+    z-index:999;
+
+}
+
+
+body.dark .copyright{
+
+    color:#cbd5e1;
+
+}
+/* Kunci teks berjalan di PALING ATAS layar */
+.top-marquee {
+    position: fixed;    /* Memaksa elemen menempel di layar */
+    top: 0;             /* Paling atas */
+    left: 0;            /* Paling kiri */
+    width: 100vw;       /* Lebar penuh layar */
+    z-index: 9999;      /* Agar selalu di paling depan */
+    
+    background-color: #0f5c28; 
+    color: #ffffff;
+    padding: 3px 0;     /* Padding diperkecil agar tidak memakan ruang */
+    font-size: 10px;    /* Font diperkecil agar tampak rapi */
+    font-weight: 500;
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+
+    /* FITUR TRANSMISI & TRANSPARANSI */
+    opacity: 0.75;                 /* Dibuat samar 35% agar tidak mencolok Sekarang sedang 75% atau 0.75 */
+    pointer-events: none;          /* SENTUHAN MENEMBUS ke elemen/tombol di bawahnya */
+    transition: opacity 0.3s ease;  /* Animasi kejelasan halus saat di-hover */
+}
+
+/* Saat kursor atau sentuhan di area teks, teks akan jelas kembali */
+.top-marquee:hover {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Animasi teks bergerak */
+.top-marquee span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee-anim 25s linear infinite;
+}
+
+@keyframes marquee-anim {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* Penyesuaian saat Dark Mode */
+body.dark-mode .top-marquee {
+    background-color: #0f172a;
+    color: #4ade80;
+}
+
+/* Beri jarak dari atas agar tidak menumpuk dengan konten utama */
+.container, .card, .dashboard {
+    margin-top: 25px;
+}
+#questionImage {
+    max-width: 100%;    /* Biar gambar TIDAK PERNAH melebihi lebar kartu */
+    height: auto;       /* Menjaga proporsi gambar agar tidak gepeng */
+    display: block;
+    margin: 15px auto;  /* Memosisikan gambar tepat di tengah dengan jarak */
+    border-radius: 8px; /* (Opsional) Membuat sudut gambar agak melengkung rapi */
+}
+.question-card {
+    /* Tambahkan dua baris ini jika belum ada */
+    box-sizing: border-box;
+    overflow: hidden; 
+}
+/* ==========================================
+   PAKSA TEKS SOAL & BACAAN BERWARNA PUTIH
+   ========================================== */
+
+   body.dark #questionText,
+   body.dark .question-text,
+   body.dark #question,
+   body.dark .question-card p,
+   body.dark .question-card div,
+   body.dark .question-card span,
+   body.dark .passage,
+   body.dark #passageText {
+       color: #ffffff !important;
+   }
