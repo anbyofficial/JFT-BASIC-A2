@@ -1274,3 +1274,27 @@ body.dark-mode .top-marquee {
    body.dark #passageText {
        color: #ffffff !important;
    }
+
+/* Menata tombol agar berada di sebelah Riwayat Nilai */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Jarak antar tombol */
+    margin-top: 10px;
+}
+
+/* Tampilan Khusus Tombol Log Out */
+.btn-logout {
+    background-color: #e74c3c !important;
+    color: white !important;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.btn-logout:hover {
+    background-color: #c0392b !important;
+    transform: translateY(-2px);
+}
+
