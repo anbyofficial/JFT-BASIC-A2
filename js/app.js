@@ -1,3 +1,11 @@
+// Jika belum login, tendang balik ke URL repository login
+onAuthStateChanged(auth, (user) => {
+    if (!user) {
+        window.location.href = "https://anbyofficial.github.io/JFT-BASIC-A2-TES/";
+    }
+});
+
+
 const startBtn = 
 document.getElementById("startBtn");
 
