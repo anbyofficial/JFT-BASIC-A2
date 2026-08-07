@@ -2,9 +2,13 @@
 // 1. INSIALISASI & PROTEKSI FIREBASE
 // ==========================================
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
-import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+import { 
+    getAuth, 
+    onAuthStateChanged, 
+    signOut // 👈 1. Tambahkan signOut di sini
+} from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
-// Konfigurasi Firebase Anda (SAMA PERSIS seperti di script.js)
+// Konfigurasi Firebase Anda
 const firebaseConfig = {
     apiKey: "AIzaSyABp1sNwc8ON5LhWvlDFeQLXWztz-mD9G0",
     authDomain: "jft-basic-a2.firebaseapp.com",
@@ -56,6 +60,23 @@ if (historyBtn) {
         showPage("history");
         if (typeof showHistory === "function") {
             showHistory();
+        }
+    };
+}
+
+// 👈 2. SISIPKAN LOGIKA LOG OUT DI SINI
+const logoutBtn = document.getElementById("logoutBtn");
+if (logoutBtn) {
+    logoutBtn.onclick = function () {
+        let confirmLogout = confirm("Apakah Anda yakin ingin keluar?");
+        if (confirmLogout) {
+            signOut(auth)
+                .then(() => {
+                    window.location.href = "https://anbyofficial.github.io/JFT-BASIC-A2-TES/";
+                })
+                .catch((error) => {
+                    alert("Gagal logout: " + error.message);
+                });
         }
     };
 }
