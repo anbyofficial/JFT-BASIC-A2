@@ -7507,5 +7507,32 @@
     "answer": "c",
     "explanation": "Gambar menunjukkan seorang wanita sedang menggunakan kosmetik/berdandan di depan cermin. Bahasa Jepang untuk berdandan/memakai makeup adalah おけしょうします (Okeshou shimasu). (かおをあらいます = Mencuci muka, ひげをそります = Mencukur kumis/jenggot).",
     "image": "images/img_1786260737830.png"
+  },
+  {
+    "id": 1786261163685,
+    "category": "reading",
+    "type": "reading",
+    "passage": "田中さん、お元気ですか。私は先週、大学の近くにひっこしをしました。前はアパートから大学まで電車とバスで1時間半ぐらいかかりました。でも、今のアパートは大学まで歩いて10分ぐらいです。それで、ここにひっこすことにしました。少しせまいですが、新しくて、きれいだし、となりにスーパーもあります。駅からも近くて、せいかつがとても便利になりました。それに、アパートのへやのまどから見えるけしきもいいです。だから、ひっこしをして、ほんとうによかったと思っていました。この手紙といっしょに、私のへやのまどから見たけしきの写真をおくります。それでは、また。\n令和2年5月20日\nアグス",
+    "question": "この手紙と合っているのはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "アグスさんは今、大学まで歩いて10分ぐらいかかりました。"
+      },
+      {
+        "id": "b",
+        "text": "アグスさん、田中さんに手紙をおくります。"
+      },
+      {
+        "id": "c",
+        "text": "田中さんは今、新しいアパートを買った。"
+      },
+      {
+        "id": "d",
+        "text": "アグスさんは前のアパートのほうが便利だと思っています。"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Opsi B benar karena surat tersebut dikirim oleh Agus (アグス) kepada Tanaka-san (田中さん). Opsi A salah dalam tata bahasa (menggunakan bentuk lampau かかりました padahal menjelaskan kondisi sekarang), Opsi C salah karena yang pindah ke apartemen baru adalah Agus, dan Opsi D salah karena apartemen sekaranglah yang lebih praktis/convenient."
   }
 ]
