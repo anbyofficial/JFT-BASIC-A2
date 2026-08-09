@@ -8456,5 +8456,32 @@
     ],
     "answer": "a",
     "explanation": "Pola pengandaian adalah 「Ta-form + ら」 -> あったら (Jika ada)."
+  },
+  {
+    "id": 1786284980754,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "この漢字は線が多くて、（   ）にくいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "書き"
+      },
+      {
+        "id": "b",
+        "text": "書く"
+      },
+      {
+        "id": "c",
+        "text": "書いて"
+      },
+      {
+        "id": "d",
+        "text": "書いた"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan kesulitan melakukan sesuatu adalah 「Masu-stem + にくいです」 -> 書きにくいです (Sulit ditulis)."
   }
 ]
