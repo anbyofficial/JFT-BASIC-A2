@@ -8564,5 +8564,32 @@
     ],
     "answer": "a",
     "explanation": "Pola perbandingan dua hal adalah 「A より B のほうが～」 (B lebih ... daripada A). Maka pembandingnya menggunakan partikel より (yori)."
+  },
+  {
+    "id": 1786285379953,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "A:「馬に（   ）ことがありますか。」\nB:「いいえ、一度もありません。」",
+    "options": [
+      {
+        "id": "a",
+        "text": "乗った"
+      },
+      {
+        "id": "b",
+        "text": "乗る"
+      },
+      {
+        "id": "c",
+        "text": "乗って"
+      },
+      {
+        "id": "d",
+        "text": "乗り"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola menyatakan pengalaman \"Pernah melakukan...\" wajib memakai 「Ta-form + ことがあります」 -> 乗ったことがあります."
   }
 ]
