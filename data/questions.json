@@ -7451,5 +7451,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan suasana pagi hari saat matahari terbit di balik bukit. Bahasa Jepang untuk pagi hari adalah 朝 (Asa). (昼 = Siang, 夜 = Malam, 夕方 = Sore/Petang).",
     "image": "images/img_1786260062569.png"
+  },
+  {
+    "id": 1786260494015,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "画像を見て、適切な言葉を選んでください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "うんどうします"
+      },
+      {
+        "id": "b",
+        "text": "さんぽします"
+      },
+      {
+        "id": "c",
+        "text": "おしゃべりします"
+      },
+      {
+        "id": "d",
+        "text": "かいものします"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Penjelasan (Explanation):\nGambar menunjukkan seseorang sedang jalan santai/berjalan-jalan di taman. Bahasa Jepang untuk jalan-jalan santai adalah さんぽします (Sanpo shimasu). (うんどうします = Berolahraga, おしゃべりします = Mengobrol, かいものします = Berbelanja)",
+    "image": "images/img_1786260494015.png"
   }
 ]
