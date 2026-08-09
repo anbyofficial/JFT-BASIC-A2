@@ -6350,5 +6350,33 @@
     "answer": "b",
     "explanation": "Kata kerja yang tepat untuk memakai masker dalam bahasa Jepang adalah つける (tsukeru).",
     "image": "images/img_1785758118674.png"
+  },
+  {
+    "id": 1786248562764,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "ここ は 何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "郵便局"
+      },
+      {
+        "id": "b",
+        "text": "銀行"
+      },
+      {
+        "id": "c",
+        "text": "病院"
+      },
+      {
+        "id": "d",
+        "text": "交番"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan gedung kantor pos (郵便局 = Yūbinkyoku) yang ditandai dengan simbol 〒 dan adanya petugas pengantar surat.",
+    "image": "images/img_1786248562764.png"
   }
 ]
