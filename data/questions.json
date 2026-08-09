@@ -8186,5 +8186,32 @@
     ],
     "answer": "a",
     "explanation": "Pola menyarankan untuk TIDAK melakukan sesuatu adalah 「Nai-form (Bentuk Negatif) + ほうがいいです」 -> 飲まないほうがいいです (Sebaiknya tidak minum)."
+  },
+  {
+    "id": 1786266043078,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "A:「荷物がたくさんありますね。（   ）か。」\nB:「あ、ありがとうございます。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "持ちましょう"
+      },
+      {
+        "id": "b",
+        "text": "持ちます"
+      },
+      {
+        "id": "c",
+        "text": "持ってください"
+      },
+      {
+        "id": "d",
+        "text": "持ってもいいです"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Untuk menawarkan bantuan kepada orang lain, gunakan bentuk 「Masu-stem + ましょうか」 -> 持ちましょうか (Bagaimana kalau saya bawakan?)."
   }
 ]
