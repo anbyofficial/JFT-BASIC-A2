@@ -8051,5 +8051,32 @@
     ],
     "answer": "b",
     "explanation": "Pola tata bahasa 「Masu-stem + ながら」 digunakan untuk melakukan dua kegiatan secara bersamaan. 聞きます diambil stem-nya saja yaitu 聞き (kiki)."
+  },
+  {
+    "id": 1786265537768,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "私は富士山に（   ）ことがあります。",
+    "options": [
+      {
+        "id": "a",
+        "text": "登る"
+      },
+      {
+        "id": "b",
+        "text": "登った"
+      },
+      {
+        "id": "c",
+        "text": "登り"
+      },
+      {
+        "id": "d",
+        "text": "登って"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pola tata bahasa untuk menyatakan pengalaman \"Pernah melakukan...\" adalah 「Ta-form (Bentuk Lampau) + ことがあります」 -> 登ったことがあります."
   }
 ]
