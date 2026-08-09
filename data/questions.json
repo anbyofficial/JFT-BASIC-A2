@@ -7645,5 +7645,33 @@
     "answer": "b",
     "explanation": "Balon yang dipegang pesirkus bersepeda roda satu ada 4 buah (四個 / Yonko).",
     "image": "images/img_1786262984160.jpeg"
+  },
+  {
+    "id": 1786263212255,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "負けた人はどちらですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "倒れている人"
+      },
+      {
+        "id": "b",
+        "text": "立っている人"
+      },
+      {
+        "id": "c",
+        "text": "髪をむすんでいる人"
+      },
+      {
+        "id": "d",
+        "text": "見ている人"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Orang yang kalah (負けた人) adalah orang yang terjatuh/dibanting di lantai (倒れている人). (立っている人 = Orang yang berdiri/menang, 髪をむすんでいる人 = Orang yang rambutnya diikat/menang, 見ている人 = Penonton).",
+    "image": "images/img_1786263212255.jpg"
   }
 ]
