@@ -7970,5 +7970,32 @@
     ],
     "answer": "a",
     "explanation": "Saat seseorang menawarkan bantuan dan kita menerimanya, ungkapan standar yang sangat sering keluar adalah 「助かります」 (Sangat membantu saya / Terima kasih banyak)."
+  },
+  {
+    "id": 1786264862994,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "医者:「今日はどうしましたか。」\n患者:「昨日から熱があって、頭も（   ）。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "痛いです"
+      },
+      {
+        "id": "b",
+        "text": "痛くないです"
+      },
+      {
+        "id": "c",
+        "text": "痛かったです"
+      },
+      {
+        "id": "d",
+        "text": "痛くありません"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Saat menyampaikan gejala/keluhan saat ini kepada dokter, gunakan bentuk deskriptif saat ini: 「頭も痛いです」 (Kepala juga sakit)."
   }
 ]
