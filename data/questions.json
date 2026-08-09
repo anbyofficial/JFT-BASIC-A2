@@ -8537,5 +8537,32 @@
     ],
     "answer": "a",
     "explanation": "Partikel で digunakan untuk menunjukkan tempat dilakukannya suatu aksi/kegiatan (散歩をする/jalan-jalan). Partikel に hanya untuk keberadaan/tujuan."
+  },
+  {
+    "id": 1786285300849,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "バス（   ）電車のほうが早いです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "より"
+      },
+      {
+        "id": "b",
+        "text": "ほど"
+      },
+      {
+        "id": "c",
+        "text": "から"
+      },
+      {
+        "id": "d",
+        "text": "まで"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola perbandingan dua hal adalah 「A より B のほうが～」 (B lebih ... daripada A). Maka pembandingnya menggunakan partikel より (yori)."
   }
 ]
