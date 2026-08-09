@@ -7043,5 +7043,32 @@
     ],
     "answer": "c",
     "explanation": "Pola 〜のに (padahal) menyatakan penyesalan. わすれちゃった (wasurechatta) berarti \"padahal baru diajari tapi sudah lupa\"."
+  },
+  {
+    "id": 1786255701766,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "明日、めんせつがあるので、（   ）します。",
+    "options": [
+      {
+        "id": "a",
+        "text": "きんちょう"
+      },
+      {
+        "id": "b",
+        "text": "あんしん"
+      },
+      {
+        "id": "c",
+        "text": "びっくり"
+      },
+      {
+        "id": "d",
+        "text": "しんぱい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Menghadapi wawancara (めんせつ) membuat seseorang gugup, bahasa Jepangnya adalah きんちょう (kinchou)."
   }
 ]
