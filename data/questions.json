@@ -8699,5 +8699,32 @@
     ],
     "answer": "a",
     "explanation": "Pola larangan halus (\"Tolong jangan...\") rumusnya adalah 「Nai-form (Bentuk Negatif) + でください」. Kata kerja 入ります (masuk) bentuk negatifnya adalah 入らない (harus utuh dengan い), sehingga jika disambung menjadi 入らないでください (Hairanaide kudasai)."
+  },
+  {
+    "id": 1786285858239,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "テレビを（   ）ながら、ご飯を食べます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "見"
+      },
+      {
+        "id": "b",
+        "text": "見る"
+      },
+      {
+        "id": "c",
+        "text": "見て"
+      },
+      {
+        "id": "d",
+        "text": "見ます"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk dua kegiatan bersamaan (\"sambil...\") adalah 「Masu-stem + ながら」. Kata 見ます (melihat/menonton) jika dibuang ます-nya menjadi 見 (mi), sehingga menjadi 見ながら (minagara)."
   }
 ]
