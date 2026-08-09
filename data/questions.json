@@ -6546,5 +6546,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan aktivitas memotong rambut di salon/barbershop. Bahasa Jepang untuk memotong adalah 切ります (Kirimasu) -> 切って (Kitte).",
     "image": "images/img_1786250450966.png"
+  },
+  {
+    "id": 1786250938652,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "目が痛いので、（   ）をさします。",
+    "options": [
+      {
+        "id": "a",
+        "text": "めぐすり"
+      },
+      {
+        "id": "b",
+        "text": "みず"
+      },
+      {
+        "id": "c",
+        "text": "メガネ"
+      },
+      {
+        "id": "d",
+        "text": "マスク"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan seseorang yang memegang botol obat tetes mata karena matanya sakit/perih. Bahasa Jepang obat tetes mata adalah 目薬 (Megusuri). Pasangan kata kerjanya adalah 目薬をさします (Megusuri o sashimasu = meneteskan obat mata).",
+    "image": "images/img_1786250938652.png"
   }
 ]
