@@ -8726,5 +8726,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk dua kegiatan bersamaan (\"sambil...\") adalah 「Masu-stem + ながら」. Kata 見ます (melihat/menonton) jika dibuang ます-nya menjadi 見 (mi), sehingga menjadi 見ながら (minagara)."
+  },
+  {
+    "id": 1786285980231,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "すみません、ここに座っても（   ）か。",
+    "options": [
+      {
+        "id": "a",
+        "text": "いいです"
+      },
+      {
+        "id": "b",
+        "text": "ダメです"
+      },
+      {
+        "id": "c",
+        "text": "いけません"
+      },
+      {
+        "id": "d",
+        "text": "あります"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk meminta izin adalah 「Te-form + もいいですか」 -> 座ってもいいですか (Bolehkah duduk?)."
   }
 ]
