@@ -7673,5 +7673,32 @@
     "answer": "a",
     "explanation": "Orang yang kalah (負けた人) adalah orang yang terjatuh/dibanting di lantai (倒れている人). (立っている人 = Orang yang berdiri/menang, 髪をむすんでいる人 = Orang yang rambutnya diikat/menang, 見ている人 = Penonton).",
     "image": "images/img_1786263212255.jpg"
+  },
+  {
+    "id": 1786263541774,
+    "category": "reading",
+    "type": "reading",
+    "passage": "【ゴミ出しのルール】\n・燃えるゴミ：火曜日・金曜日\n・燃えないゴミ：第1・第3水曜日\n・ペットボトル・缶：木曜日\n\n※ゴミは朝8時までに、指定の場所に出してください。\n※前日の夜には出さないでください。",
+    "question": "ペットボトルを出してもいい日はいつですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "火曜日"
+      },
+      {
+        "id": "b",
+        "text": "水曜日"
+      },
+      {
+        "id": "c",
+        "text": "木曜日"
+      },
+      {
+        "id": "d",
+        "text": "金曜日"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Pada teks pemberitahuan tertulis: 「ペットボトル・缶：木曜日」 yang artinya botol plastik dan kaleng dibuang pada hari Kamis (木曜日 / Mokuyōbi)."
   }
 ]
