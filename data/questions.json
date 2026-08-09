@@ -6770,5 +6770,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan seseorang sedang menyiramkan/menuangkan saus di atas makanan (kroket). Bahasa Jepang untuk menyiramkan/menuangkan saus ke atas makanan adalah ソースをかけます (Sōsu o kakemasu).",
     "image": "images/img_1786252411000.png"
+  },
+  {
+    "id": 1786253901396,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "部屋を綺麗にするために、（   ）を使います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "そうじき"
+      },
+      {
+        "id": "b",
+        "text": "せんたくき"
+      },
+      {
+        "id": "c",
+        "text": "れいぞうこ"
+      },
+      {
+        "id": "d",
+        "text": "せんぷうき"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan alat penyedot debu. Bahasa Jepang untuk penyedot debu (vacuum cleaner) adalah 掃除機 (Soujiki). (Sentakuki = Mesin cuci, Reizouko = Kulkas, Senpuuki = Kipas angin).",
+    "image": "images/img_1786253901396.png"
   }
 ]
