@@ -6854,5 +6854,32 @@
     "answer": "b",
     "explanation": "Gambar menunjukkan sarung tangan. Bahasa Jepang untuk sarung tangan adalah 手袋 (Tebukuro). (スキーウエア = Baju ski, サングラス = Kacamata hitam, マフラー = Syal).",
     "image": "images/img_1786254391938.png"
+  },
+  {
+    "id": 1786255015536,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "毎日練習したので、明日の試合は（   ）勝てます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ぜんぜん"
+      },
+      {
+        "id": "b",
+        "text": "きっと"
+      },
+      {
+        "id": "c",
+        "text": "すこし"
+      },
+      {
+        "id": "d",
+        "text": "あまり"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kalimat menyatakan keyakinan \"Karena latihan setiap hari, besok pasti menang\". Kata きっと (kitto) berarti \"pasti\"."
   }
 ]
