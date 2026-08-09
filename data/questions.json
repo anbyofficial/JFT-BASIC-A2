@@ -7534,5 +7534,32 @@
     ],
     "answer": "b",
     "explanation": "Opsi B benar karena surat tersebut dikirim oleh Agus (アグス) kepada Tanaka-san (田中さん). Opsi A salah dalam tata bahasa (menggunakan bentuk lampau かかりました padahal menjelaskan kondisi sekarang), Opsi C salah karena yang pindah ke apartemen baru adalah Agus, dan Opsi D salah karena apartemen sekaranglah yang lebih praktis/convenient."
+  },
+  {
+    "id": 1786261238237,
+    "category": "reading",
+    "type": "reading",
+    "passage": "田中さん、お元気ですか。私は先週、大学の近くにひっこしをしました。前はアパートから大学まで電車とバスで1時間半ぐらいかかりました。でも、今のアパートは大学まで歩いて10分ぐらいです。それで、ここにひっこすことにしました。少しせまいですが、新しくて、きれいだし、となりにスーパーもあります。駅からも近くて、せいかつがとても便利になりました。それに、アパートのへやのまどから見えるけしきもいいです。だから、ひっこしをして、ほんとうによかったと思っていました。この手紙といっしょに、私のへやのまどから見たけしきの写真をおくります。それでは、また。\n令和2年5月20日\nアグス",
+    "question": "今の新しいアパートはどうですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ひろくて、あたらしいへやです。"
+      },
+      {
+        "id": "b",
+        "text": "せまいですが、やちんがやすいです。"
+      },
+      {
+        "id": "c",
+        "text": "せまいですが、スーパーもあります。"
+      },
+      {
+        "id": "d",
+        "text": "古くて、大学から遠いです。"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Dalam teks tertulis: 「少しせまいですが、新しくて、きれいだし、となりにスーパーもあります。」 (Agak sempit, tapi baru, bersih, dan di sebelahnya juga ada supermarket). Maka jawaban C (Sempit tetapi ada supermarket) adalah yang paling akurat sesuai teks."
   }
 ]
