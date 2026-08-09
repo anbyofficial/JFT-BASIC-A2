@@ -8591,5 +8591,32 @@
     ],
     "answer": "a",
     "explanation": "Pola menyatakan pengalaman \"Pernah melakukan...\" wajib memakai 「Ta-form + ことがあります」 -> 乗ったことがあります."
+  },
+  {
+    "id": 1786285458641,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "休みの日は、部屋を掃除し（   ）、買い物に行ったりします。",
+    "options": [
+      {
+        "id": "a",
+        "text": "たり"
+      },
+      {
+        "id": "b",
+        "text": "て"
+      },
+      {
+        "id": "c",
+        "text": "たりして"
+      },
+      {
+        "id": "d",
+        "text": "ながら"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk merinci beberapa kegiatan tak berurutan adalah 「Ta-form + り、Ta-form + りします」 -> 掃除したり、買い物に行ったりします."
   }
 ]
