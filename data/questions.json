@@ -8807,5 +8807,32 @@
     ],
     "answer": "a",
     "explanation": "Pola untuk menyatakan keinginan diri sendiri (\"Ingin...\") adalah 「Masu-stem + たいです」. Kata 飲みます dibuang ます-nya menjadi 飲み -> 飲みたいです."
+  },
+  {
+    "id": 1786286166358,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "寝る前に、薬を（   ）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲んで"
+      },
+      {
+        "id": "b",
+        "text": "飲む"
+      },
+      {
+        "id": "c",
+        "text": "飲んだ"
+      },
+      {
+        "id": "d",
+        "text": "飲み"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola instruksi / permohonan halus (\"Tolong...\") rumusnya adalah 「Te-form + ください」 -> 飲んでください."
   }
 ]
