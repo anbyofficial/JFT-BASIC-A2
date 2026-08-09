@@ -7367,5 +7367,33 @@
     ],
     "answer": "a",
     "explanation": "Saran untuk \"sebaiknya TIDAK berenang\" (karena sedang demam) menggunakan bentuk negatif: 「Nai-form + ほうがいい」 -> およがないほうがいい (oyoganai hō ga ii)."
+  },
+  {
+    "id": 1786259511354,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "画像を見て、適切な文を選んでください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "神社に行きたい（じんじゃにいきたい）"
+      },
+      {
+        "id": "b",
+        "text": "京都へ行きたい（きょうとへいきたい）"
+      },
+      {
+        "id": "c",
+        "text": "お寺へ行きたい（おてらへいきたい）"
+      },
+      {
+        "id": "d",
+        "text": "公園へ行きたい（こうえんへいきたい）"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan gerbang Torii (鳥居) khas kuil Shinto. Bahasa Jepang untuk kuil Shinto adalah 神社 (Jinja). Oleh karena itu, kalimat yang tepat adalah 神社に行きたい (Jinja ni ikitai = Ingin pergi ke kuil Shinto). (お寺/Otera = Kuil Buddha, 公園/Kouen = Taman).",
+    "image": "images/img_1786259511354.png"
   }
 ]
