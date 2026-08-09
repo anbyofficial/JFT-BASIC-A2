@@ -7395,5 +7395,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan gerbang Torii (鳥居) khas kuil Shinto. Bahasa Jepang untuk kuil Shinto adalah 神社 (Jinja). Oleh karena itu, kalimat yang tepat adalah 神社に行きたい (Jinja ni ikitai = Ingin pergi ke kuil Shinto). (お寺/Otera = Kuil Buddha, 公園/Kouen = Taman).",
     "image": "images/img_1786259511354.png"
+  },
+  {
+    "id": 1786259794801,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "画像を見て、適切な言葉を選んでください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "洗濯"
+      },
+      {
+        "id": "b",
+        "text": "料理"
+      },
+      {
+        "id": "c",
+        "text": "掃除"
+      },
+      {
+        "id": "d",
+        "text": "散歩"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Gambar menunjukkan seseorang yang sedang menyapu/mengepel lantai kamar. Bahasa Jepang untuk membersihkan rumah adalah 掃除 (Souji). (洗濯 = Mencuci pakaian, 料理 = Memasak, 散歩 = Jalan-jalan).",
+    "image": "images/img_1786259794801.png"
   }
 ]
