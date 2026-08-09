@@ -8002,8 +8002,8 @@
     "id": 1786264993602,
     "category": "conversation",
     "type": "conversation",
-    "passage": "店員:「お支払いはどうなさいますか。」\n客:「（   ）でおねがいします。」",
-    "question": "",
+    "passage": "",
+    "question": " 店員:「お支払いはどうなさいますか。」\n客:「（   ）でおねがいします。」 ",
     "options": [
       {
         "id": "a",
