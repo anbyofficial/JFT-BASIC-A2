@@ -8348,5 +8348,32 @@
     ],
     "answer": "a",
     "explanation": "Untuk menyatakan dugaan berdasarkan pengamatan visual (\"kelihatannya akan...\"), gunakan 「Masu-stem + そうです」 -> 降りそうです (Kelihatannya akan turun hujan)."
+  },
+  {
+    "id": 1786266412053,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "この辞書は説明がわかりやすくて、（   ）やすいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "使い"
+      },
+      {
+        "id": "b",
+        "text": "使う"
+      },
+      {
+        "id": "c",
+        "text": "使って"
+      },
+      {
+        "id": "d",
+        "text": "使った"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan kemudahan suatu tindakan adalah 「Masu-stem + やすいです」 -> 使いやすいです (Mudah digunakan)."
   }
 ]
