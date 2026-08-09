@@ -8105,5 +8105,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk memberikan saran \"Sebaiknya...\" adalah 「Ta-form + ほうがいいです」 -> 飲んだほうがいいです."
+  },
+  {
+    "id": 1786265699744,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "国へ帰ったら、父の会社で（   ）つもりです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "働く"
+      },
+      {
+        "id": "b",
+        "text": "働いた"
+      },
+      {
+        "id": "c",
+        "text": "働きます"
+      },
+      {
+        "id": "d",
+        "text": "働いて"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan rencana/niat 「〜つもりです」 berpasangan dengan kata kerja bentuk kamus (Plain Form/Jisho-kei) -> 働くつもりです."
   }
 ]
