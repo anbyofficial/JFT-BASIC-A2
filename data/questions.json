@@ -6490,5 +6490,33 @@
     "answer": "b",
     "explanation": "Gambar menunjukkan aktivitas mengaduk/mencampur bahan salad di dalam mangkuk. Kata kerja untuk mencampur adalah 混ぜます (Mazemasu) -> まぜて (Mazete).",
     "image": "images/img_1786250067863.png"
+  },
+  {
+    "id": 1786250261142,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "女の子が（   ）います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "しゃがんで"
+      },
+      {
+        "id": "b",
+        "text": "たって"
+      },
+      {
+        "id": "c",
+        "text": "はしって"
+      },
+      {
+        "id": "d",
+        "text": "ねて"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan seorang anak perempuan yang sedang berjongkok. Bahasa Jepang untuk berjongkok adalah しゃがみます (Shagamimasu) -> しゃがんでいます (Shagande imasu).",
+    "image": "images/img_1786250261142.png"
   }
 ]
