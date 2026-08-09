@@ -8024,5 +8024,32 @@
     ],
     "answer": "a",
     "explanation": "Metode pembayaran yang umum disebutkan adalah 「カード」 (Kartu kredit/debit) atau 「現金」 (Uang tunai). Options lain: 袋 (kantong), レシート (struk), おつり (kembalian)."
+  },
+  {
+    "id": 1786265461336,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "音楽を（   ）ながら、勉強します。",
+    "options": [
+      {
+        "id": "a",
+        "text": "聞きます"
+      },
+      {
+        "id": "b",
+        "text": "聞き"
+      },
+      {
+        "id": "c",
+        "text": "聞いて"
+      },
+      {
+        "id": "d",
+        "text": "聞く"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pola tata bahasa 「Masu-stem + ながら」 digunakan untuk melakukan dua kegiatan secara bersamaan. 聞きます diambil stem-nya saja yaitu 聞き (kiki)."
   }
 ]
