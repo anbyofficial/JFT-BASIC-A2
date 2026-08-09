@@ -7589,5 +7589,33 @@
     "answer": "c",
     "explanation": "Bumbu pada botol paling kanan (di sebelah gambar orang mencelupkan makanan) adalah めんつゆ (Mentsuyu - saus/kaldu dasar untuk mi Jepang seperti soba dan udon).",
     "image": "images/img_1786262176282.png"
+  },
+  {
+    "id": 1786262694241,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "ボールは今どこにありますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "リングの中に入りそうです"
+      },
+      {
+        "id": "b",
+        "text": "ドアの前に落ちています"
+      },
+      {
+        "id": "c",
+        "text": "ネットの上を飛んでいます"
+      },
+      {
+        "id": "d",
+        "text": "床の上で弾んでいます"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Bola basket sedang melayang tepat di atas/akan masuk ke dalam ring (リングの中に入りそうです).",
+    "image": "images/img_1786262694241.jpg"
   }
 ]
