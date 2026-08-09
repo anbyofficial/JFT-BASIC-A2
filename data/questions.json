@@ -6658,5 +6658,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan alat kukusan (せいろ/蒸し器) yang mengeluarkan uap. Kata kerja untuk mengukus adalah 蒸します (Mushimasu).",
     "image": "images/img_1786251901705.png"
+  },
+  {
+    "id": 1786252034569,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "とうがらしが入っているので、とても（   ）です。",
+    "options": [
+      {
+        "id": "a",
+        "text": "からい"
+      },
+      {
+        "id": "b",
+        "text": "あまい"
+      },
+      {
+        "id": "c",
+        "text": "すっぱい"
+      },
+      {
+        "id": "d",
+        "text": "しょっぱい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan cabai dan ekspresi kepedasan hingga keluar api dari mulut. Bahasa Jepang untuk pedas adalah 辛い (Karai). (Amai = Manis, Suppai = Asam, Shoppai = Asin).",
+    "image": "images/img_1786252034569.png"
   }
 ]
