@@ -8132,5 +8132,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan rencana/niat 「〜つもりです」 berpasangan dengan kata kerja bentuk kamus (Plain Form/Jisho-kei) -> 働くつもりです."
+  },
+  {
+    "id": 1786265759879,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "仕事が（   ）後で、映画を見に行きます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "終わった"
+      },
+      {
+        "id": "b",
+        "text": "終わる"
+      },
+      {
+        "id": "c",
+        "text": "終わり"
+      },
+      {
+        "id": "d",
+        "text": "終わって"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa 「Ta-form + 後で (ato de)」 menyatakan urutan kegiatan \"Setelah melakukan A, melakukan B\" -> 終わった後で."
   }
 ]
