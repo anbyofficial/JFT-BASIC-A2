@@ -8483,5 +8483,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan kesulitan melakukan sesuatu adalah 「Masu-stem + にくいです」 -> 書きにくいです (Sulit ditulis)."
+  },
+  {
+    "id": 1786285045946,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "週末、デパートへ服を（   ）に行きます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "買い"
+      },
+      {
+        "id": "b",
+        "text": "買う"
+      },
+      {
+        "id": "c",
+        "text": "買って"
+      },
+      {
+        "id": "d",
+        "text": "買いたい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan tujuan pergi/datang adalah 「Masu-stem + に行きます」 -> 買いに行きます (Pergi untuk membeli)."
   }
 ]
