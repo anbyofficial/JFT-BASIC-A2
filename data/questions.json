@@ -6462,5 +6462,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan botol saus bumbu seperti 焼肉のたれ (Yakiniku no tare), 中濃ソース (Chūnō sōsu), dan めんつゆ (Mentsuyu). Kata yang paling cocok untuk saus celup daging panggang adalah たれ (Tare).",
     "image": "images/img_1786249913543.png"
+  },
+  {
+    "id": 1786250067863,
+    "category": "reading",
+    "type": "reading",
+    "passage": "",
+    "question": "ボウルでサラダをよく（   ）でください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "きって"
+      },
+      {
+        "id": "b",
+        "text": "まぜて"
+      },
+      {
+        "id": "c",
+        "text": "ににて"
+      },
+      {
+        "id": "d",
+        "text": "やいて"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan aktivitas mengaduk/mencampur bahan salad di dalam mangkuk. Kata kerja untuk mencampur adalah 混ぜます (Mazemasu) -> まぜて (Mazete).",
+    "image": "images/img_1786250067863.png"
   }
 ]
