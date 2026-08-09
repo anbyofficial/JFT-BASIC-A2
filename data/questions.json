@@ -6574,5 +6574,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan seseorang yang memegang botol obat tetes mata karena matanya sakit/perih. Bahasa Jepang obat tetes mata adalah 目薬 (Megusuri). Pasangan kata kerjanya adalah 目薬をさします (Megusuri o sashimasu = meneteskan obat mata).",
     "image": "images/img_1786250938652.png"
+  },
+  {
+    "id": 1786251405019,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "ビルで（   ）がありました。すぐに119番に電話してください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "じしん"
+      },
+      {
+        "id": "b",
+        "text": "かじ"
+      },
+      {
+        "id": "c",
+        "text": "じこ"
+      },
+      {
+        "id": "d",
+        "text": "たいふう"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan gedung yang sedang mengalami kebakaran dengan asap tebal. Bahasa Jepang untuk kebakaran adalah 火事 (Kaji). (Pilihan A: Jishin = Gempa bumi, C: Jiko = Kecelakaan, D: Taifū = Topan).",
+    "image": "images/img_1786251405019.png"
   }
 ]
