@@ -8213,5 +8213,32 @@
     ],
     "answer": "a",
     "explanation": "Untuk menawarkan bantuan kepada orang lain, gunakan bentuk 「Masu-stem + ましょうか」 -> 持ちましょうか (Bagaimana kalau saya bawakan?)."
+  },
+  {
+    "id": 1786266096502,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "写真を出してもいいですが、ここで（   ）はいけません。",
+    "options": [
+      {
+        "id": "a",
+        "text": "撮って"
+      },
+      {
+        "id": "b",
+        "text": "撮る"
+      },
+      {
+        "id": "c",
+        "text": "撮り"
+      },
+      {
+        "id": "d",
+        "text": "撮った"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk larangan melakukan sesuatu adalah 「Te-form + はいけません」 -> 撮ってはいけません (Dilarang mengambil foto/video)."
   }
 ]
