@@ -8375,5 +8375,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan kemudahan suatu tindakan adalah 「Masu-stem + やすいです」 -> 使いやすいです (Mudah digunakan)."
+  },
+  {
+    "id": 1786266473925,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "手を（   ）から、ご飯を食べましょう。",
+    "options": [
+      {
+        "id": "a",
+        "text": "洗って"
+      },
+      {
+        "id": "b",
+        "text": "洗う"
+      },
+      {
+        "id": "c",
+        "text": "洗った"
+      },
+      {
+        "id": "d",
+        "text": "洗い"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola 「Te-form + から」 menyatakan urutan tindakan yang mutlak (A dulu baru B) -> 洗ってから (Setelah mencuci)."
   }
 ]
