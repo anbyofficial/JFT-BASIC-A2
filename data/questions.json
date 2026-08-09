@@ -6798,5 +6798,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan alat penyedot debu. Bahasa Jepang untuk penyedot debu (vacuum cleaner) adalah 掃除機 (Soujiki). (Sentakuki = Mesin cuci, Reizouko = Kulkas, Senpuuki = Kipas angin).",
     "image": "images/img_1786253901396.png"
+  },
+  {
+    "id": 1786254193250,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "朝のホームは人が多くて、とても（   ）ています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "こん"
+      },
+      {
+        "id": "b",
+        "text": "すい"
+      },
+      {
+        "id": "c",
+        "text": "ならん"
+      },
+      {
+        "id": "d",
+        "text": "あいて"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan suasana peron stasiun yang penuh dan padat oleh penumpang. Bahasa Jepang untuk padat/ramai/penuh adalah 混みます (Komimasu) -> 混んでいます (Kondemasu). (Suitemasu = Lengang/sepi).",
+    "image": "images/img_1786254193250.png"
   }
 ]
