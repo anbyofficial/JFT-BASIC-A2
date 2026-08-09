@@ -8672,5 +8672,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan tindakan yang berlebihan (\"terlalu...\") adalah 「Masu-stem + すぎます」 -> 飲みすぎます (Terlalu banyak minum)."
+  },
+  {
+    "id": 1786285696656,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "危ないですから、ここに（   ）でください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "入らない"
+      },
+      {
+        "id": "b",
+        "text": "入らな"
+      },
+      {
+        "id": "c",
+        "text": "入って"
+      },
+      {
+        "id": "d",
+        "text": "入る"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola larangan halus (\"Tolong jangan...\") rumusnya adalah 「Nai-form (Bentuk Negatif) + でください」. Kata kerja 入ります (masuk) bentuk negatifnya adalah 入らない (harus utuh dengan い), sehingga jika disambung menjadi 入らないでください (Hairanaide kudasai)."
   }
 ]
