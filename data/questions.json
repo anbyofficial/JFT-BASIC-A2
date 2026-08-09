@@ -7097,5 +7097,32 @@
     ],
     "answer": "b",
     "explanation": "Pola 「A と B の あいだ」 digunakan untuk menyatakan posisi \"di antara A dan B\"."
+  },
+  {
+    "id": 1786255888805,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "この店のようふくは、（   ）が高いです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ねだん"
+      },
+      {
+        "id": "b",
+        "text": "しなもの"
+      },
+      {
+        "id": "c",
+        "text": "てんいん"
+      },
+      {
+        "id": "d",
+        "text": "デザイン"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Ungkapan untuk harga barang yang mahal adalah ねだんが高い (nedan ga takai)."
   }
 ]
