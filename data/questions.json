@@ -7561,5 +7561,33 @@
     ],
     "answer": "c",
     "explanation": "Dalam teks tertulis: 「少しせまいですが、新しくて、きれいだし、となりにスーパーもあります。」 (Agak sempit, tapi baru, bersih, dan di sebelahnya juga ada supermarket). Maka jawaban C (Sempit tetapi ada supermarket) adalah yang paling akurat sesuai teks."
+  },
+  {
+    "id": 1786262176282,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "一番右の調味料の名前は何ですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "焼肉のたれ"
+      },
+      {
+        "id": "b",
+        "text": "中濃ソース"
+      },
+      {
+        "id": "c",
+        "text": "めんつゆ"
+      },
+      {
+        "id": "d",
+        "text": "しょうゆ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Bumbu pada botol paling kanan (di sebelah gambar orang mencelupkan makanan) adalah めんつゆ (Mentsuyu - saus/kaldu dasar untuk mi Jepang seperti soba dan udon).",
+    "image": "images/img_1786262176282.png"
   }
 ]
