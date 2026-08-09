@@ -7205,5 +7205,32 @@
     ],
     "answer": "b",
     "explanation": "Kalimat ini menggunakan bentuk pasif (受身形 / ukemikei). 「父にしかれた」 berarti \"dimarahi oleh ayah\"."
+  },
+  {
+    "id": 1786258661645,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "雨が（   ）かもしれないから、かさを持って出かけよう。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ふる"
+      },
+      {
+        "id": "b",
+        "text": "ふり"
+      },
+      {
+        "id": "c",
+        "text": "ふった"
+      },
+      {
+        "id": "d",
+        "text": "ふって"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Tata bahasa 〜かもしれない (mungkin) didahului oleh kata kerja bentuk kamus (普通形 / plain form), yaitu ふる (furu)."
   }
 ]
