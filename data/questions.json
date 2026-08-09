@@ -6908,5 +6908,32 @@
     ],
     "answer": "a",
     "explanation": "Ungkapan yang tepat untuk menjawab dengan suara keras adalah はっきり (hakkiri) yang berarti \"dengan jelas\"."
+  },
+  {
+    "id": 1786255195911,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "おいしそうな（   ）がするね。ハンバーグかな。",
+    "options": [
+      {
+        "id": "a",
+        "text": "かたち"
+      },
+      {
+        "id": "b",
+        "text": "におい"
+      },
+      {
+        "id": "c",
+        "text": "こえ"
+      },
+      {
+        "id": "d",
+        "text": "あじ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Ungkapan 〜がする dipakai untuk indra panca, dan においがする (nioi ga suru) berarti \"tercium bau/aroma\"."
   }
 ]
