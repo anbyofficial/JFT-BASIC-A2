@@ -8753,5 +8753,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk meminta izin adalah 「Te-form + もいいですか」 -> 座ってもいいですか (Bolehkah duduk?)."
+  },
+  {
+    "id": 1786286042863,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "私は納豆を（   ）ことがあります。",
+    "options": [
+      {
+        "id": "a",
+        "text": "食べた"
+      },
+      {
+        "id": "b",
+        "text": "食べる"
+      },
+      {
+        "id": "c",
+        "text": "食べて"
+      },
+      {
+        "id": "d",
+        "text": "食べ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk menyatakan pengalaman (\"Pernah...\") wajib menggunakan bentuk lampau biasa/kasual yaitu 「Ta-form + ことがあります」 -> 食べたことがあります."
   }
 ]
