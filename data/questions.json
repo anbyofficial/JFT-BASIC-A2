@@ -8510,5 +8510,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan tujuan pergi/datang adalah 「Masu-stem + に行きます」 -> 買いに行きます (Pergi untuk membeli)."
+  },
+  {
+    "id": 1786285124842,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "昨日、公園（   ）友達と散歩をしました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "で"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "へ"
+      },
+      {
+        "id": "d",
+        "text": "を"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Partikel で digunakan untuk menunjukkan tempat dilakukannya suatu aksi/kegiatan (散歩をする/jalan-jalan). Partikel に hanya untuk keberadaan/tujuan."
   }
 ]
