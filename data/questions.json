@@ -6714,5 +6714,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan tata cara/urutan menggulung norimaki (sushi roll). Kata kerja menggulung adalah 巻きます (Makimasu).",
     "image": "images/img_1786252156233.png"
+  },
+  {
+    "id": 1786252287304,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "バナナの皮を（   ）でから食べます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "むい"
+      },
+      {
+        "id": "b",
+        "text": "あらっ"
+      },
+      {
+        "id": "c",
+        "text": "きっ"
+      },
+      {
+        "id": "d",
+        "text": "つぶし"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan tangan yang sedang mengupas kulit buah pisang. Kata kerja mengupas kulit adalah 剥きます (Mukimasu) -> 剥いて (Muite).",
+    "image": "images/img_1786252287304.png"
   }
 ]
