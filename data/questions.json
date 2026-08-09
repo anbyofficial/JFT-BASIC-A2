@@ -6989,5 +6989,32 @@
     ],
     "answer": "b",
     "explanation": "つごうが悪い (tsugou ga warui) adalah ungkapan standar untuk menyatakan kondisi/jadwal sedang tidak baik (halangan)."
+  },
+  {
+    "id": 1786255475870,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "（   ）があるので、今日はお先にしつれいします。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ようじ"
+      },
+      {
+        "id": "b",
+        "text": "じかん"
+      },
+      {
+        "id": "c",
+        "text": "つごう"
+      },
+      {
+        "id": "d",
+        "text": "やくそく"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ようじがある (youji ga aru) berarti \"ada urusan\", alasan umum yang digunakan saat minta izin pulang lebih awal."
   }
 ]
