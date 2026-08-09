@@ -7727,5 +7727,32 @@
     ],
     "answer": "c",
     "explanation": "Dalam pesan teks tertulis: 「14時からではなく15時からに変更になりました」 yang artinya waktu rapat diubah menjadi mulai jam 15:00 (bukan jam 14:00)."
+  },
+  {
+    "id": 1786263765069,
+    "category": "reading",
+    "type": "reading",
+    "passage": "【図書館を利用する人へ】\n・館内では静かにしてください。\n・飲み物はフタが付いているボトルだけ飲むことができます。\n・食べ物を食べてはいけません。\n・本は一人5冊まで、2週間借りることができます。",
+    "question": "図書館でできることはどれですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "パンを食べること"
+      },
+      {
+        "id": "b",
+        "text": "フタがあるボトルで飲み物を飲むこと"
+      },
+      {
+        "id": "c",
+        "text": "大きな声で話すこと"
+      },
+      {
+        "id": "d",
+        "text": "本を10冊借りること"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Berdasarkan aturan di perpustakaan: 「飲み物はフタが付いているボトルだけ飲むことができます」 (Boleh minum minuman yang menggunakan botol berpenutup). Makan, berbicara keras, dan meminjam 10 buku dilarang."
   }
 ]
