@@ -7754,5 +7754,32 @@
     ],
     "answer": "b",
     "explanation": "Berdasarkan aturan di perpustakaan: 「飲み物はフタが付いているボトルだけ飲むことができます」 (Boleh minum minuman yang menggunakan botol berpenutup). Makan, berbicara keras, dan meminjam 10 buku dilarang."
+  },
+  {
+    "id": 1786263843213,
+    "category": "reading",
+    "type": "reading",
+    "passage": "【ランチセット（11:00～14:00）】\nAセット：ラーメン ＋ ギョーザ（800円）\nBセット：カレーライス ＋ サラダ（750円）\nCセット：日替わり定食 ＋ ドリンク（850円）\n\n※土曜日・日曜日はランチセットはありません。\n※ドリンクは＋100円で追加できます。",
+    "question": "日曜日の12時にランチセットを頼むことができますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "はい、800円で頼めます"
+      },
+      {
+        "id": "b",
+        "text": "はい、850円で頼めます"
+      },
+      {
+        "id": "c",
+        "text": "いいえ、日曜日は頼めません"
+      },
+      {
+        "id": "d",
+        "text": "いいえ、時間が遅いので頼めません"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Terdapat catatan khusus di bagian bawah menu: 「※土曜日・日曜日はランチセットはありません」 (Hari Sabtu dan Minggu tidak ada paket lunch set). Jadi jawabannya adalah tidak bisa (いいえ、日曜日は頼めません)."
   }
 ]
