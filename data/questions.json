@@ -7423,5 +7423,33 @@
     "answer": "c",
     "explanation": "Gambar menunjukkan seseorang yang sedang menyapu/mengepel lantai kamar. Bahasa Jepang untuk membersihkan rumah adalah 掃除 (Souji). (洗濯 = Mencuci pakaian, 料理 = Memasak, 散歩 = Jalan-jalan).",
     "image": "images/img_1786259794801.png"
+  },
+  {
+    "id": 1786260062569,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "画像を見て、適切な言葉を選んでください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "朝"
+      },
+      {
+        "id": "b",
+        "text": "昼"
+      },
+      {
+        "id": "c",
+        "text": "夜"
+      },
+      {
+        "id": "d",
+        "text": "夕方"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan suasana pagi hari saat matahari terbit di balik bukit. Bahasa Jepang untuk pagi hari adalah 朝 (Asa). (昼 = Siang, 夜 = Malam, 夕方 = Sore/Petang).",
+    "image": "images/img_1786260062569.png"
   }
 ]
