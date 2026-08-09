@@ -8618,5 +8618,32 @@
     ],
     "answer": "a",
     "explanation": "Pola untuk merinci beberapa kegiatan tak berurutan adalah 「Ta-form + り、Ta-form + りします」 -> 掃除したり、買い物に行ったりします."
+  },
+  {
+    "id": 1786285523872,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "来年、日本へ（   ）と思っています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "行こう"
+      },
+      {
+        "id": "b",
+        "text": "行きます"
+      },
+      {
+        "id": "c",
+        "text": "行く"
+      },
+      {
+        "id": "d",
+        "text": "行って"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk menyatakan keinginan/niat yang dipikirkan sejak lama adalah 「Volitional Form (Bentuk Majo/Ajak) + と思っています」 -> 行こうと思っています."
   }
 ]
