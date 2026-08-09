@@ -6378,5 +6378,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan gedung kantor pos (郵便局 = Yūbinkyoku) yang ditandai dengan simbol 〒 dan adanya petugas pengantar surat.",
     "image": "images/img_1786248562764.png"
+  },
+  {
+    "id": 1786249289489,
+    "category": "reading",
+    "type": "reading",
+    "passage": "",
+    "question": "会議の前に、パソコンをプロジェクターに（   ）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "つけます"
+      },
+      {
+        "id": "b",
+        "text": "つなぎます"
+      },
+      {
+        "id": "c",
+        "text": "おします"
+      },
+      {
+        "id": "d",
+        "text": "ならべます"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kata kerja yang tepat untuk menyambungkan/menghubungkan kabel perangkat elektronik adalah つなぎます (Tsunagimasu).",
+    "image": "images/img_1786249289489.png"
   }
 ]
