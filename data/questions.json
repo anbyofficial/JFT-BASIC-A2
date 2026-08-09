@@ -7943,5 +7943,32 @@
     ],
     "answer": "c",
     "explanation": "Dalam percakapan memberikan petunjuk arah di dalam gedung, 「エスカレーターのとなり」 (di sebelah/samping eskalator) adalah posisi yang paling umum dan logis."
+  },
+  {
+    "id": 1786264783674,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「その荷物、重そうですね。手伝いましょうか。」\nB:「あ、ありがとうございます。（   ）。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "助かります"
+      },
+      {
+        "id": "b",
+        "text": "ごめんなさい"
+      },
+      {
+        "id": "c",
+        "text": "どういたしました"
+      },
+      {
+        "id": "d",
+        "text": "失礼します"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Saat seseorang menawarkan bantuan dan kita menerimanya, ungkapan standar yang sangat sering keluar adalah 「助かります」 (Sangat membantu saya / Terima kasih banyak)."
   }
 ]
