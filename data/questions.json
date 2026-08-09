@@ -7340,5 +7340,32 @@
     ],
     "answer": "b",
     "explanation": "Pola kalimat 〜かどうか (apakah ... atau tidak) dipakai untuk pertanyaan tidak langsung tanpa kata tanya: おいしいかどうか (apakah enak atau tidak)."
+  },
+  {
+    "id": 1786259054412,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "ねつがあるなら、（   ）ほうがいいですよ。",
+    "options": [
+      {
+        "id": "a",
+        "text": "およがない"
+      },
+      {
+        "id": "b",
+        "text": "およいだ"
+      },
+      {
+        "id": "c",
+        "text": "およぐ"
+      },
+      {
+        "id": "d",
+        "text": "およぎ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Saran untuk \"sebaiknya TIDAK berenang\" (karena sedang demam) menggunakan bentuk negatif: 「Nai-form + ほうがいい」 -> およがないほうがいい (oyoganai hō ga ii)."
   }
 ]
