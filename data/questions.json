@@ -8780,5 +8780,32 @@
     ],
     "answer": "a",
     "explanation": "Pola untuk menyatakan pengalaman (\"Pernah...\") wajib menggunakan bentuk lampau biasa/kasual yaitu 「Ta-form + ことがあります」 -> 食べたことがあります."
+  },
+  {
+    "id": 1786286099079,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "喉が渇いたので、お茶を（   ）たいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲み"
+      },
+      {
+        "id": "b",
+        "text": "飲む"
+      },
+      {
+        "id": "c",
+        "text": "飲んで"
+      },
+      {
+        "id": "d",
+        "text": "飲んだ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk menyatakan keinginan diri sendiri (\"Ingin...\") adalah 「Masu-stem + たいです」. Kata 飲みます dibuang ます-nya menjadi 飲み -> 飲みたいです."
   }
 ]
