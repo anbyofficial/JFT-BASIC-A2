@@ -7700,5 +7700,32 @@
     ],
     "answer": "c",
     "explanation": "Pada teks pemberitahuan tertulis: 「ペットボトル・缶：木曜日」 yang artinya botol plastik dan kaleng dibuang pada hari Kamis (木曜日 / Mokuyōbi)."
+  },
+  {
+    "id": 1786263652750,
+    "category": "reading",
+    "type": "reading",
+    "passage": "ヤマダさん\n\nおつかれさまです。アリです。\n今日の午後の会議ですが、14時からではなく15時からに変更になりました。\n場所は3階の第2会議室です。\n急な変更で申し訳ありませんが、よろしくお願いします。",
+    "question": "今日の会議は何時から始まりますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "13時"
+      },
+      {
+        "id": "b",
+        "text": "14時"
+      },
+      {
+        "id": "c",
+        "text": "15時"
+      },
+      {
+        "id": "d",
+        "text": "16時"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Dalam pesan teks tertulis: 「14時からではなく15時からに変更になりました」 yang artinya waktu rapat diubah menjadi mulai jam 15:00 (bukan jam 14:00)."
   }
 ]
