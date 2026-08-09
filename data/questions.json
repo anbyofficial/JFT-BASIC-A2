@@ -7835,5 +7835,32 @@
     ],
     "answer": "a",
     "explanation": "Respon memberikan izin terhadap pertanyaan 「〜てもいいですか」 (bolehkah...?) yang sopan adalah 「ええ、どうぞ」 (Ya, silakan)."
+  },
+  {
+    "id": 1786264376628,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「すみません、市役所へ行きたいんですが、道を教えてくれませんか。」\nB:「（   ）。まっすぐ行って、二つ目の角を右に曲がってください。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "いいですよ"
+      },
+      {
+        "id": "b",
+        "text": "わかりません"
+      },
+      {
+        "id": "c",
+        "text": "結構です"
+      },
+      {
+        "id": "d",
+        "text": "ごちそうさまでした"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Ketika seseorang meminta bantuan 「〜てくれませんか」 dan kita ingin menyanggupinya, ungkapan yang tepat adalah 「いいですよ」 (Boleh / Tentu saja)."
   }
 ]
