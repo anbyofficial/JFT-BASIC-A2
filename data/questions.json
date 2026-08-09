@@ -7916,5 +7916,32 @@
     ],
     "answer": "a",
     "explanation": "Untuk menerima ajakan 「〜行きませんか」, ungkapan yang paling alami untuk menyetujuinya adalah 「いいですね。行きましょう」 (Wah bagus, ayo kita pergi)."
+  },
+  {
+    "id": 1786264705474,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「すみません、お手洗いはどこですか。」\nB:「あちらのエスカレーターの（   ）です。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "うしろ"
+      },
+      {
+        "id": "b",
+        "text": "まえ"
+      },
+      {
+        "id": "c",
+        "text": "となり"
+      },
+      {
+        "id": "d",
+        "text": "なか"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Dalam percakapan memberikan petunjuk arah di dalam gedung, 「エスカレーターのとなり」 (di sebelah/samping eskalator) adalah posisi yang paling umum dan logis."
   }
 ]
