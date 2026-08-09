@@ -7617,5 +7617,33 @@
     "answer": "a",
     "explanation": "Bola basket sedang melayang tepat di atas/akan masuk ke dalam ring (リングの中に入りそうです).",
     "image": "images/img_1786262694241.jpg"
+  },
+  {
+    "id": 1786262984160,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "風船はいくつありますか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "三個"
+      },
+      {
+        "id": "b",
+        "text": "四個"
+      },
+      {
+        "id": "c",
+        "text": "五個"
+      },
+      {
+        "id": "d",
+        "text": "六個"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Balon yang dipegang pesirkus bersepeda roda satu ada 4 buah (四個 / Yonko).",
+    "image": "images/img_1786262984160.jpeg"
   }
 ]
