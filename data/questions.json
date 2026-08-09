@@ -7997,5 +7997,32 @@
     ],
     "answer": "a",
     "explanation": "Saat menyampaikan gejala/keluhan saat ini kepada dokter, gunakan bentuk deskriptif saat ini: 「頭も痛いです」 (Kepala juga sakit)."
+  },
+  {
+    "id": 1786264993602,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "店員:「お支払いはどうなさいますか。」\n客:「（   ）でおねがいします。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "カード"
+      },
+      {
+        "id": "b",
+        "text": "袋"
+      },
+      {
+        "id": "c",
+        "text": "レシート"
+      },
+      {
+        "id": "d",
+        "text": "おつり"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Metode pembayaran yang umum disebutkan adalah 「カード」 (Kartu kredit/debit) atau 「現金」 (Uang tunai). Options lain: 袋 (kantong), レシート (struk), おつり (kembalian)."
   }
 ]
