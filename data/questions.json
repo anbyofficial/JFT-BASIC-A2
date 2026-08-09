@@ -8645,5 +8645,32 @@
     ],
     "answer": "a",
     "explanation": "Pola untuk menyatakan keinginan/niat yang dipikirkan sejak lama adalah 「Volitional Form (Bentuk Majo/Ajak) + と思っています」 -> 行こうと思っています."
+  },
+  {
+    "id": 1786285589368,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "昨日の夜、お酒を（   ）すぎて、頭が痛いです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲み"
+      },
+      {
+        "id": "b",
+        "text": "飲む"
+      },
+      {
+        "id": "c",
+        "text": "飲んで"
+      },
+      {
+        "id": "d",
+        "text": "飲んだ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan tindakan yang berlebihan (\"terlalu...\") adalah 「Masu-stem + すぎます」 -> 飲みすぎます (Terlalu banyak minum)."
   }
 ]
