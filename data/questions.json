@@ -6962,5 +6962,32 @@
     ],
     "answer": "c",
     "explanation": "Menjadi guru bahasa Jepang di masa depan menyatakan impian/cita-cita, yaitu ゆめ (yume)."
+  },
+  {
+    "id": 1786255372327,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "明日は（   ）が悪いので、来週でもいいですか。",
+    "options": [
+      {
+        "id": "a",
+        "text": "けいけん"
+      },
+      {
+        "id": "b",
+        "text": "つごう"
+      },
+      {
+        "id": "c",
+        "text": "ようじ"
+      },
+      {
+        "id": "d",
+        "text": "きげん"
+      }
+    ],
+    "answer": "b",
+    "explanation": "つごうが悪い (tsugou ga warui) adalah ungkapan standar untuk menyatakan kondisi/jadwal sedang tidak baik (halangan)."
   }
 ]
