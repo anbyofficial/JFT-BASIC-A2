@@ -7808,5 +7808,32 @@
     ],
     "answer": "a",
     "explanation": "Dalam budaya Jepang, menolak ajakan secara halus menggunakan pola 「ちょっと……」 lalu diikuti alasan seperti 用事があるんです (karena ada urusan)."
+  },
+  {
+    "id": 1786264307596,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「すみません、頭が痛いので、少し休んでもいいですか。」\nB:「（   ）。お大事に。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "ええ、どうぞ"
+      },
+      {
+        "id": "b",
+        "text": "いいえ、ダメです"
+      },
+      {
+        "id": "c",
+        "text": "こちらこそ"
+      },
+      {
+        "id": "d",
+        "text": "はじめまして"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Respon memberikan izin terhadap pertanyaan 「〜てもいいですか」 (bolehkah...?) yang sopan adalah 「ええ、どうぞ」 (Ya, silakan)."
   }
 ]
