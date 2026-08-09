@@ -8240,5 +8240,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk larangan melakukan sesuatu adalah 「Te-form + はいけません」 -> 撮ってはいけません (Dilarang mengambil foto/video)."
+  },
+  {
+    "id": 1786266158862,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "道を（   ）とき、右と左をよく見てください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "渡る"
+      },
+      {
+        "id": "b",
+        "text": "渡った"
+      },
+      {
+        "id": "c",
+        "text": "渡り"
+      },
+      {
+        "id": "d",
+        "text": "渡って"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola 「Verb (Bentuk Kamus) + とき」 digunakan untuk situasi ketika suatu tindakan sedang atau akan dilakukan -> 渡るとき (Saat/ketika menyeberang)."
   }
 ]
