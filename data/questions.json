@@ -8294,5 +8294,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa untuk menyatakan tujuan \"Untuk/Demi...\" adalah 「Verb (Bentuk Kamus) + ために」 -> 買うために (Untuk membeli)."
+  },
+  {
+    "id": 1786266283502,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "毎日練習したので、日本語で話せる（   ）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ようになりました"
+      },
+      {
+        "id": "b",
+        "text": "ことにしました"
+      },
+      {
+        "id": "c",
+        "text": "つもりです"
+      },
+      {
+        "id": "d",
+        "text": "そうになりました"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola 「Verb Potensial (Bentuk Kamus) + ようになります」 menyatakan proses perubahan dari \"tidak bisa\" menjadi \"bisa\" -> 話せるようになりました (Sudah/menjadi bisa berbicara)."
   }
 ]
