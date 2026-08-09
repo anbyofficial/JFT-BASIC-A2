@@ -7889,5 +7889,32 @@
     ],
     "answer": "a",
     "explanation": "Saat meminta/memesan sesuatu di toko atau restoran, ungkapan yang umum digunakan adalah 「〜をください」 (Tolong berikan ... / Saya minta ...)."
+  },
+  {
+    "id": 1786264636155,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「日曜日、一緒にサッカーを見に行きませんか。」\nB:「いいですね。（   ）。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "行きましょう"
+      },
+      {
+        "id": "b",
+        "text": "行きました"
+      },
+      {
+        "id": "c",
+        "text": "行かないでください"
+      },
+      {
+        "id": "d",
+        "text": "行きたいです"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Untuk menerima ajakan 「〜行きませんか」, ungkapan yang paling alami untuk menyetujuinya adalah 「いいですね。行きましょう」 (Wah bagus, ayo kita pergi)."
   }
 ]
