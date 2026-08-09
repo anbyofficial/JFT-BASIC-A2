@@ -6602,5 +6602,33 @@
     "answer": "b",
     "explanation": "Gambar menunjukkan gedung yang sedang mengalami kebakaran dengan asap tebal. Bahasa Jepang untuk kebakaran adalah 火事 (Kaji). (Pilihan A: Jishin = Gempa bumi, C: Jiko = Kecelakaan, D: Taifū = Topan).",
     "image": "images/img_1786251405019.png"
+  },
+  {
+    "id": 1786251793834,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "網の上で肉を（   ）ています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "やい"
+      },
+      {
+        "id": "b",
+        "text": "に"
+      },
+      {
+        "id": "c",
+        "text": "いためて"
+      },
+      {
+        "id": "d",
+        "text": "あげて"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan kegiatan memanggang daging di atas jeruji/panggangan. Kata kerja memanggang adalah 焼きます (Yakimasu) -> 焼いています (Yaitemasu).",
+    "image": "images/img_1786251793834.png"
   }
 ]
