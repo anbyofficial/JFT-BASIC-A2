@@ -7016,5 +7016,32 @@
     ],
     "answer": "a",
     "explanation": "ようじがある (youji ga aru) berarti \"ada urusan\", alasan umum yang digunakan saat minta izin pulang lebih awal."
+  },
+  {
+    "id": 1786255618430,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "さっき教えてもらったのに、もう（   ）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "おしえちゃった"
+      },
+      {
+        "id": "b",
+        "text": "おぼえちゃった"
+      },
+      {
+        "id": "c",
+        "text": "わすれちゃった"
+      },
+      {
+        "id": "d",
+        "text": "やめちゃった"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Pola 〜のに (padahal) menyatakan penyesalan. わすれちゃった (wasurechatta) berarti \"padahal baru diajari tapi sudah lupa\"."
   }
 ]
