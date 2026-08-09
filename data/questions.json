@@ -7151,5 +7151,32 @@
     ],
     "answer": "a",
     "explanation": "Oleh-oleh hasil dari perjalanan/wisata disebut おみやげ (omiyage)."
+  },
+  {
+    "id": 1786258507493,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "この料理はかんたんですから、子ども（   ）作れますよ。",
+    "options": [
+      {
+        "id": "a",
+        "text": "とか"
+      },
+      {
+        "id": "b",
+        "text": "しか"
+      },
+      {
+        "id": "c",
+        "text": "でも"
+      },
+      {
+        "id": "d",
+        "text": "まで"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Partikel でも (demo) dalam kalimat ini berarti \"bahkan\" (bahkan anak-anak pun bisa membuatnya karena masakan ini mudah)."
   }
 ]
