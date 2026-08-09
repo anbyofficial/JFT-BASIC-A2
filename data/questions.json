@@ -7070,5 +7070,32 @@
     ],
     "answer": "a",
     "explanation": "Menghadapi wawancara (めんせつ) membuat seseorang gugup, bahasa Jepangnya adalah きんちょう (kinchou)."
+  },
+  {
+    "id": 1786255799317,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "学校とこうえんの（   ）にパン屋があります。",
+    "options": [
+      {
+        "id": "a",
+        "text": "となり"
+      },
+      {
+        "id": "b",
+        "text": "あいだ"
+      },
+      {
+        "id": "c",
+        "text": "まえ"
+      },
+      {
+        "id": "d",
+        "text": "うしろ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pola 「A と B の あいだ」 digunakan untuk menyatakan posisi \"di antara A dan B\"."
   }
 ]
