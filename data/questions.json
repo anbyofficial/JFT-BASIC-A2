@@ -6935,5 +6935,32 @@
     ],
     "answer": "b",
     "explanation": "Ungkapan 〜がする dipakai untuk indra panca, dan においがする (nioi ga suru) berarti \"tercium bau/aroma\"."
+  },
+  {
+    "id": 1786255270055,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "私の（   ）は、日本語の先生になることです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "おかげ"
+      },
+      {
+        "id": "b",
+        "text": "しごと"
+      },
+      {
+        "id": "c",
+        "text": "ゆめ"
+      },
+      {
+        "id": "d",
+        "text": "しゅみ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Menjadi guru bahasa Jepang di masa depan menyatakan impian/cita-cita, yaitu ゆめ (yume)."
   }
 ]
