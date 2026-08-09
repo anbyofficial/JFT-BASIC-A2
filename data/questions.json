@@ -8321,5 +8321,32 @@
     ],
     "answer": "a",
     "explanation": "Pola 「Verb Potensial (Bentuk Kamus) + ようになります」 menyatakan proses perubahan dari \"tidak bisa\" menjadi \"bisa\" -> 話せるようになりました (Sudah/menjadi bisa berbicara)."
+  },
+  {
+    "id": 1786266350317,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "空が暗くなりましたね。雨が（   ）そうです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "降り"
+      },
+      {
+        "id": "b",
+        "text": "降る"
+      },
+      {
+        "id": "c",
+        "text": "降った"
+      },
+      {
+        "id": "d",
+        "text": "降って"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Untuk menyatakan dugaan berdasarkan pengamatan visual (\"kelihatannya akan...\"), gunakan 「Masu-stem + そうです」 -> 降りそうです (Kelihatannya akan turun hujan)."
   }
 ]
