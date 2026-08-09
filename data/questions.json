@@ -8267,5 +8267,32 @@
     ],
     "answer": "a",
     "explanation": "Pola 「Verb (Bentuk Kamus) + とき」 digunakan untuk situasi ketika suatu tindakan sedang atau akan dilakukan -> 渡るとき (Saat/ketika menyeberang)."
+  },
+  {
+    "id": 1786266220942,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "新しい車を（   ）ために、貯金しています。",
+    "options": [
+      {
+        "id": "a",
+        "text": "買う"
+      },
+      {
+        "id": "b",
+        "text": "買った"
+      },
+      {
+        "id": "c",
+        "text": "買い"
+      },
+      {
+        "id": "d",
+        "text": "買って"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk menyatakan tujuan \"Untuk/Demi...\" adalah 「Verb (Bentuk Kamus) + ために」 -> 買うために (Untuk membeli)."
   }
 ]
