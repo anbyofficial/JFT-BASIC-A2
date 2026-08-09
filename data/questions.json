@@ -6406,5 +6406,33 @@
     "answer": "b",
     "explanation": "Kata kerja yang tepat untuk menyambungkan/menghubungkan kabel perangkat elektronik adalah つなぎます (Tsunagimasu).",
     "image": "images/img_1786249289489.png"
+  },
+  {
+    "id": 1786249479545,
+    "category": "reading",
+    "type": "reading",
+    "passage": "",
+    "question": "休みの日に、友達と川の近くで（   ）をしました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "サイクリング"
+      },
+      {
+        "id": "b",
+        "text": "ジョギング"
+      },
+      {
+        "id": "c",
+        "text": "ハイキング"
+      },
+      {
+        "id": "d",
+        "text": "キャンプ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan aktivitas bersepeda, yang dalam bahasa Jepang disebut サイクリング (Saikuringu).",
+    "image": "images/img_1786249479545.png"
   }
 ]
