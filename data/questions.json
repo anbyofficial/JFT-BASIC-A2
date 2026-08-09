@@ -7781,5 +7781,32 @@
     ],
     "answer": "c",
     "explanation": "Terdapat catatan khusus di bagian bawah menu: 「※土曜日・日曜日はランチセットはありません」 (Hari Sabtu dan Minggu tidak ada paket lunch set). Jadi jawabannya adalah tidak bisa (いいえ、日曜日は頼めません)."
+  },
+  {
+    "id": 1786264235020,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "A:「今週の土曜日に一緒にお酒を飲みに行きませんか。」\nB:「土曜日はちょっと……。（   ）。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "用事があるんです"
+      },
+      {
+        "id": "b",
+        "text": "行きましょう"
+      },
+      {
+        "id": "c",
+        "text": "大丈夫です"
+      },
+      {
+        "id": "d",
+        "text": "暇です"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Dalam budaya Jepang, menolak ajakan secara halus menggunakan pola 「ちょっと……」 lalu diikuti alasan seperti 用事があるんです (karena ada urusan)."
   }
 ]
