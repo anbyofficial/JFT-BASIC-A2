@@ -8159,5 +8159,32 @@
     ],
     "answer": "a",
     "explanation": "Pola tata bahasa 「Ta-form + 後で (ato de)」 menyatakan urutan kegiatan \"Setelah melakukan A, melakukan B\" -> 終わった後で."
+  },
+  {
+    "id": 1786265952119,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "風邪を引いたときは、冷たいものを（   ）ほうがいいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲まない"
+      },
+      {
+        "id": "b",
+        "text": "飲まなかった"
+      },
+      {
+        "id": "c",
+        "text": "飲む"
+      },
+      {
+        "id": "d",
+        "text": "飲んで"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola menyarankan untuk TIDAK melakukan sesuatu adalah 「Nai-form (Bentuk Negatif) + ほうがいいです」 -> 飲まないほうがいいです (Sebaiknya tidak minum)."
   }
 ]
