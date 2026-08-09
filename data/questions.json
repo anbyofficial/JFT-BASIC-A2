@@ -8834,5 +8834,32 @@
     ],
     "answer": "a",
     "explanation": "Pola instruksi / permohonan halus (\"Tolong...\") rumusnya adalah 「Te-form + ください」 -> 飲んでください."
+  },
+  {
+    "id": 1786286221534,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "明日は休みですから、家でゆっくり（   ）つもりです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "休む"
+      },
+      {
+        "id": "b",
+        "text": "休んだ"
+      },
+      {
+        "id": "c",
+        "text": "休み"
+      },
+      {
+        "id": "d",
+        "text": "休んで"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk menyatakan rencana/niat (\"Berniat untuk...\") rumusnya adalah 「Verb (Bentuk Kamus) + つもりです」 -> 休むつもりです."
   }
 ]
