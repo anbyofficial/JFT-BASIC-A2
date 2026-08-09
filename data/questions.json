@@ -7178,5 +7178,32 @@
     ],
     "answer": "c",
     "explanation": "Partikel でも (demo) dalam kalimat ini berarti \"bahkan\" (bahkan anak-anak pun bisa membuatnya karena masakan ini mudah)."
+  },
+  {
+    "id": 1786258594397,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "子どものとき、カメラをこわして、父に（   ）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "しかった"
+      },
+      {
+        "id": "b",
+        "text": "しかられた"
+      },
+      {
+        "id": "c",
+        "text": "しからせた"
+      },
+      {
+        "id": "d",
+        "text": "しかって"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Kalimat ini menggunakan bentuk pasif (受身形 / ukemikei). 「父にしかれた」 berarti \"dimarahi oleh ayah\"."
   }
 ]
