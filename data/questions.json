@@ -6881,5 +6881,32 @@
     ],
     "answer": "b",
     "explanation": "Kalimat menyatakan keyakinan \"Karena latihan setiap hari, besok pasti menang\". Kata きっと (kitto) berarti \"pasti\"."
+  },
+  {
+    "id": 1786255092688,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "大きな声で（   ）答えてください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "はっきり"
+      },
+      {
+        "id": "b",
+        "text": "そんなに"
+      },
+      {
+        "id": "c",
+        "text": "ときに"
+      },
+      {
+        "id": "d",
+        "text": "ぜったいに"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Ungkapan yang tepat untuk menjawab dengan suara keras adalah はっきり (hakkiri) yang berarti \"dengan jelas\"."
   }
 ]
