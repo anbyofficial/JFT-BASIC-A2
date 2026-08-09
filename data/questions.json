@@ -6826,5 +6826,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan suasana peron stasiun yang penuh dan padat oleh penumpang. Bahasa Jepang untuk padat/ramai/penuh adalah 混みます (Komimasu) -> 混んでいます (Kondemasu). (Suitemasu = Lengang/sepi).",
     "image": "images/img_1786254193250.png"
+  },
+  {
+    "id": 1786254391938,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "寒いですから、（   ）をはめます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "スキーウエア"
+      },
+      {
+        "id": "b",
+        "text": "手ぶくろ"
+      },
+      {
+        "id": "c",
+        "text": "サングラス"
+      },
+      {
+        "id": "d",
+        "text": "マフラー"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Gambar menunjukkan sarung tangan. Bahasa Jepang untuk sarung tangan adalah 手袋 (Tebukuro). (スキーウエア = Baju ski, サングラス = Kacamata hitam, マフラー = Syal).",
+    "image": "images/img_1786254391938.png"
   }
 ]
