@@ -6686,5 +6686,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan cabai dan ekspresi kepedasan hingga keluar api dari mulut. Bahasa Jepang untuk pedas adalah 辛い (Karai). (Amai = Manis, Suppai = Asam, Shoppai = Asin).",
     "image": "images/img_1786252034569.png"
+  },
+  {
+    "id": 1786252156233,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "のりの上に具をのせて、きれいに（   ）ます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "まき"
+      },
+      {
+        "id": "b",
+        "text": "きり"
+      },
+      {
+        "id": "c",
+        "text": "おし"
+      },
+      {
+        "id": "d",
+        "text": "たたみ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan tata cara/urutan menggulung norimaki (sushi roll). Kata kerja menggulung adalah 巻きます (Makimasu).",
+    "image": "images/img_1786252156233.png"
   }
 ]
