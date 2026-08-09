@@ -8429,5 +8429,32 @@
     ],
     "answer": "a",
     "explanation": "Pola 「Te-form + くれます」 digunakan ketika orang lain melakukan kebaikan/tindakan untuk diri kita -> 作ってくれました (Dia telah membuatkan untuk saya)."
+  },
+  {
+    "id": 1786284917339,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "時間が（   ）、一緒にお茶を飲みに行きましょう。",
+    "options": [
+      {
+        "id": "a",
+        "text": "あったら"
+      },
+      {
+        "id": "b",
+        "text": "あると"
+      },
+      {
+        "id": "c",
+        "text": "あれば"
+      },
+      {
+        "id": "d",
+        "text": "あっても"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola pengandaian adalah 「Ta-form + ら」 -> あったら (Jika ada)."
   }
 ]
