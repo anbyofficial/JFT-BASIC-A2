@@ -7862,5 +7862,32 @@
     ],
     "answer": "a",
     "explanation": "Ketika seseorang meminta bantuan 「〜てくれませんか」 dan kita ingin menyanggupinya, ungkapan yang tepat adalah 「いいですよ」 (Boleh / Tentu saja)."
+  },
+  {
+    "id": 1786264448715,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "店員:「ご注文はお決まりですか。」\n客:「はい、これとこれをお願いします。それから、お水も（   ）。」",
+    "question": "",
+    "options": [
+      {
+        "id": "a",
+        "text": "ください"
+      },
+      {
+        "id": "b",
+        "text": "あげます"
+      },
+      {
+        "id": "c",
+        "text": "あります"
+      },
+      {
+        "id": "d",
+        "text": "飲んでいます"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Saat meminta/memesan sesuatu di toko atau restoran, ungkapan yang umum digunakan adalah 「〜をください」 (Tolong berikan ... / Saya minta ...)."
   }
 ]
