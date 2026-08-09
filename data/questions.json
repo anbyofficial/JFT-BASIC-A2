@@ -6434,5 +6434,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan aktivitas bersepeda, yang dalam bahasa Jepang disebut サイクリング (Saikuringu).",
     "image": "images/img_1786249479545.png"
+  },
+  {
+    "id": 1786249913543,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "肉を焼いて、（   ）をつけて食べます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "たれ"
+      },
+      {
+        "id": "b",
+        "text": "ケチャップ"
+      },
+      {
+        "id": "c",
+        "text": "マヨネーズ"
+      },
+      {
+        "id": "d",
+        "text": "ジャム"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan botol saus bumbu seperti 焼肉のたれ (Yakiniku no tare), 中濃ソース (Chūnō sōsu), dan めんつゆ (Mentsuyu). Kata yang paling cocok untuk saus celup daging panggang adalah たれ (Tare).",
+    "image": "images/img_1786249913543.png"
   }
 ]
