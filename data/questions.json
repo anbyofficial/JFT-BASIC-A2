@@ -7313,5 +7313,32 @@
     ],
     "answer": "a",
     "explanation": "Pola kalimat sopan/keigo: 「お + Masu-stem + ください」. Maka kata kerja 入ります (hairimasu) diambil stem-nya saja yaitu 入り (hairi)."
+  },
+  {
+    "id": 1786258976884,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "ケーキが焼けました。おいしい（   ）、食べてみてください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "か"
+      },
+      {
+        "id": "b",
+        "text": "かどうか"
+      },
+      {
+        "id": "c",
+        "text": "のか"
+      },
+      {
+        "id": "d",
+        "text": "から"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pola kalimat 〜かどうか (apakah ... atau tidak) dipakai untuk pertanyaan tidak langsung tanpa kata tanya: おいしいかどうか (apakah enak atau tidak)."
   }
 ]
