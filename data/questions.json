@@ -8078,5 +8078,32 @@
     ],
     "answer": "b",
     "explanation": "Pola tata bahasa untuk menyatakan pengalaman \"Pernah melakukan...\" adalah 「Ta-form (Bentuk Lampau) + ことがあります」 -> 登ったことがあります."
+  },
+  {
+    "id": 1786265608072,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "薬を（   ）ほうがいいですよ。",
+    "options": [
+      {
+        "id": "a",
+        "text": "飲んだ"
+      },
+      {
+        "id": "b",
+        "text": "飲む"
+      },
+      {
+        "id": "c",
+        "text": "飲み"
+      },
+      {
+        "id": "d",
+        "text": "飲んで"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola tata bahasa untuk memberikan saran \"Sebaiknya...\" adalah 「Ta-form + ほうがいいです」 -> 飲んだほうがいいです."
   }
 ]
