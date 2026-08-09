@@ -6742,5 +6742,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan tangan yang sedang mengupas kulit buah pisang. Kata kerja mengupas kulit adalah 剥きます (Mukimasu) -> 剥いて (Muite).",
     "image": "images/img_1786252287304.png"
+  },
+  {
+    "id": 1786252411000,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "コロッケにソースを（   ）て食べます。",
+    "options": [
+      {
+        "id": "a",
+        "text": "かけ"
+      },
+      {
+        "id": "b",
+        "text": "いれ"
+      },
+      {
+        "id": "c",
+        "text": "つけ"
+      },
+      {
+        "id": "d",
+        "text": "まぜ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan seseorang sedang menyiramkan/menuangkan saus di atas makanan (kroket). Bahasa Jepang untuk menyiramkan/menuangkan saus ke atas makanan adalah ソースをかけます (Sōsu o kakemasu).",
+    "image": "images/img_1786252411000.png"
   }
 ]
