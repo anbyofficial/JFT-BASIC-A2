@@ -6518,5 +6518,33 @@
     "answer": "a",
     "explanation": "Gambar menunjukkan seorang anak perempuan yang sedang berjongkok. Bahasa Jepang untuk berjongkok adalah しゃがみます (Shagamimasu) -> しゃがんでいます (Shagande imasu).",
     "image": "images/img_1786250261142.png"
+  },
+  {
+    "id": 1786250450966,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "美容院で髪を（   ）もらいました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "きって"
+      },
+      {
+        "id": "b",
+        "text": "あらって"
+      },
+      {
+        "id": "c",
+        "text": "そめて"
+      },
+      {
+        "id": "d",
+        "text": "かわかして"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Gambar menunjukkan aktivitas memotong rambut di salon/barbershop. Bahasa Jepang untuk memotong adalah 切ります (Kirimasu) -> 切って (Kitte).",
+    "image": "images/img_1786250450966.png"
   }
 ]
