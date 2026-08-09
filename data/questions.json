@@ -7479,5 +7479,33 @@
     "answer": "b",
     "explanation": "Penjelasan (Explanation):\nGambar menunjukkan seseorang sedang jalan santai/berjalan-jalan di taman. Bahasa Jepang untuk jalan-jalan santai adalah さんぽします (Sanpo shimasu). (うんどうします = Berolahraga, おしゃべりします = Mengobrol, かいものします = Berbelanja)",
     "image": "images/img_1786260494015.png"
+  },
+  {
+    "id": 1786260737830,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "画像を見て、適切な言葉を選んでください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "かおをあらいます"
+      },
+      {
+        "id": "b",
+        "text": "ひげをそります"
+      },
+      {
+        "id": "c",
+        "text": "おけしょうします"
+      },
+      {
+        "id": "d",
+        "text": "みをはみがきます"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Gambar menunjukkan seorang wanita sedang menggunakan kosmetik/berdandan di depan cermin. Bahasa Jepang untuk berdandan/memakai makeup adalah おけしょうします (Okeshou shimasu). (かおをあらいます = Mencuci muka, ひげをそります = Mencukur kumis/jenggot).",
+    "image": "images/img_1786260737830.png"
   }
 ]
