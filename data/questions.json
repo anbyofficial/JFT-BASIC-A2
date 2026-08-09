@@ -7124,5 +7124,32 @@
     ],
     "answer": "a",
     "explanation": "Ungkapan untuk harga barang yang mahal adalah ねだんが高い (nedan ga takai)."
+  },
+  {
+    "id": 1786255959645,
+    "category": "vocabulary",
+    "type": "vocabulary",
+    "passage": "",
+    "question": "旅行の（   ）に、チョコレートをもらいました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "おみやげ"
+      },
+      {
+        "id": "b",
+        "text": "プレゼント"
+      },
+      {
+        "id": "c",
+        "text": "さくひん"
+      },
+      {
+        "id": "d",
+        "text": "おれい"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Oleh-oleh hasil dari perjalanan/wisata disebut おみやげ (omiyage)."
   }
 ]
