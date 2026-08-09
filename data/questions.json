@@ -8861,5 +8861,32 @@
     ],
     "answer": "a",
     "explanation": "Pola untuk menyatakan rencana/niat (\"Berniat untuk...\") rumusnya adalah 「Verb (Bentuk Kamus) + つもりです」 -> 休むつもりです."
+  },
+  {
+    "id": 1786286295686,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "明日は日曜日ですから、早く（   ）なくてもいいです。",
+    "options": [
+      {
+        "id": "a",
+        "text": "起き"
+      },
+      {
+        "id": "b",
+        "text": "起きる"
+      },
+      {
+        "id": "c",
+        "text": "起きて"
+      },
+      {
+        "id": "d",
+        "text": "起きた"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola untuk menyatakan tidak perlu melakukan sesuatu (\"Tidak harus...\") adalah 「Nai-form tanpa い + くてもいいです」. Kata 起きます bentuk negatifnya adalah 起きない. Hilangkan い-nya menjadi 起きな lalu sambung dengan くてもいいです -> 起きなくてもいいです. Maka bagian sebelum なくてもいいです adalah 起き."
   }
 ]
