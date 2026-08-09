@@ -7232,5 +7232,32 @@
     ],
     "answer": "a",
     "explanation": "Tata bahasa 〜かもしれない (mungkin) didahului oleh kata kerja bentuk kamus (普通形 / plain form), yaitu ふる (furu)."
+  },
+  {
+    "id": 1786258730909,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "国に帰ったら、日本語を教えるしごとを（   ）と思います。",
+    "options": [
+      {
+        "id": "a",
+        "text": "しよう"
+      },
+      {
+        "id": "b",
+        "text": "したら"
+      },
+      {
+        "id": "c",
+        "text": "します"
+      },
+      {
+        "id": "d",
+        "text": "して"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola kalimat 〜と思います (bermaksud/berencana) berpasangan dengan kata kerja bentuk maksud (意向形 / volitional form), yaitu しよう (shiyō)."
   }
 ]
