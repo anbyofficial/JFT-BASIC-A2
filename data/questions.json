@@ -8402,5 +8402,32 @@
     ],
     "answer": "a",
     "explanation": "Pola 「Te-form + から」 menyatakan urutan tindakan yang mutlak (A dulu baru B) -> 洗ってから (Setelah mencuci)."
+  },
+  {
+    "id": 1786266533893,
+    "category": "grammar",
+    "type": "grammar",
+    "passage": "",
+    "question": "誕生日に友達がケーキを（   ）くれました。",
+    "options": [
+      {
+        "id": "a",
+        "text": "作って"
+      },
+      {
+        "id": "b",
+        "text": "作る"
+      },
+      {
+        "id": "c",
+        "text": "作ります"
+      },
+      {
+        "id": "d",
+        "text": "作った"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola 「Te-form + くれます」 digunakan ketika orang lain melakukan kebaikan/tindakan untuk diri kita -> 作ってくれました (Dia telah membuatkan untuk saya)."
   }
 ]
