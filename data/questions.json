@@ -7286,5 +7286,32 @@
     ],
     "answer": "c",
     "explanation": "Pola kalimat 「Masu-stem + やすい」 menyatakan mudah dilakukan. 書き (kaki) + やすい (yasui) = mudah ditulis/enak dipakai menulis."
+  },
+  {
+    "id": 1786258907532,
+    "category": "conversation",
+    "type": "conversation",
+    "passage": "",
+    "question": "いらっしゃいませ。どうぞ お（   ）ください。",
+    "options": [
+      {
+        "id": "a",
+        "text": "入り"
+      },
+      {
+        "id": "b",
+        "text": "入って"
+      },
+      {
+        "id": "c",
+        "text": "入ろう"
+      },
+      {
+        "id": "d",
+        "text": "入る"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Pola kalimat sopan/keigo: 「お + Masu-stem + ください」. Maka kata kerja 入ります (hairimasu) diambil stem-nya saja yaitu 入り (hairi)."
   }
 ]
